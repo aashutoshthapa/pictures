@@ -1,0 +1,3515 @@
+{
+  "#202PRCLPQ": {
+    "members": {
+      "#2G89YG29": {
+        "signature": "fa52ec7f874b62a57ec5623e1ddd9e56869fbd6239cd8095b9277bf71511321f"
+      },
+      "#2G9RQYUQ": {
+        "signature": "fbba325afc71687372d42dba7edcda9ff05193762dbabf677959ee6730e0d83e"
+      },
+      "#2JQ9GV8PJ": {
+        "signature": "27eb498eafa84db951c38d36891d17f5be5268c8119e26f63cf02f5f669ad22d"
+      },
+      "#2U9J2RR9V": {
+        "signature": "4f43ce2954106d929ee3e9176178e46bdfdb037dca8e9dff6ea770a0dac5fcff"
+      },
+      "#2Y28RUGG0": {
+        "signature": "152669daa1d7f8d078fd802161f278f41fedf669a47cbea909d5bd0b665f9ee5"
+      },
+      "#2Y9C22CY": {
+        "signature": "38cadb8dcc9d8d8cfce96a9ab692ccf6f0056645c8c9bd3eca6e053016f6cb13"
+      },
+      "#800LPG222": {
+        "signature": "16a82202a4be1f7f7cce8e2a8710955a78131c839635b876018badb81cabc073"
+      },
+      "#82JJ0U9Q": {
+        "signature": "74310d67d4186ba27f974db1ab325adff8a13aec3869edfa531862f043af4b19"
+      },
+      "#8GPJ99CCU": {
+        "signature": "011c7e4facf3fe6d053bbd5893cd6cbbaadf96fd4edd3333dfa4131967a1daad"
+      },
+      "#8VRYJ9P8": {
+        "signature": "b9b117418f2dbcdbf8c2c1411956f6d21ad39c4d06903b2c6e782606dada67b2"
+      },
+      "#9CQY9U9P": {
+        "signature": "58bf9c67b036db5c040ce5e1c3f0220c66918ca5f6446055c0dc799842e0b86c"
+      },
+      "#9CUYPU2CU": {
+        "signature": "c24de670680f289ed88f5962d5c6dc98c21fb3e99ccb10c62719f9439109f412"
+      },
+      "#9GP20C8UC": {
+        "signature": "2a7838758505ba91a8c947b6b4e06de6373ae1adc8b9aed7115ea091425e35b6"
+      },
+      "#9PRUCQVV8": {
+        "signature": "65f63487117ce3283436ee4a6c33f95533e07f9f0aa6b048bda1d7082a863be7"
+      },
+      "#9QU9LLVPU": {
+        "signature": "522e5e6b611416fc0f21e035f7be78a6e9a1fb6e02d1fc507192b78b5513a4d9"
+      },
+      "#G8P900RVJ": {
+        "signature": "840a3bfcf99a947a766a7038ce6bf437aff8f6549930cb12bfc4bea5a346f34c"
+      },
+      "#G8VCY9CGP": {
+        "signature": "df22b830ae9e948e13294ef42b70e880fb7ff6e7d86a7cee6477cc35b3669e63"
+      },
+      "#GCCYU8Y9": {
+        "signature": "5288763c7726e7ec6f096bc424d4e0ff3ba4e61046337da8ddc1bf05873008fb"
+      },
+      "#GCJU9222C": {
+        "signature": "9d96fb3335df854e830b46f4cba6bf50a23af18bad6350f961fab498f16b068b"
+      },
+      "#GJR2V9CC8": {
+        "signature": "320345e8d4eb9b78319c87e8762e7691b5b94d1976cfdf6bc43fad95927a101c"
+      },
+      "#GLQV0LY0U": {
+        "signature": "bb4b19a84f881a1294d88dee57b58c63a782b7086b2bde9d46b6b32ed188458b"
+      },
+      "#GPC2VLGV": {
+        "signature": "226d886be8d283344683e817ca734f0c47f6679ffb9642d1760dae6348ef3fdb"
+      },
+      "#J80VY0Y0": {
+        "signature": "4fdff4ba8159f6cf0dd22bc932f4ffe9097ee6b21db296da5294bb50166bbb05"
+      },
+      "#L880QU0R8": {
+        "signature": "bff3e5feac42de4396717ee7531f571259b5ea8d7dd772f8d00c9fbc8b204194"
+      },
+      "#LCY9RUYUG": {
+        "signature": "4fc94b46fcb475a667ebe9bacb74a3c2b56aa46b0b0bcf7be830e076c2f9e90e"
+      },
+      "#LL9Q22YC9": {
+        "signature": "02d903dce7b8fecc98a7588c19d34c0427a44dabad9954fcf0f1889694c16887"
+      },
+      "#LLLJV2VG": {
+        "signature": "795197369df58671cc1d80d3ab0f73fbdef755775beb15b6e3d27ddb3c0e7e22"
+      },
+      "#LLYUUJJV2": {
+        "signature": "f7ae68543ecfab746b1ead8407b347238f7f3469ba0c22b6190d1cd14018d359"
+      },
+      "#LQGQ8Y9RR": {
+        "signature": "5e8979826cf23db1e6c971ac8a23fed3b2ded9018019d61d6c1387b713595428"
+      },
+      "#LYC0LLPJ": {
+        "signature": "76b15f67bae94c247a6066e54e6af744d11210f0ae8a0cff0548c22081b18587"
+      },
+      "#LYGRCRUGL": {
+        "signature": "1308020eefdb6207857820711cc982fc649eccbd53619bbc6da6620afe1a7a52"
+      },
+      "#P0QUC2JQ": {
+        "signature": "c1b316abd160775799ebd78d1e8c0b8afd80061ab682d440f9d85dec95ad53eb"
+      },
+      "#PLRCJY09Q": {
+        "signature": "c59251cdcf6e8094bb3b5f858d9c11a54fad1d3e59672748d1270e6ca44336b0"
+      },
+      "#QG9UQ0VJV": {
+        "signature": "df3421f4299633c6d25853868512184e9d37faa97f3058ec69a985bc6314b43f"
+      },
+      "#QJJ0V2LQ0": {
+        "signature": "e2703db956d794cacf674c89ea70ccad8e03ae1ba2abf8a4e397cddd7b6014a9"
+      },
+      "#QJYRCLCCY": {
+        "signature": "fae9c91e1b6793581c3c21b6a68857b9b22177a3aa1e700325aca0f4a8c0746d"
+      },
+      "#QLVVPQ2JQ": {
+        "signature": "fa47a8c0d19660776be62953847f9abafb0c40c2023434f8c266c417565b2d54"
+      },
+      "#QQVJV2CJ9": {
+        "signature": "ca10b54a78780f7881dab6a34994a13903203da17f7d94f2eb51d96fc3f0bac3"
+      },
+      "#QR2P00LPC": {
+        "signature": "4aeaddba2ffb7d92e133d3b54aeb5aca75f01172ee4c24ee3bf4f9cb32d414f7"
+      },
+      "#QY0CQ0GQ0": {
+        "signature": "169c915dff7bbe29fd2d462eca01ffe6e9c2a8d0f68c2ebc32fab2d73f509b1e"
+      },
+      "#RR2P0908": {
+        "signature": "53529c6da7eee5b0c2447f658addd9c029dd43d96de3f70ef52c166c340e4eae"
+      },
+      "#RUYRCJPU": {
+        "signature": "61bbc687538f337a5e53a3ba1b32ebf01413f4a1c2807a1f2f3b3ebe0c53e48a"
+      },
+      "#VJCLUPYC": {
+        "signature": "54b71c9c25ad972232b413c225dbae1f3ad38ae6854770ac15a89d5d1b4b0879"
+      },
+      "#Y9Y99UQGJ": {
+        "signature": "880000325b07beae3ca655e34037ce6e0841ce8102d272d1dbbf53057e305208"
+      },
+      "#YLLC980J2": {
+        "signature": "73bb23207126b593d9869342404e1d88a33069770802e9adeabb46080a243565"
+      },
+      "#YVG0JJY9U": {
+        "signature": "1b4f8a501ed388f39d896483f486b855d817180437f345ca6ed027b48ebae223"
+      }
+    }
+  },
+  "#20CR09PLQ": {
+    "members": {
+      "#2CPPRJYUQ": {
+        "signature": "eae42771b3ae476e2ed0cf7e9fee483b6e133f09fa3bf726b8b59bc1ebd56e50"
+      },
+      "#2JCLQYVPV": {
+        "signature": "6c3b5e6e4040c5316b4fdf4c69f870e64035a38a5342cb98c16532c4285632d4"
+      },
+      "#2PL9L9GJQ": {
+        "signature": "78fe6e656f9ef202d341f650622865e26ac94cd171d06f49073dd3542e3101c8"
+      },
+      "#2QPY2YUYQ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#8JU8V9L08": {
+        "signature": "2a624703d3806745982fc3223d6245bbc1314443e77ba575771cccdc7db9eb66"
+      },
+      "#8PUY9P890": {
+        "signature": "c4d391672ed25fb17b45522d277be0b263cc20327592f60134b986432aea7053"
+      },
+      "#8PY0Y0QL8": {
+        "signature": "c2b200973e8cd65e10e9ef1f8673cfce1704cbea9c6a7921c44a8af551d546ff"
+      },
+      "#8Q9L80YU9": {
+        "signature": "6000ead10a2c4370e72928e3a8774d98c9a334b1597fea44b74e56129ba2621c"
+      },
+      "#8RLY29C0V": {
+        "signature": "c12ad995f32bce326d4bfc20a2a7cffb2919a82baa8fd21f9d1915dd7d7aa695"
+      },
+      "#908LLLCP": {
+        "signature": "bbdbec73deb007538612449d50b8794bd2055a72693b70aa0af0172044a7117f"
+      },
+      "#92UYJ8CVJ": {
+        "signature": "eea7e3e9df6a22181079116d25424d5b3466e9ed04a93302fac09cf732edd712"
+      },
+      "#9CL9GYYR9": {
+        "signature": "3c114a73fbd0d69fe7f3ed38a9bd4e593e1f192f6f4b5e48b7bb95e02accc09d"
+      },
+      "#9CYYRGUU9": {
+        "signature": "9e46065f082492735c16d8384c82328a355f0ef4c0c76f02cc43ae008f3cd848"
+      },
+      "#9JLGRLUUL": {
+        "signature": "d6a7a7de37af2b79f157e907f76b8697021d781eb9cc194e4c7afbc0ca6ac58d"
+      },
+      "#9U2QJ9G0Q": {
+        "signature": "b2a7c4cc446379cb238e55030c67ddc00765c5ceb7140e2de18da5c4ffc52615"
+      },
+      "#GGJPC88CU": {
+        "signature": "00715e2ce71bed9f4796909ec4bcd3883f135a0517bf9cb0d9355799f9ffd4f6"
+      },
+      "#GPRGLRV9L": {
+        "signature": "c8baf31e3e33d8e96dfa15a776c6a856f2c828b12df263f7c29031164f5be51f"
+      },
+      "#L0C92C280": {
+        "signature": "6b431216b1eef90eae42d4d3df383269636c0a0fec73a7ec02a26c20e04a8910"
+      },
+      "#L882PRUVQ": {
+        "signature": "9a1c4307a517e60b4a919ea1e286a3ece068441ec8f1c625603a31d9793e79c7"
+      },
+      "#LGV0R092L": {
+        "signature": "5b0e7e7e9c946ffb9882417b52cf4c6eef70211ddd7bf07d847eb3c251494f30"
+      },
+      "#LQR0RQGJG": {
+        "signature": "11756177d2a29bdbb7301ff6b52d7d460275f1986fce478c64d9a7b2cbeae080"
+      },
+      "#LVY8QU2VC": {
+        "signature": "8d58db27acd5478611eed12ecf588a38ec58d788f84424179eca1e1775c75504"
+      },
+      "#LYGJQV02J": {
+        "signature": "5085bb8c6f3f55bf0e6ec524a2befaa19d83e024b51d652dd5bf1274f8ea7a0f"
+      },
+      "#P00YRLLGQ": {
+        "signature": "0508df06af3d6e5a749cfe6ab2b97e236e67c80dbde3c7ebc29bf796acbf9aef"
+      },
+      "#P28VPUL90": {
+        "signature": "c06c0f6ff5e86d67b6dc19b50436022f99fc75daca477891f73c183bef17d8e2"
+      },
+      "#P2V80VVJ2": {
+        "signature": "ff6b82fd8ad59ff6857ea94e9974ed1ffd5a3cf783228c283ba8dea2c31fff40"
+      },
+      "#P8RPUY8LV": {
+        "signature": "022f209836bb2dc8ecdac60480812b3b886480100aca2e9c34d989d5f46b040d"
+      },
+      "#PG9QPGUYL": {
+        "signature": "7b5c50a3fd175f41036e179e16a77bb776320ee9a92814303c73e275497d6334"
+      },
+      "#PPY8Q9RVU": {
+        "signature": "3c15bb6879a138be98731ca6077fd8fcc2580bf6d06f4cc950e8d82651bf4978"
+      },
+      "#PQGGJLQQG": {
+        "signature": "c4a0f01ccf117bdeb117e50f289d1931fa38c5ec8a74e0c9d0aeed536d6e1773"
+      },
+      "#PU9R090PR": {
+        "signature": "25c4d5f791d0e7b4c869feb672ab2ae085d7573d47f120087c60d7d6c4dbd809"
+      },
+      "#Q2UCCLQC9": {
+        "signature": "f57b8c7cd6ee2609b1dd528076fd1eb656e5243e5d6eed8ee3ec73d330169f1b"
+      },
+      "#Q2V802R8L": {
+        "signature": "d3bdafea42ccabb999114b6cb43323d7f98181b364a3fc8c232a017977c69373"
+      },
+      "#QPVP20P8L": {
+        "signature": "b243a1fce835dc7f5e6613f02470dd4feaf9a645dc77b24cb0e87b9a3c86f02b"
+      },
+      "#Y0LGQGC2V": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#Y0PLR8CG9": {
+        "signature": "de8b9bf3cd00d709c8b07c5b4dda5e8c1aa3025c380ca541c629bc8bc2cd899d"
+      },
+      "#YPYQ02RP9": {
+        "signature": "2ec638f43cc981af9df466b3fa2637a8751df49a504812d09b39bc97689cc354"
+      }
+    }
+  },
+  "#288LR0LQJ": {
+    "members": {
+      "#29890J99": {
+        "signature": "32df880f1af87063cfe3a90c3873049cb16db139f5ce65f36ffd359b235ded42"
+      },
+      "#2LR2G9VQV": {
+        "signature": "a18d4625a1d8994c4beb2a630027a33d21445f908467b41921e5af58cb81a1e6"
+      },
+      "#2PUY8JUQQ": {
+        "signature": "2dd69ef3ee3d64784d71c8d3dbafba4bb16dd77b7e314edf294b1fd338ce7575"
+      },
+      "#8LUP2JRRJ": {
+        "signature": "e5c7504c29ff26344552a1762397f3b5019c9348fdc9fa1fa7764675d7229839"
+      },
+      "#8VQP8RY0C": {
+        "signature": "d794f5a15e033495d9f370a363f26dd9df3d50049cf56da532924e2c8a02ce31"
+      },
+      "#LRC998PVR": {
+        "signature": "6ca1e183682507081bc320a791703f86bcce03cda2a86831509ae30896666a54"
+      },
+      "#LY2JLCYR9": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#PG9JJL9JQ": {
+        "signature": "f1f81d308c72511f30488a1ccdf0bda98d4a1297002352f0dcf989171d81779b"
+      },
+      "#PU9QQLC2C": {
+        "signature": "2634bd2039117f04588de6b5ee807ebe60852b759d7fd3303a60c5a0ec67908c"
+      },
+      "#Q0YC9VPCQ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#Q922PYGUQ": {
+        "signature": "7fb6bb8af1c3f554a5b1ed0567a13504a60258aeb564ef9b905e622bf8bd9509"
+      },
+      "#VQJPL9P2": {
+        "signature": "3466fea32e1fd4abb4c663e27594d28336557b166eb227563d7f89f753d4101d"
+      },
+      "#VRJYVV0G": {
+        "signature": "55874acd9d9a3cb61489c5201573b2bf1d4cfb2378c519264c77b5c3e0722b02"
+      },
+      "#Y89R9PGGU": {
+        "signature": "be281b8f115252c72be1b6221c76d5d939390e18f838c8ada8de0e753ffcdc7f"
+      }
+    }
+  },
+  "#28UYR0CVU": {
+    "members": {
+      "#20LJ9GCRP": {
+        "signature": "a67804710dc339a7a00306609a762533a3d9f51239b85903a59b78ed4fcd1402"
+      },
+      "#222Y9Q0VC": {
+        "signature": "36420360b431dc26cbe1ab251a3f56d99abf5f48137107f3c35b0cd0da88c5d6"
+      },
+      "#28YL2G9QR": {
+        "signature": "4c41bacd60b331fa2b3cce6972df1b76d5b74c3c9bf3a5e9d9f645ef0f7188dc"
+      },
+      "#29R2UVPL": {
+        "signature": "8358f973763a4df8f89d4c134053f46463edb275c50a5d656bae85dec4fe42b0"
+      },
+      "#2GYGQ829": {
+        "signature": "7190262a5d3dfc188013ca3868c3a12aac4e3b8359991129811d581f4469d6cd"
+      },
+      "#2QJ0QYJQY": {
+        "signature": "c400b7d79e9d68d9071840757d7339952107feb808949b05ac94d6c249d8671e"
+      },
+      "#2VRR29P8L": {
+        "signature": "33dc7cfda9997a070a1e3f25405b9be9da9d24c76fa22f9d6d883bdcdd089320"
+      },
+      "#2YU29VJJ": {
+        "signature": "35d9559426182a15554fccf10604d95dc8b24a11b1255864c8c327cab4b23562"
+      },
+      "#2YV290GLL": {
+        "signature": "9f634bf6449d93e423fb8739995b1091def852003276bea1695d2c325faf878f"
+      },
+      "#800RG0CRP": {
+        "signature": "db85817fd246acf9354a36656cf96530c9661ca6e7bc5897dc0786a5984221b9"
+      },
+      "#82Y9JPPPY": {
+        "signature": "eba4fd547363fde5409fa43031cd6df0a33e72d39d9811271016863a92f59e33"
+      },
+      "#8CQ9000G": {
+        "signature": "49728ce33c2eadc4fb0c9b01ab939835ac0af34007e4350769df6d952250e0bd"
+      },
+      "#8GPRGURLV": {
+        "signature": "6d6266be953b1ea979319b9eda4c2484ce4933676b3ba7c165faba8e7fe07361"
+      },
+      "#8PGYC8J80": {
+        "signature": "f0f44835a243f8f16979afdc18d02ed7b821321b523220d5f43700dfc3ee3a60"
+      },
+      "#8RRG0LJR2": {
+        "signature": "7d976ec6f06c66ae8da033fb06415e2f5c4f9e2520d3e5c2c29e733c83ceffc7"
+      },
+      "#8UY0RYQP": {
+        "signature": "76af03ab59e6f38a7bb1922289f2d4a9c90039d59e2f2104dc60be6a38705e2d"
+      },
+      "#988GQLY90": {
+        "signature": "74e432faabb62534e85484e92eeaa4249ecac339f81c01a5a4e9a52f4f5c96c4"
+      },
+      "#98GRJJCL": {
+        "signature": "01ce78361b295ad2f3872a585e3b50b74f41b1026769541bcab67b08abd1ab5f"
+      },
+      "#99VRRGJ8": {
+        "signature": "7303aab6029af10d8d49dd7c5e1d7659c8226a1b398b9ae537391a340a273103"
+      },
+      "#9JP2Y2U08": {
+        "signature": "0a7f1231e4f728aa5240c7ba8e9b7872479adfe1acadecc1158f6d4e940faf53"
+      },
+      "#9PG2CUGY": {
+        "signature": "7ebc785fcce22958870df1449dec6136aae9cc02632f14a98ccc1dffa2e85697"
+      },
+      "#9U0CC8YC0": {
+        "signature": "078e589d6a52a4e886c6330fea22368dcccc6b18656241e9b60bf9e50abc9a89"
+      },
+      "#9U8JUUL0": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#9VJQYVP9U": {
+        "signature": "1074b982cd353727a2f2455cb525077d910ab064b86efd44eceb92523c1f392c"
+      },
+      "#CY9CGJJR": {
+        "signature": "cc103d50f8edc99ca7881752d0f18fe6394675fa738e4af311c3f825221d5475"
+      },
+      "#G8UUUJCYQ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#GGLJR88G": {
+        "signature": "27717d0d1e6b8a37fcec6d05cf590226017fd379ed540ab86f33ad90de75105b"
+      },
+      "#GPYVP29LU": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#J9VV89QV": {
+        "signature": "f75bc9e8ab53cc629818a549ed5663ab104563b1734fc5dfbd9789994d39f90d"
+      },
+      "#JY20JJPL": {
+        "signature": "a4c4bf06f6bfffaf4d6dce61d0c2dc434c7f51f7600a967148f9a1ded26b15d8"
+      },
+      "#L0CJ0Y29C": {
+        "signature": "20e43b016a8047c1a8bf09a42ec4731b5921af0b857ae9bbd42704eb4586d0f7"
+      },
+      "#L8RCUPL8": {
+        "signature": "0067aa2b297654d94d19f75ead72cbe6b80dad2253e59700da99318c4c925871"
+      },
+      "#L9LP9R2": {
+        "signature": "b92b092006b5860f4e7aea18f2c7448b959e20899fd72eb678836872cb7acc1b"
+      },
+      "#LPJ02PGJ": {
+        "signature": "0ed0a257959490a94c765c6ef82ac2d6f553c4e56a07e660c1fb168e3a682818"
+      },
+      "#LPL2QRL92": {
+        "signature": "1a7bea62867cb673e798f43884c4d64308efc4843e484d0a5e420ac3bb6cd5b5"
+      },
+      "#LYG0RU8V": {
+        "signature": "b9cdc2a59afcf2920ba94b23c1a0d848bcb925c7b671b7808de4e0892812fe81"
+      },
+      "#P98Q9JPG": {
+        "signature": "ec48774644a97da2a4fdbd80fe8d537c0728f48301a28680a82482976226cc32"
+      },
+      "#PGPQLUCCU": {
+        "signature": "40109b40339fc66e296056fea1a75a2130447fe610434a9f84c235b11ff695ad"
+      },
+      "#PR89GCRYL": {
+        "signature": "8e4eccf864ac5d2a61574f280fb8c8206d50c15bf53e7abf7c1234ad6796be12"
+      },
+      "#PU82LPGGP": {
+        "signature": "e7c13f56e75ee31b939955fcb69928e38efd24b8b68db4ddcd72e008f29bbeef"
+      },
+      "#PVJUVY2L": {
+        "signature": "71c650b67d47159c84a3ff0097adcfebd7f9005120efed57249b6c03fe9cc8c6"
+      },
+      "#Q82JLLJ09": {
+        "signature": "8e174adba982ff644c78d7e7238326df75673f8952454ba4060e822c2acfb2fc"
+      },
+      "#QCGC9UVU": {
+        "signature": "7c9632ed23691f5c670bb83e2a13be75d6d2a8a8c05e7520e26bd92a459169be"
+      },
+      "#QUV88J9GJ": {
+        "signature": "d9eae33cccff6f01b5674f3b5bcadab5b578194462caa3752d7fec8bb586088b"
+      },
+      "#R28LQJG8": {
+        "signature": "ab00539fa9ab0610cef2e8d1d7cb0ff8494ffdc9ccbd7c61c7ebb7195a8f8660"
+      },
+      "#RY9UR998": {
+        "signature": "b62c5cb7360ca06a201847fdcc43461164284982786e95f937a2ce08ba4c110a"
+      },
+      "#U0Y0GQVU": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#Y9CJRV92V": {
+        "signature": "9ba812860a536e155f8f0694a9029cff2b621aa75b66e97ab4afa647e5e9e5c8"
+      },
+      "#YLJRJRJ88": {
+        "signature": "604d48c750be07c0554d6914b12814b6e603398371ffd7433c97df1ef5b32e31"
+      },
+      "#YQVPP0YL": {
+        "signature": "12cb1b79c42e71e0b34de46e65945493436bc313fbf1838b671e2c99edef175c"
+      }
+    }
+  },
+  "#2C08JQYRQ": {
+    "members": {
+      "#209PUJR29": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#2RYCLRP28": {
+        "signature": "1eaebad45d80a3208a74b35ed80814267dcb835d9cb385748a9a87d0442d1ff2"
+      },
+      "#822YLRG2": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#9GUCLPP9Y": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#9UJR2ULLV": {
+        "signature": "50bf7360edeb259161b60606447e633baee1f5c0cf910895ac5ad864f8e458eb"
+      },
+      "#9UV0V88PG": {
+        "signature": "4e47dd66feb41960453171d89a0e8e9e150d17dd2549f47bf9d6ffedd84d30c2"
+      },
+      "#G0VUVPL2L": {
+        "signature": "79efb64b5ba71a44e3839946b9a76dc2920691e9a5aa1067265df1dee76eebe9"
+      },
+      "#GRJP02JQ9": {
+        "signature": "0ac0dc6d83f5136d5a1ea55285b78fbc05e3260b4e93d923bda96cc67f892ec3"
+      },
+      "#GU0G9PVPY": {
+        "signature": "4791a827b5a8b477528b50bb0d6c65cd3070a7d1acfe941063562c169703fc54"
+      },
+      "#GYLL9V80U": {
+        "signature": "308444e4be6589b63d8f0a961add3b0aff82eb6682d5eb383f43adad941f9233"
+      },
+      "#L9VVY09Q2": {
+        "signature": "0441d995f4f80aba6b612f58b05f8d14a015a2efc81585c34e3d00314ff4a509"
+      },
+      "#PCQJ9GPC": {
+        "signature": "6a11bdfcc1e463166d7c9f712c0c7a3845992e7028dd9a7add2cbeb118e240de"
+      },
+      "#QRRPQCPUV": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#YPC8RGLC0": {
+        "signature": "2e47de2e395bf2ed9ff2dda9405645c8fec101533aae56adc9a806ec6eefa273"
+      },
+      "#YU0URVVVY": {
+        "signature": "8faa288e8c0be5987747eeb32409f13f764e1e63d68638aa94d93ad9dea284cc"
+      }
+    }
+  },
+  "#2C9JJJJCY": {
+    "members": {
+      "#20LJ9JUL9": {
+        "signature": "875207f312e2b0e07c63ec90a32ab4807e226ace030d5cb4736914971b5593db"
+      },
+      "#2282R0PJG": {
+        "signature": "3c7329e76d190c790c44b80ed7a59b837735c1c1d07c4f0e173f75b3f6ffd80d"
+      },
+      "#2JVJVJ0LQ": {
+        "signature": "fe8589c6fee4c21866710ac84cc02e912c7312a4cd41e8662b84579faa9f12a2"
+      },
+      "#2JYUP0VP0": {
+        "signature": "d2a6be125a17f9071ac5cde381a52073b93ea26b255d740ca8597976c278e9d3"
+      },
+      "#2RYLG28C9": {
+        "signature": "ede67c5f17d9ca6b55382a2b8d96d01022bfae8f155d6abbcd2319569faa9690"
+      },
+      "#2V9RRJYYG": {
+        "signature": "1c5bafa0c58ac4f679de73f05c36cfb4850ff759604c8e49a4db6a9110ebc8c9"
+      },
+      "#2YC0LRCCJ": {
+        "signature": "18585abcd6574af8be7db3f0dd4057b0d1415d775c95f9873168bbdbc2c56b59"
+      },
+      "#80PV2QPJP": {
+        "signature": "300ffbef7232499714dc0b2d212e4f10e892f8bdd2b0a0f42aca3ab84bfa9bd2"
+      },
+      "#8C2JJCLV2": {
+        "signature": "0bdbf04cbcc7ad36aa29fa142ce5d118671c9434a3c7f6ee4ea5e93656c7a737"
+      },
+      "#8CYYPJC2P": {
+        "signature": "3cc3306a98d58addfe59d6c7aef39812156314f5236a31fe8233b14cd18e3db1"
+      },
+      "#8P98V29P": {
+        "signature": "7e6cabcb9f40f999d633e525081c2ded6de2b56e1ade56828d1ac9db3879867f"
+      },
+      "#8YJQJQ2GR": {
+        "signature": "77b23182e6dbe30cda1d3a405c21a0962ed9d049ed9242c6868d9ab48e838c3b"
+      },
+      "#900G89JLV": {
+        "signature": "2ee592874deee65be3d9965e119477c233e11792da23044f4b75c37736fae1f9"
+      },
+      "#9QUYGRG9P": {
+        "signature": "a64eb84dd0f82161e4fa57ad68f9dca3b2fe6713e66676e78ad9dc2a94c4547f"
+      },
+      "#9UL9GR2QJ": {
+        "signature": "8e0ac7105acc81e3a9d2e3430b35989bfce75a6b4a45cb5e3e768f63f1c67cc2"
+      },
+      "#9VC8GLU09": {
+        "signature": "0c7972e8d07603b8c9e997b9642d3fea05526215bed1fe27a6a1d31a44c366d5"
+      },
+      "#9Y8LQ9U8Q": {
+        "signature": "13113928780cbddc8bdaf299665456f67742b17f5d7d3501b1e41d5238c1cd36"
+      },
+      "#JLU8YQR": {
+        "signature": "4ef236e7ba34f618d3b4a7e75f950f357f8d4baa79b5adfc888dc531343e7bb8"
+      },
+      "#L2LJ2VR20": {
+        "signature": "08df8009d5279c70ffea5f27c0d8987ed2d5a3dd764fd5013ce5ae508f5eebb4"
+      },
+      "#L2YP8LGG0": {
+        "signature": "d700f90ab6d2bf5119c91c2cd8b24573b607de0dfa12328fb965067c9ca5fa54"
+      },
+      "#L98VG0098": {
+        "signature": "5d41ded355b835841b94d09a3a1c2e1f5c71d1d041008d67a1b4f8cc427647d2"
+      },
+      "#L9RCR9CCU": {
+        "signature": "208ee4a93d24254fd74ec3efe9d6572d5d0773d6090987d11570cb6fccec155a"
+      },
+      "#LPU9VJC8L": {
+        "signature": "07494c2e9ae859897cd82c4b27fdeab329ace01ed6af30381701523c19df3625"
+      },
+      "#LQPRUGLRU": {
+        "signature": "a1de1a87b9f874e25ad2cf0061fa15ecafe26e1003fcaa14728105e3f471b8da"
+      },
+      "#LVP8VCC9": {
+        "signature": "5921b79d383308f108b353b32aebf57752fd5341fe5dd11112d02cfe3b9542a0"
+      },
+      "#P9JR8RVJ": {
+        "signature": "6c40f17671d30c727188860f950436c7c244f38f8eaa8e6a44e58a9040a4afad"
+      },
+      "#P9LUPRR0G": {
+        "signature": "e56b4081abe8008ce04f62cb793f8f1d8b375606528aa161fa045c564b8946e3"
+      },
+      "#P9PGG2YGQ": {
+        "signature": "28786fe15930c2a998ba1cd113ba0afbc32cbc0ff54046b0c7ee92cc73591972"
+      },
+      "#P9U9GPVUJ": {
+        "signature": "271996c36848bcabf75d7e7b0d6dc361a1e2b4528b28f3f37a6f41ec512723e2"
+      },
+      "#PJYP9Q2C0": {
+        "signature": "4c6554d51d450f64a56afe8603cc1c380440576893fc850e7993b7e49b195adb"
+      },
+      "#PLCUUCQJ": {
+        "signature": "94f1431a1d91829df6372b93a4f6ae44aa3ee2f000dea998730cb8c21cc346e5"
+      },
+      "#PPQPCVV0U": {
+        "signature": "fac120cebf7b43435f11bd8d623ae82b413175d8a69c84115776ad8d5fbccdd9"
+      },
+      "#PPRQCVJ0U": {
+        "signature": "d0b3c0cbbc3351d3ac671ab9f1b18910d59a71bb0ed03cb89cc2eb70a3508999"
+      },
+      "#Q8C0UYYQL": {
+        "signature": "33f231f8743438151d55d74266ffe7d921d9c742c22ac8c3cf8421808ac54e06"
+      },
+      "#Q8QJ98Y9J": {
+        "signature": "c15142992ec8b02d3462edf17a81d7df7e39d26a9c1737602354aca44fc1ca46"
+      },
+      "#QP08QJCQV": {
+        "signature": "9b4d2b97cb9a67676f0e8b66294aee865afd7378d3fead3159e0cba720c5882f"
+      },
+      "#R90YGURL": {
+        "signature": "b9659aa156b7f23168dcde88e567453bb59c6c9335ac439fec1aa47cf44ab8d2"
+      },
+      "#VG8LPCPR": {
+        "signature": "9fe54138568f4ac3a55bdccdc5955d2f4a041a65e8ba900fd643e3b74d82e682"
+      },
+      "#Y2GVUQYUQ": {
+        "signature": "ede31098007cc254e538e8818527aceecdcbcca2a460f4218db3a2c17813c054"
+      },
+      "#Y9CC0RUQ": {
+        "signature": "6cf0640d7af66ed15bb9a094f7ab5283964155815a83a519d8bc764213ff2fd9"
+      },
+      "#YC292R08G": {
+        "signature": "25720508e36c38a345aae6b5ed2fb0e981cc98600d37f5ba24a33f05b6106f40"
+      },
+      "#YPPRV2GRG": {
+        "signature": "de479074a87e75bb500aa527232fcb2df63abd13f3159bde869c0bc05d1f9ca8"
+      },
+      "#YUQRURRLQ": {
+        "signature": "39cf0fa963363485b8b8b20ba71eb92a11e3ab175e34a0ea5ec758059c4d40cc"
+      },
+      "#YUYVVUJR0": {
+        "signature": "2ebae2be5a49e69ee69711a4e0415a8fe518863dd73e8d341acc1622ecb6e323"
+      }
+    }
+  },
+  "#2C9RGJ2J9": {
+    "members": {
+      "#20V02LPJ9": {
+        "signature": "9913f3dbd4fabd9daf088803c113290bd0b69fcc28ded99b6007d6487d2fe99c"
+      },
+      "#28QYY08Q": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#29088CCCG": {
+        "signature": "38cd6daec21290c73ad8017c04fd29be3e69b0ef2a8d90211314cfe699c87b63"
+      },
+      "#29R8GVPC2": {
+        "signature": "e9a526c079c62dad0c9305f4802ef357c73883f8621a544dc8c5df1365c91986"
+      },
+      "#2UGYV0UV2": {
+        "signature": "0e1144e9456bcf31648ca3d0f614fc8d5d7bef4d89fd8744e00684e2ed3991e9"
+      },
+      "#2URRGJRJ2": {
+        "signature": "25d8af7976b7ab0e2907234d941eb82f752f43e989232dc82de9ae8421517b50"
+      },
+      "#80VQRJCC0": {
+        "signature": "b6475d8530270cb4e9c8b45cb1f22417fc0b186dff49ddeed43c920616b84dce"
+      },
+      "#8LU2JY00": {
+        "signature": "ac4027324695ebbcd12b21f04a8a734edc1f8eb036bb0da4d44339b7b6c3da4e"
+      },
+      "#8VLRVC9R": {
+        "signature": "0011ce52f2cc35c4fd943d04668fc6d9c8965ed56435d33b05fd607b6c517df1"
+      },
+      "#9CUGVCCCR": {
+        "signature": "066a409523c4d7ece97af6491ec8a77bcece294c9e5f08c06de7fd8cdc4fbd38"
+      },
+      "#9QU88YRR2": {
+        "signature": "a41ddd03c6c6dec17ac42fb2f13131d4c382765aeae6271dd03624b3afc98569"
+      },
+      "#G8UP0G2L9": {
+        "signature": "29adbe247d1d1ca85641e9e02e7ee78b71f8509de847ffacce33dde4177aeb93"
+      },
+      "#GCPPJJ2CG": {
+        "signature": "d7f2db9105ddd729affc5b61662737c3988267651bd03cecfe3cd9fc34ced11e"
+      },
+      "#GGLPG2LLG": {
+        "signature": "ef198632cc75bc80946808c713dd7719d6484c9c2082cfbbde2c324ce5c2bb0b"
+      },
+      "#GPJRU9UU2": {
+        "signature": "2356d3fcf20704ee5eced803f4d1ff696f24b9c60809fb9af04da72fc8bfb925"
+      },
+      "#GQC90JR2Q": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#GU0U2C8PU": {
+        "signature": "d5a38aff9068ba653e5b97b29f2ccb5aa4bf786f6c2d6843c6d24ec4c6105e2a"
+      },
+      "#GYJUY9088": {
+        "signature": "0c2adea60dc7f0da115d03b826c623e4836c8379e09e9504c5f35a2aa164d129"
+      },
+      "#JGGQ0GG2": {
+        "signature": "f690b25df8c55735d55bbd520f44ea520d8d473366b4e05a2eea519851c786ba"
+      },
+      "#JJQ2LYLG": {
+        "signature": "70728006fa99b8203aa8f91333debaee601d0afcab4cfacf63933600ff58732f"
+      },
+      "#L9GP8PR8": {
+        "signature": "9114d955ce2d81c7c7fca261e56a86d5af5e88d46d959c6731845c2551c3768f"
+      },
+      "#LC90J0VC": {
+        "signature": "c1257a0357e30dc5817b814491211fd0c2ab07192d2e8bc6214976fb30973b03"
+      },
+      "#LCGRR9P2Y": {
+        "signature": "3916df0bdf2decfd45b2d6ad7a4e0f171103408bcd8d1dfe42bb1642b8a05c95"
+      },
+      "#LLYJ0L9JU": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#LQR90YJQJ": {
+        "signature": "ee223c67ea60ac4e211824d398e887dc2aa68ceee3387af562316685b0dcc667"
+      },
+      "#LYQG80J2L": {
+        "signature": "9ada712c4d2f16fd3039ffaefc5295acaa31960f8189f7c8507d6fd3f7438782"
+      },
+      "#P8LVV2LY": {
+        "signature": "96da910434b8db0535d79bfefb8add624c390ec0165fdb6f3ee0dbc92098582a"
+      },
+      "#PG09PYUQY": {
+        "signature": "d03f70772b225e86c5d3779b42c16947b9b38c7d8b9b0fe6f932d808dc74e60f"
+      },
+      "#PGR2CU0UR": {
+        "signature": "15968249ae05291999cff087f7a0a54d5ffef0460a44551992df91d48c4e9110"
+      },
+      "#PVLJLG90U": {
+        "signature": "dad00d0d2ce157709be39ea598bfb6b343579a6630be808332e727f80fd52936"
+      },
+      "#Q0JG9GLL2": {
+        "signature": "5fff128848107650ef3d16c9cb4497d33b6397a798a4ab1fe90ea4002f1c0b74"
+      },
+      "#Q9C0GPC0": {
+        "signature": "3c2dd5b347683d5e0d0d0f220cc7d1a6416e8f49bbca63d15b52e00af7545afe"
+      },
+      "#QCC982U2V": {
+        "signature": "3b918ad370b2cdbb4921d801e08c3ff4ab67192811c9f4e36ae794604ca7f31d"
+      },
+      "#QLGL89VVV": {
+        "signature": "9ebf1cab7669e9d6d6b5df9635ef650753e8f955bb348cf7de157bdb2602400f"
+      },
+      "#QLQ2JGVPR": {
+        "signature": "4e561c1ea167560e4673aaf2dcc88b58485824749e2a98e1e6039083a72aeb51"
+      },
+      "#QP02RYG2L": {
+        "signature": "e05f701bbe2c4d3b9f3e6586fe81667c1be609ec49aa00303b0922d9b929da2e"
+      },
+      "#QU0YJ88YG": {
+        "signature": "f72946c6d2d990c5dea6b99458b8136cbd5e34d7ccbad16a7f1989e308e99862"
+      },
+      "#UPQ0PPYP": {
+        "signature": "a0a63ab3731901aca075902cc188600a2f84d6e7bed1d5cab9932e683c86910c"
+      },
+      "#Y0J9Y82CP": {
+        "signature": "455f9ee57d4216f70ef2f6f4da9328c065386dd9edc7be5e024f4c7d4fbb092c"
+      },
+      "#YV200Q8J": {
+        "signature": "ef35f9664b7ee4f46cbe8b70516ff29ff50c52102880e5de0bac47f73edd3fd6"
+      },
+      "#YVRCLYJ0": {
+        "signature": "f7a91364510c8ca0431650b9807cb7c8a130e27cbccf146294329efba1bc3d29"
+      }
+    }
+  },
+  "#2G9J22R0P": {
+    "members": {
+      "#20QUCQRQY": {
+        "signature": "0a94aacfb6392428a2d1e297b614ed13c4d194f477b22cdd344fa4ad7e536634"
+      },
+      "#28GQU9V0": {
+        "signature": "24dfd03424a48847a55482aac6666f4d6a0be7f2b092187416ab4bf0696c0aba"
+      },
+      "#28R82CJQ9": {
+        "signature": "56ce2707bf2565d5bf521d07e61216a4711c06a416f77922295ed0e96c54942d"
+      },
+      "#2G2R2RUL": {
+        "signature": "51641522387d81e1da4035fd91ae7f31c6dcf1d2e902b36b33c733c1934d87d5"
+      },
+      "#2JQLRUY8G": {
+        "signature": "1a2efb86fa1fd9f079eb74391519d9c42fed1716a3be3350b883535c46012f18"
+      },
+      "#2LQP9082P": {
+        "signature": "3b42df58f09f3b5e64ed71c5d6160cbaebdaa2ba44faf861e91d0c3211e64bbd"
+      },
+      "#2Q0QYYGGL": {
+        "signature": "e21547b4e651004c548e5fab59bcad2bca01896c4d4c76611b41939c9500444f"
+      },
+      "#2R0GQ99CV": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#82CGYU22R": {
+        "signature": "aee82141062fadc8f6c54f58a8135fe74934f9291912f699916536e5a448c217"
+      },
+      "#8J9GUUG2G": {
+        "signature": "05c730fabb2c88e9f9b46c78fd4a4fcc03fda8a62ce814ff60c24ee38e508896"
+      },
+      "#8JQR80YVV": {
+        "signature": "baddfdb36f3040064d12847db4c6c1e6ff18d0926aa6c98d2b674709968ff76b"
+      },
+      "#8LC0Y2U9L": {
+        "signature": "69b14546cadefbd37233b23c0a980ea45f53011ac5b11f3c21e14caa9a80297a"
+      },
+      "#8Q22RY0G": {
+        "signature": "e8e4055e5628cdf91d7ec87faa2560e1ff0f9508089daeaddbee44361e351787"
+      },
+      "#98UU0GUY": {
+        "signature": "3b4c9ae96e3a66eaa301fdc3b51c5d6cfa5d401f1b9f5f4c7d98552a40bb5389"
+      },
+      "#9UVLYUVU9": {
+        "signature": "35030b88117db7c5d7de6d7fe87dcf8b35cb89169b0a695772b40169280eda5f"
+      },
+      "#9VLYJG8VQ": {
+        "signature": "74b8af9446560c410a6eba2707ed8f393451d789e826e669cab6f2ddbcbc135a"
+      },
+      "#9YULCURQ8": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#9YUPP2LC0": {
+        "signature": "340a2f864beccc66921d4c0b531f832dedd61f976d1c569ca1a1c536315011fc"
+      },
+      "#G88V00U8P": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#G9PGVGJRU": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#GLCR9LCU2": {
+        "signature": "3f997ad8fed2beb5f9160cf687682c7e2b866bb79b16b8b1d0bb6ef7c955247d"
+      },
+      "#GPP0V0Q92": {
+        "signature": "04d6f29be7cd28929cf41b9a362f6b90a7d0e482f494001b0d6bffa1fd71a4b2"
+      },
+      "#GPQVGYJYC": {
+        "signature": "e4ccb60cb14534e7a72cc033d82074c351c93c37cbfdcb458fc6ed174dbaec87"
+      },
+      "#GPYGVU92C": {
+        "signature": "7bf0bff841aa93659569b306468c016c3a65251d27688d985b18be25d1ff8ba7"
+      },
+      "#J2JJLYYY": {
+        "signature": "f06fce90ff28a38d222e3219cce805cc3e90b4f0c9801b927f4353d87abc5e83"
+      },
+      "#LCL9JRVU": {
+        "signature": "0b2dc5362f21597ecd922686735ec0075ac1585efd4fdc35a5fcc7f892b97846"
+      },
+      "#LLV2JP2CP": {
+        "signature": "07d0b3a38a2042d1a0daffc51269f5b59161957906dfea71b7719bfa6caacc70"
+      },
+      "#LQ0C29JLY": {
+        "signature": "44b1273fe1ed31933d443ab84db865bd0145adbdc2d5fc7490056730fb9a78f2"
+      },
+      "#LVYGJQGRP": {
+        "signature": "9455b1acd72261388f170d8d56395f71061b2e92999a87dc923d83d1107c017f"
+      },
+      "#LVYLQJVRJ": {
+        "signature": "0daa9b6e947330d6c1a50784d2127cd66e4ade60b5dd80c2e553f208f7554d30"
+      },
+      "#LY9R0PCJU": {
+        "signature": "b34e17c69b76ef431abf930ca6b6f14139725337c74a471e1fc4e038d69a525b"
+      },
+      "#LYQ8R90RU": {
+        "signature": "f3b8dcdd359cdbbd0af0bd622c99378f64cda16d5c23f19e83e2ff0dd9cd1a29"
+      },
+      "#PL0RCU9VV": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#PP8CLJC2G": {
+        "signature": "975a440e46abfe96ee732645a3662932887deeb768d15b17eaae0987ee114215"
+      },
+      "#Q2LCUV9P9": {
+        "signature": "fdfe82a0f9762d10a6b5b709285c04f6d3663c28acbf07da79a9809781bcc1d0"
+      },
+      "#Q80Q20LP0": {
+        "signature": "4f6ad3c8707979c909446a20e7eee1b45d8bd80cac79f758850c612ccdbb8a47"
+      },
+      "#Q8CCQUQL9": {
+        "signature": "2ac69514a41e16bc95497379b9326c526dba1d8daafe9a562e931c50f5a7f2e3"
+      },
+      "#QJLU0U0P": {
+        "signature": "99342cff1da0da1e7c4a624167b2346b1621d003c0d6b6fb275a6b0409ccd29a"
+      },
+      "#UYPCYUR": {
+        "signature": "ff137fbc1576f61b5cacc21a3a9e99de03180f8ba6dede899ad78277b0bacb42"
+      },
+      "#Y2L00Y9G": {
+        "signature": "edebad8ac44772ae01dfa18920f8253a5bb485d8d136f2185c00731c35a4525e"
+      },
+      "#Y2Q202JJJ": {
+        "signature": "cba5b5eaa36cd4eeabe280204f948173cd62adca7b776e2ceeb0e8fa97e397b9"
+      },
+      "#Y8RLVRJR": {
+        "signature": "6a841bb9d75b5769814b342cc933fa08511d8bb60a5e8b132a92e6907c216ea5"
+      },
+      "#Y9JPGRURQ": {
+        "signature": "b06678c07ba5cc7d5810685f05c7fdcd5216d1dbb3a50533d34e81b12780572f"
+      },
+      "#YC02JUPCV": {
+        "signature": "72cdf5db59c60dbfa9ebccd058f5cc862e6277332de8cfe183bb3110d68faf19"
+      },
+      "#YCQVPLR0G": {
+        "signature": "9d0a03898fd6657abaf3c997023936005e9a87ffafecd5511e95e3ab745fce68"
+      },
+      "#YCY08LR": {
+        "signature": "abd1f4f32633f054a6d8d605a04d8b0d3aea4ffd00e9c2f6bede931327174d0b"
+      }
+    }
+  },
+  "#2GG8Q0QCQ": {
+    "members": {
+      "#202RRL8RY": {
+        "signature": "01ba454d09616b26553284c83b2ef7beee52dc8701c0cf347360053ca4a4c74a"
+      },
+      "#20Y892YGU": {
+        "signature": "f9a1e1b31ba81103cc110f9309470194cddc1c493f5a9d13925d3831c9b99577"
+      },
+      "#22JLGVQUY": {
+        "signature": "7dc21365e384c9d028c7eb3aa1aa4e6dce042e9910a810d41444ce55310d5eaf"
+      },
+      "#29CJJ2QCQ": {
+        "signature": "cdb93ed99b8cc1cf5db47a8c79e1059747299a0b3e95d62464643a262f72de60"
+      },
+      "#2CL2CC9J": {
+        "signature": "f5c06f49f993830f741c7032dcba25632ca80f81fa7609d922d25a9e10e8499b"
+      },
+      "#2JUJCLVGJ": {
+        "signature": "bdac0dfc0063b4020f3e2ad8140b3b27a2e6dbfed2b48457832241c8ff540dbf"
+      },
+      "#2LVVUGJQU": {
+        "signature": "eae73ceff109c7fb6b26b011c65446657ac73b3595c9802baed61517f41c58a1"
+      },
+      "#2V99JRPY0": {
+        "signature": "624c952fa209116547a691028793b66fe09a75012eee8078e5fb836bb8c43f46"
+      },
+      "#2VR82YLGR": {
+        "signature": "7c60390034bf62ccc13a1f91ad3139a715bd3a0f90bad1098500ecd29a754971"
+      },
+      "#2VRC2CPCJ": {
+        "signature": "983f325f2b62db0e1897863524ce90e2359d6b7cbcf3b32fbdc40d43681a9ffe"
+      },
+      "#80GGYYPC": {
+        "signature": "2d87088c720760e1d5c45372cb5ddd759367c094764f265665393f88ea22407f"
+      },
+      "#8CJ8PCG0U": {
+        "signature": "7c3d1fe9719141970d1c72262c3a15c7310786223ad24a656ce2027ae2c5b526"
+      },
+      "#8GGP8U8PC": {
+        "signature": "5082d79327dd2d23553194f06582c7c9351de0e394d94e8c862299afb2e9671c"
+      },
+      "#8PL82C8C8": {
+        "signature": "f7fa4f813fd717d5189d06f719c3cd04f481a79fdfa5187f0181d4332320964c"
+      },
+      "#90YY22C9U": {
+        "signature": "2c3f64c9e9185dd3d3123ed0dc68cd70db9297eeadf95e8b51c7a29a5f233a2b"
+      },
+      "#9GQPP2QRL": {
+        "signature": "422e4de7eefb9bf9e6847637dbf401f4be5f4d42422bad8b7e3b78ec19d09e33"
+      },
+      "#9JRLVGG8G": {
+        "signature": "2b45c9ccc81cc49c81bbdea2a67a9567064c1627873b7147982c12f88e380907"
+      },
+      "#9Q0RGYU8": {
+        "signature": "fdc65076e69046ae6b3614492fc7e12145f95a52ca19d08ee70b3235b6d8fe9e"
+      },
+      "#9QCU9Q2GQ": {
+        "signature": "cd429027ce7d89444981120c2afea88b6c4fb0e5dd1b8f1eac37935bd42d4ba8"
+      },
+      "#9UUJY20V": {
+        "signature": "8e22f5da9496b3cac250a37afa3d618b3d25e88f185cdc85588b36c986a6a980"
+      },
+      "#G8R0U0PYP": {
+        "signature": "e41f0c076273153846c652742d6aaafc163f61cb4e4a55f74b8b3695b41e2880"
+      },
+      "#J9V8L0C": {
+        "signature": "06d9b4ab419b6946c80508357621b79a10f0fba958311c5bb3af60eb5d5f9fad"
+      },
+      "#L0RPV8VPU": {
+        "signature": "78eac73f6010de1aec35f959d4f5618686ae133d442af0632cdb6b6d578091fe"
+      },
+      "#L82UJ82CR": {
+        "signature": "a24da63c5da76ef9172b7cba54e942467be8cee1f52211fa4b0e4f074571a2a8"
+      },
+      "#LCPQJVC9P": {
+        "signature": "18ab0439a867cb29c936054413d38591fde7c7e7bed0e55f1064929508c102bc"
+      },
+      "#LLUGJ999J": {
+        "signature": "0ce5562344b2bac0436705c62b1bed63c610154857f3b2ecfa849e9c272773ab"
+      },
+      "#PRVV29J0J": {
+        "signature": "49d6d1b852996430cab6d5ed2321f096bb67552cd722ccae7beb670bc15a4b19"
+      },
+      "#PU9RQPVY": {
+        "signature": "41dd7d9176050426fa3cb52c8793bd67b1b82abac9d7aea423b4869bd15c3e1f"
+      },
+      "#PUP82L8Y": {
+        "signature": "b07762780b82aaab3a22f0bc51ff677c7bb6e84310c71236736b6c75a9f7ed47"
+      },
+      "#Q0PL228U9": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#Q28CCVYJY": {
+        "signature": "0c5f20c6402cd85ee2ed644a6b4288dddd21b32786feee98d87402d61e27cf91"
+      },
+      "#Q9RUQCVL": {
+        "signature": "76412e06fe51337035f8db936835c6659b7c6cb6d712345b32480a6e16fbd22f"
+      },
+      "#QPCY880": {
+        "signature": "324d5ef589b605dc5da568f16b76479a0f210efe1a7b43d69fd503d1d0572214"
+      },
+      "#QUVJUGCG2": {
+        "signature": "30cbeb54bcba20565e90fb080c97b90889bd416ff741d1a2e35a18162a37f67a"
+      },
+      "#UJJG09PC": {
+        "signature": "5c4fc65bad83862399e29c26f92f9ab69d5c411fdf058a7eedae0ad8aed28550"
+      },
+      "#UUGPG9UV": {
+        "signature": "c99bd6aa48ef7b35ceaf6a64d86b45452cc8a3ef8a7e6475a534800d7e45a3f2"
+      },
+      "#VV2LQ8GV": {
+        "signature": "f6b3e8377af7ce56610ff4f9f98a10b499944520a333e566e7081a0c816c364f"
+      },
+      "#Y0992RGYY": {
+        "signature": "6e802a21d0209d3763bb05787dafbc84549de8984109334832b6503d9f9dad0e"
+      },
+      "#YGYGQGRL": {
+        "signature": "cc526022599a33e4f079de488e4780e2738f42a907a5e283e1d42a98adb8495d"
+      },
+      "#YP9UPLV9": {
+        "signature": "94c4468e247dfcdb0a823ad7153f8971cbd42605830b71eb9aafe484e7ca6878"
+      },
+      "#YQPRQ92C8": {
+        "signature": "27dad8b84379db405008263243defa16086bf6c41d4ad07b1cf31e45a7fb0b56"
+      },
+      "#YYV2QRGQ8": {
+        "signature": "9e8787b7d247099333d20c8b19d0bd64fe9d99a2cf65378117b3badc172fc064"
+      }
+    }
+  },
+  "#2J98Y0Q2Y": {
+    "members": {
+      "#28GCC8JVQ": {
+        "signature": "43a421da92c040db7d3c463d09f28e9fd01852a393079c609f7ea9c35603d2ea"
+      },
+      "#28Y8G0J88": {
+        "signature": "7a67129ed105ef89e492564ebca1b44da6c8a3ee335671127eae3316befc8842"
+      },
+      "#2CL9U0Y2Y": {
+        "signature": "259e1e71c2190fa33ce158bf861b5505bf6f0b5524f9c343434b6c7b25900c82"
+      },
+      "#2RPGY9JR9": {
+        "signature": "e0d5138b37316d12e20e116b9fca9eede0483b8c3173bb9e46a2d13f06cab2eb"
+      },
+      "#88PQU8VQ": {
+        "signature": "b43d0c26e6e0fa8d5d9480c92eadce794261320bcb0645a9f3fb03a3ba50da23"
+      },
+      "#8L2P00PRC": {
+        "signature": "05022768135d9d5a820a2abdd22ab29449edbdacae72a0ad7f6b7335fe2de0c2"
+      },
+      "#8P82CV89Q": {
+        "signature": "bc1e1e1233e49352b343a40a6cbd4aa78184e76548b29b0bc1b5de05b6f81962"
+      },
+      "#9G8PPPJLG": {
+        "signature": "515f7901d78fa980635b3296047510861d76cb6715631927117c196b174fd5fe"
+      },
+      "#9GGR20GYL": {
+        "signature": "9702746d2b07968d713b36d88f82a8ed13b386b6cc88f08444defef1fc0659f1"
+      },
+      "#9RGGQY2VL": {
+        "signature": "69f7c0c437d9831767b615b061dddcaf00cb0d3b4e84ee68f09a507bb5bf241d"
+      },
+      "#9U9V08YCQ": {
+        "signature": "0e0023c488375c424d4520a76816eb5c9b3815efec9b3b3d3e0202bb92ff7a82"
+      },
+      "#9VQL88R8Y": {
+        "signature": "9d6866321144a8a48c18c187178af8e16d889ee384a64d431c40bcf9cd0bf81a"
+      },
+      "#9YLCCJ9YQ": {
+        "signature": "836af5585b7d2ede99c859d94f86750dc5188959bb5472f739013eb6f77909b9"
+      },
+      "#CCJ2PYJ8": {
+        "signature": "3ffff96ff538862cd22e07c6c9d24c3387d50dd787c3ad3338c4bac8168ad017"
+      },
+      "#G0UQUG9Y8": {
+        "signature": "cfaf1a0fc715290948e9046d8a2850b047265569f90ddbac26d9969b8f2b7888"
+      },
+      "#G8VRJQYGL": {
+        "signature": "967596efc936ac6addc11a57f2696e4594d2efbb247076b562dbd39b255156b9"
+      },
+      "#G9LRLYRRV": {
+        "signature": "9fa4d3c3397fe2ec0e95bfc798d70cbc81086bdc0b6922a3ac3fef651fca8a7a"
+      },
+      "#GCQRY2R9V": {
+        "signature": "988fc7a72dccf6e0247a9be58ce557de689cffc1150c8380ae8aea3fddb30b37"
+      },
+      "#GCY2PPGQL": {
+        "signature": "7908318ac94a8600de3733d878bc976d02784ba3d356f9a722c12705b792814c"
+      },
+      "#GLLUR9Q2J": {
+        "signature": "137e594ec2e2cdd441adc0b0d8c5aff47daa57e4cf96035a1aa5c3ed717ed76c"
+      },
+      "#GY90U2Q99": {
+        "signature": "46e9043c188f3826c344bd51ae655aaaed3dcaf04e54bd6b02855162f8b14225"
+      },
+      "#LGULU9QCJ": {
+        "signature": "8481cd8d08acf69323d0a2953bae9e43185bfca6e50b54e34cb07cf4ae489e30"
+      },
+      "#LJ0JC92VP": {
+        "signature": "9355ef4492cbe50cf0f6bc6e94d065d9b987151d143b494243cc0b95acd146ba"
+      },
+      "#LJ0PYJ00R": {
+        "signature": "a5108708beb38fc922fe69d408fc6f97374ed1dfa68ef47b4ef444b2132ee7a1"
+      },
+      "#LPRV8L2RP": {
+        "signature": "820fc1db112c5c430d357741f045f26dafc5af649b52ecb3ecc38ee22a9281b1"
+      },
+      "#LUJC8LVJ9": {
+        "signature": "8fa6cc9824854c6b0bba5c35d0063acf428ce41890b14c011ede574e08c6e8db"
+      },
+      "#PC2P2JL8Q": {
+        "signature": "48d6b9d3e5bb9573db1d14eee893d451f1cf92f1209574344ae15cfb0fd1a382"
+      },
+      "#PJJQQRVC": {
+        "signature": "59222862e10a9a83d8240347a0fc3c305b9063fc7dcc3893f726c6f115e7f7b8"
+      },
+      "#PJQJGLJ8R": {
+        "signature": "67231f3c322f2b073e58701800a033e16ded89040d4ea2a0c5bcc8e4d936af08"
+      },
+      "#PY0JG2YV0": {
+        "signature": "d9397eb6c698b6f92b1ab41147478f55700d79cbc9c58b7360371a3fc01b2f40"
+      },
+      "#Q2JPY8Y2L": {
+        "signature": "a7d930c56c5e18e63b5bdfef4f83c736b9b7c40d90efe2555cb8a4a22bb0a987"
+      },
+      "#Q9J8VYR2U": {
+        "signature": "a6db51c813afd7e14fb0047cf7e69b38ce48ab28646e25c8a883eb543da8f783"
+      },
+      "#Y2PYLJPUR": {
+        "signature": "7bdadde8f5d3c9de509244127feef7dbb1fe9acb398e2f23f2de3bb38e69184b"
+      },
+      "#Y8CGL0R2G": {
+        "signature": "0e5f92dea6551ede04545b938ff1f25202c5acf6ab59addb5ba54f13c9719451"
+      },
+      "#YGPQ9YPY9": {
+        "signature": "6f3fa0cc185d2b679dcb71514512ceb3fbeb2a1a98d07f30d18434b2a4e92892"
+      },
+      "#YV2C9GCLP": {
+        "signature": "83289acfc80c57c97363301fc27c1baa6758be3c1863c0fd7eed32565173de40"
+      },
+      "#YYRQ8RQQ2": {
+        "signature": "ee99617ecb9f7cfc4dad12b61293ae6d7461dd0fa23fbdba70967d345fe38dfc"
+      }
+    }
+  },
+  "#2JQ8QRGCQ": {
+    "members": {
+      "#20GJY2GYL": {
+        "signature": "e080335368cbd616eda94b4327e0e2014447eb326993369369f9993adf8c6c02"
+      },
+      "#229UGR9Y2": {
+        "signature": "0fdf698e52f78970170df918d9f8f131ce536ab98e6bf511223d8c74889a727c"
+      },
+      "#29G29YRP0": {
+        "signature": "f1249206ecc04746d20694eebce134e9570aac576daedc18503aa9168e0ddfd5"
+      },
+      "#29YVGY28C": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#2GVG9QL0J": {
+        "signature": "4c13ff10b9d3f8e3b03afa701feba4102125e1e3386a9a6ff5852f7dc986fff9"
+      },
+      "#2JUPPLP0L": {
+        "signature": "c44ae403e7c74546585521f3a072cf38ea07a57416a0651d4419f978a1020f89"
+      },
+      "#2PUJCJPYJ": {
+        "signature": "226be6a7b8468a05c64708a653330e72195e3bc524e39e75f7741f844e6693f6"
+      },
+      "#2RCCYCP8Q": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#2UR0VQ8QV": {
+        "signature": "a46fed6044361761b98aac6787d1813061ea022b8eeccb57e7105ae8848c05d1"
+      },
+      "#82ULVVG0P": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#88YPCJG8": {
+        "signature": "3bbb8ed3dff3ac9c89f640e3314b9255c7e7e8057ae08e2128ee55f3b0d1ad21"
+      },
+      "#8989U9GR8": {
+        "signature": "d3a33a452cdfbb7c68570fac036cf2891a23ecef8df2f419e064f4f5f2a88204"
+      },
+      "#8QYURRUCU": {
+        "signature": "e6195f35ce147bf70a3ebed9f856b996f803db1f47956ac371609d71bd8d4170"
+      },
+      "#8UCYGRQC9": {
+        "signature": "57e53b84c29cba68f6a80c38099f4071bda0f10f09188953389867863edd8161"
+      },
+      "#9C9L02YP9": {
+        "signature": "4f6696cd480751ef213e61c7ecb4df4ea5b4e3ed1767497a5ea0688bceba6429"
+      },
+      "#9CQVQCJQ": {
+        "signature": "84aff6c8fda01fbffecf2ad4189f774f5dfbeee0e3a56d2b3c558b04bb693adf"
+      },
+      "#9CYP9J800": {
+        "signature": "15f225239e43f013fe284c59b923d332158131a510e9a55716ea4abc52956ada"
+      },
+      "#9JLL88GJ": {
+        "signature": "c6685aefced93ad22e3725884feecd44eee257f79f5f06c6d69167e588bdc8d2"
+      },
+      "#9LPCCYRYQ": {
+        "signature": "8eaf652028e44e6b003f8f69415677e389e51b1a197ebe399cdeef6e864c21b6"
+      },
+      "#9U8GQYVU8": {
+        "signature": "bf8a2085415376e4abc9ff68487dc8c4a9df60b23d3dd24304529c08a15c05c0"
+      },
+      "#9UJPGJJVG": {
+        "signature": "3c0230332fe18057d46e33496e822067f6598e2e19fe48401494b11a09e93fc1"
+      },
+      "#9YVYLYG0": {
+        "signature": "516088aacbfb6d7a975110322c11aa56d2eead117f949cb2a71ac82c21eedc1f"
+      },
+      "#C0LYL9UP": {
+        "signature": "be1d695f658381c2a8f4ca83fc11ca543eb303049f29f874d23f09746912ed09"
+      },
+      "#CQPCRYJV": {
+        "signature": "e95b0711eb6425af761d198f07e436dd98cd851193bdb13d61c9c76908ccec4b"
+      },
+      "#G9G9GQPCQ": {
+        "signature": "bd9c8f337ea7e96b6ccc97bcb78f7bfae6a1f7602a3d02db48489e48a8645ac3"
+      },
+      "#GJC8J2PPY": {
+        "signature": "e2c395193962ceb7c1bc97001f9a54828756899192c4ba1b53202cb55d245199"
+      },
+      "#GQ8RGU909": {
+        "signature": "9f199b93c72067889ae383a6a82354da4f59bc32ad351513c8b31c18601a0c8e"
+      },
+      "#GRQJJL090": {
+        "signature": "ef78dccf7f3f0f71ec0f59643b33d5cdf949afc555d366b4be6d5eec44d0b59b"
+      },
+      "#L8YVQ0L2": {
+        "signature": "9f73357b6a8fc1e8650ac781dc9d7edf68aed62afa5316c0c66509e3fbb3dc9c"
+      },
+      "#LPC8L8R2P": {
+        "signature": "254ea7f79b487c43f6d5f396f68dcd9566104546cebffda8cd614ba5d31d76d2"
+      },
+      "#LUGJUR2Q2": {
+        "signature": "8e0a2636b0f0787a483b1755e0158d813b1735372ff4277ccf37904b3e0372ce"
+      },
+      "#LY8092P0C": {
+        "signature": "e922c83f08257514169aa502ac408c8e524266726e77697e68e8f339ff541627"
+      },
+      "#LYCJ0PLUR": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#PLU2RLQ2P": {
+        "signature": "9665ec2a11f36909ac837033d763d1dc7393314f142c5d5ae679ac1c17b8554e"
+      },
+      "#PYVUP9C0G": {
+        "signature": "8448e09017a038486eac4a9fc180eff2b098aafc619fe8f6ed5efc1e49588930"
+      },
+      "#Q2P98CLR9": {
+        "signature": "b892e2e7a73f1843109336055f3c9db4a0fb5aad53d9c4b45f0cb06a14532549"
+      },
+      "#Q80P0PVQ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#QCGJCCPQG": {
+        "signature": "6d629364ca9e9a672fc832737276d74fabebf9248e8f309b249679be29f3fc02"
+      },
+      "#QJUG8YYUQ": {
+        "signature": "2e55064dd9484aa333b596f7fc5d9b49fb1a12f92afed94bc9d077c43d52d712"
+      },
+      "#QYVCQY82Q": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#RVJRYCV": {
+        "signature": "e89a7ab10e1450675fdd66e0eaaf664da7815ef019a4452c5d3c47ca198b9c12"
+      },
+      "#YJLQJQY8V": {
+        "signature": "1f4d74230c278fa6448cf8d373cbcc4588895f5ab18bde436f38a9cac59842db"
+      },
+      "#YLGGJRV2": {
+        "signature": "15f2eabd1d1e74d8886d32b2d331eb843475f658afe13f5431904b587321cf54"
+      },
+      "#YPUUP92G0": {
+        "signature": "eddb3c9af257a68aedf78f5af13aced09bd978d2cc0eda6ec8ce93cfbc09011c"
+      },
+      "#YQLQ0UGLU": {
+        "signature": "524757972d6827b780d110058996ad86e6ec6aa04e72838990b8f2b11937292f"
+      },
+      "#YV29J9V9L": {
+        "signature": "8eb6da01fb76eec1696d350a560d2d3f47869ef3581db2ab366033c38757fe07"
+      },
+      "#YVYJ89YJ2": {
+        "signature": "126092ac474ea2785391c4aaeeb134fa8ee04a7d1ed7407063ec511cf07a677b"
+      },
+      "#YYJV99UQC": {
+        "signature": "be4fb2ecf8f67d494320ddf3e91e514920d750bc542efa39cb09179883c2fd0a"
+      }
+    }
+  },
+  "#2L899QV0G": {
+    "members": {
+      "#2CGY90VY8": {
+        "signature": "e01e4e0ee1c968aa53376894acce385304a399bb6781851b5cf907261c0888f9"
+      },
+      "#829RYRVLQ": {
+        "signature": "afab6747f82a69baf6a517e6b76b021a687560b03f4b05e514599ca48669e291"
+      },
+      "#8VQQV2RQP": {
+        "signature": "79ad578c040331bf97f554edf5501e684c3ee0abe516a7bf2edcfd13ff40a0a9"
+      },
+      "#99CJL2U00": {
+        "signature": "0e8e8eaf2de487cd31ccf8a9b58973d5fe5120c36bb793b2faaf5a2c053e733c"
+      },
+      "#9LVQUP9V8": {
+        "signature": "76a144edfb00814f263284517a87933a3eb8db05febf5ee0fecf13cb7d147b07"
+      },
+      "#G090GQQCQ": {
+        "signature": "28db7f123b4f2037a395688e95df7f33a8696e02e0f914882e65860831659dd9"
+      },
+      "#G8JYUY8P": {
+        "signature": "769a9e56702c3e0f75dfeed2ced3074e0f56030c7e9a0e67d4a1f5f891b2b0c7"
+      },
+      "#G8PQCGPVY": {
+        "signature": "26dcc15c261349b94fc83caf799c5fa45deafdcca3c6be3910adb6fc97fcefeb"
+      },
+      "#G8VPCLQQ": {
+        "signature": "3c9c25079f33dc4328675520eb556256cd39bdb8b815ae7d930bdf6301e4fe3c"
+      },
+      "#G90Y9QRLP": {
+        "signature": "cdd3a7ff27bbdc77e6ce636c95e42d72e775512ad087dcaee4f8509e86776842"
+      },
+      "#GPC0CGV0J": {
+        "signature": "17b15809291013ae3cdf1c66bba5dc64e4eafbc87f31af51233e42ee4a02c736"
+      },
+      "#JGRG0GJR": {
+        "signature": "00effe37ad656a2f51124df4705208bd54f27946936fcba8773ebb8a981cd300"
+      },
+      "#L82PVJRJR": {
+        "signature": "d4ce89fd0c553d3ab3d8c7a65ca1fd099af8229096652608809b489d750f65fa"
+      },
+      "#LCPJYLCUV": {
+        "signature": "cf010bfe2f3e3bb745461b425629a4c9facb146fa7f05da42485d2828819ad15"
+      },
+      "#LGQ820898": {
+        "signature": "fbb5bac48326e7dd90c5d324dc3a7fa0453bd10aa7db4fad6c1edf8598bcd70d"
+      },
+      "#LJJYJVRL9": {
+        "signature": "0484dd6298097624d2144b740eec76f186cb0457a5b1c6366aa8c143fe69693b"
+      },
+      "#LU2RYV0U": {
+        "signature": "1f4000d662bef279cd92c412e14f1833acff0d5c01a57cba1ac37fffa6a275f2"
+      },
+      "#LY0GPVRL": {
+        "signature": "a72af13250829b5b5d9d3b3dc8aabc55d0f7c3173f944e00670f346ebad2b01a"
+      },
+      "#PU8PYP2LV": {
+        "signature": "866ba26a7a20276b22d83e5224ca25c8f310de322d60cf714f90cdd23096e35d"
+      },
+      "#Q00LJPPYC": {
+        "signature": "1df7d873d59eb3fdb0413d5e620895dee7d9f81fe3836c0fc1b5b64c4328684f"
+      },
+      "#Q8GJPYC0V": {
+        "signature": "aeac3fba7cdd2a4b5804bf38cbcbf06ce0be2966659280530cec8f9d7228e84b"
+      },
+      "#QCLV9Y29P": {
+        "signature": "c58111d485246242b922e9aa7f340f3fb34a05c27bfe0246b3b71d88d3f61bec"
+      },
+      "#QUY99RJ8U": {
+        "signature": "e4fa91dbfa09ff30cac623dfdf4ec001c89f4a065447f8ccbe238ab61ec7a8c5"
+      },
+      "#RLC0P99U": {
+        "signature": "baa4c8d76782c1977c03d58caba5babe3f439a296f8aef2c27dc19fa1b81013b"
+      },
+      "#YJL20JGUY": {
+        "signature": "dfb7e4572b6a398c588c1755a394274f5c5816339e7c95dacdfda4391e8656d6"
+      }
+    }
+  },
+  "#2LGU8RR9Q": {
+    "members": {
+      "#20QCYR2L9": {
+        "signature": "99e7b96d59ee275c1d9e53d1ba116fac6fc8016000c9c62e0a3b8e2935141eab"
+      },
+      "#22CYQLJYY": {
+        "signature": "d147aecfd097ee9d28e8e438814a75543626a681b512dad4702fe93c771a043c"
+      },
+      "#22QPYQ8JJ": {
+        "signature": "01ceef977846f15e1b8cad8d0e3dfbe938b83b8eefe8fe57c1cc62f4ab8d85d4"
+      },
+      "#22Y0Y80RP": {
+        "signature": "899c02406e66802d4b3d4a193e8c8a1fde76dd14997e6ad93d81adcf382bdaf8"
+      },
+      "#2CJVUCCJP": {
+        "signature": "c98911bb5065644a2a07949ec12414964c7149cb2e12a13cca1f0f34daa770f2"
+      },
+      "#2RGL98J0R": {
+        "signature": "a25434a5537f8a42677552866154706de5a2322e49099adf85338bef24ed17db"
+      },
+      "#2RLCGPJUU": {
+        "signature": "b1e73b0d88f1410f25e06b0d1f5aa8c3aad76ad887b2c1fe1a25e7856953da7d"
+      },
+      "#2RVRUVY": {
+        "signature": "c6f713271e1b326e64081d483907606c9762cb5561150c9d5c0ee71059c267c9"
+      },
+      "#2U88P999Q": {
+        "signature": "540e95d750045a3b6dfb8ceeeca67264d579a3c445bc99db9f51a1bb82a8e350"
+      },
+      "#2UU8J8UYL": {
+        "signature": "9dca2e0f2afaa62d532b0124bf29953f1d744b1b3278b48fed61ff887335c160"
+      },
+      "#2V9RUU9QL": {
+        "signature": "52cd2c8d1760c034598b086431661983a06dc47d8b2cd33fc3cfa93b26ee7a89"
+      },
+      "#2YLY28Q2Y": {
+        "signature": "74d56b1fb2d16d3090c1c1da3f6b89a9e42759a430a9c7eb44022ddd1276d1cd"
+      },
+      "#2YY89UV0G": {
+        "signature": "52d23a58c655d7d1f19e7feebda70d32129df18cbf54c23d78c4071ab4b5a76c"
+      },
+      "#822VLRYLJ": {
+        "signature": "6e18db22156ff01157621525e13673213b535efc7f0e4d24ae98828073f5cc9f"
+      },
+      "#89C0QLVPL": {
+        "signature": "51c46a856cebee331dcc98d5a18742e4f5683162371f44cce29d4284cafc2c23"
+      },
+      "#89JYRQU88": {
+        "signature": "25cf7c9ac730a0fe7744ddf0a84906d623c9c950e2893cd40205ec50f3caff4b"
+      },
+      "#8CLLLR0PV": {
+        "signature": "e0abf29cd076a7a2af967942a9ab20d1502bbf5f582df392bf9d3ad9c2eb9cb5"
+      },
+      "#8JRJVGRJ": {
+        "signature": "2111aeb104b4ed81d83ed4a3e688493cce3ce9c163e1ea65f10c9ace0de292a0"
+      },
+      "#8RVL8PUC": {
+        "signature": "d20113fa4455e9204339340d4bd0d5fd88fa05f83847ce6bdffdcfc54e16a678"
+      },
+      "#8UJG90YGU": {
+        "signature": "29d14e551bae0392e0c19d9bc9d65d94946b8881b324b3b79099fbd91ba8d422"
+      },
+      "#8V08ULG8": {
+        "signature": "3c96fcbc106e89db5885047fa7307409622b66e8648b57bdf53f8bfe7ca2d642"
+      },
+      "#8VVGR98R": {
+        "signature": "3e6a9071ac997c39347ab1d96afecc86359d382b923dde047676699989ecec9e"
+      },
+      "#990VJLJRV": {
+        "signature": "9dec8d9f71ed5127c368998590c091493ae0046004c0724e4e3a6de2599f6ad7"
+      },
+      "#9PGJU2089": {
+        "signature": "a24b145c859633eae6ff064d15d7ecfb4df52f0a9fe89ef30fe8710fb5cd2357"
+      },
+      "#9R82JULYJ": {
+        "signature": "76c5eaa0bb2e5757e335ecab1a10a225ae852b658f2ad9f17b36048225282d77"
+      },
+      "#9YJCLQYR8": {
+        "signature": "fd5a644ae6ebd2462bf2bb4281d2e7cc2b52941ea65dcdc2a5eb50662bd6ffbd"
+      },
+      "#L80P8PVCP": {
+        "signature": "673a3521edeb1457686c068c8f14af3fd4b1af0f53a9bcf61dd83cc672aa388b"
+      },
+      "#L8P00LQQG": {
+        "signature": "4015df1b0da4bbc2384289e8ffd523e32aba16dbc6d9b488c3077a9515fbdc5d"
+      },
+      "#L9UR0JGRR": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#LGVG9G9R": {
+        "signature": "905492b1d529891cf05f998414def55c8c2cc4a22eb30bc469e7b2f7294a58a8"
+      },
+      "#LJ0LLCUJL": {
+        "signature": "f0c91d51cf8e0461bfe0cffba4f25a0e7c4e11c0851bdbe5582bc0bc5331d4fa"
+      },
+      "#LRGVJ90GY": {
+        "signature": "fd60a509768d7197ffb2cfd90c6f38207739c730043aae280f307d45c9979a0c"
+      },
+      "#PLL2CPQUV": {
+        "signature": "6daca934968e82307cab6a9f967648eafd9ec82fb9c4630bc58b0e3f58087942"
+      },
+      "#PQ8PVGLUR": {
+        "signature": "10d8f3578bb82d3a368a0a2bf02ad48661d1c1ec41106b14b213ec8b1437d43f"
+      },
+      "#QG00RJC9": {
+        "signature": "c51d4a93d6e6cbf9f0c81be00bea682072f4a01cdde53f8f889dbeebabf8becd"
+      },
+      "#QL0RYYUPC": {
+        "signature": "8aa1e927e661bfea509506ca8858365559592aea6761901a16492583a74eaf1b"
+      },
+      "#QURLL8UVC": {
+        "signature": "f61747238f21bd4ec75c1493d9a89d23bee74446fe5295e8490cbcc62c9c9d6b"
+      },
+      "#QVV2R2JJ": {
+        "signature": "7ab85f53961ede1e96bc924a41cf0b3a329f1b583c32bd8af30b2f822e4d43fb"
+      },
+      "#ULR0809L": {
+        "signature": "8616bb552709c7ffee4ec01ac15c7f1ab9a7789b98befee97536d53846b0450b"
+      },
+      "#Y0QUUCV": {
+        "signature": "53bced9edbf5715ff26512a06b6fc0da7cfe3cf10ebec2d62d1b9e517e82abed"
+      },
+      "#YG9VQYP09": {
+        "signature": "b6db515703566547c3d322691688ae62fc60e5870c5a0651c47cd7c491d1556d"
+      },
+      "#YJYLLPYCJ": {
+        "signature": "4d11e22d1503c16b33c6a96d4f691bedf0ff0b45c3bf593dd814ec05a159f845"
+      },
+      "#YPLUCL0YJ": {
+        "signature": "91fb737e2a12f9b68bbb96dd1c48aeb1c92d810fb004fe7ffc9f7dc4229d9e28"
+      },
+      "#YQQ9CGQJY": {
+        "signature": "2b9f57a076191ba15275c10650c5fe5657f256c3eecc431bf3d76ebea92de227"
+      },
+      "#YR90UCG9G": {
+        "signature": "d2808a049e8406ef78d4a8f0e448c0984f4fa9417836d668f62d1228c56df66c"
+      },
+      "#YYC09JRCU": {
+        "signature": "dfa1144960b64c5d6f36884b4f17ca4716b0bf2013aa63f7f26e23eb3c4881c5"
+      },
+      "#YYC9ULPJ": {
+        "signature": "fa41784db94738d6b95d6e91f4a49a1d9c184a831dc500dae3e6d457d75c0e29"
+      },
+      "#YYYV0JCGU": {
+        "signature": "5bedff7bce10a14e0618ab0f47f9cdbdb9d7dc968ee86a457041fff73133a51f"
+      }
+    }
+  },
+  "#2P2PUQQ": {
+    "members": {
+      "#22Y28PQLP": {
+        "signature": "44712777d37ee74c1bad7cec72263c9fe4075edec902ef107c0b709b075fcb9f"
+      },
+      "#29C82LY8R": {
+        "signature": "70003a4bfe00d8d13d2efc7c5810241e59d8e4a02ff9e4425f9594e32b054f18"
+      },
+      "#2L0U9V8CQ": {
+        "signature": "d1ce752384a59ccc280732e44155afbd7ce07ce6112b3e5745ac81afd0af593f"
+      },
+      "#2LC8CQYP2": {
+        "signature": "78e24b9787cd7d2f09ede85ab36007eb7c797c05126fd0b257e67918c490755b"
+      },
+      "#2LYLLU9GQ": {
+        "signature": "4b6e1cf5e2126bbae922554692adf753297fc5aef5664281bf4681d1fe0581e9"
+      },
+      "#2P0VQ8CC9": {
+        "signature": "aee3c6ebf4f31bf86d9a46817829d36689be5cdbd1115dd3cf9382c9a87b1a4c"
+      },
+      "#2P8CV0U8J": {
+        "signature": "bed60c153b2d469c4ae86f2c2e25ee04677a2ea964effb0bb24a4cf11699a026"
+      },
+      "#2PYP9P909": {
+        "signature": "86fc971c59fbb29b1fc165f120ab13166c1def50ce2a378950e8493850fff97f"
+      },
+      "#2R8LLCJ9": {
+        "signature": "f8bc0b0f04fd323c0e4896ddc8d79a463aec1fd467899e3123ccd68dbd74f2a3"
+      },
+      "#2UCY0J0Y": {
+        "signature": "479f808baab76b18069599002a1f9f91845e8bf22fbb0b50f7f5499cc40396a1"
+      },
+      "#2Y8J20VPG": {
+        "signature": "e8bf8596e46461d7cbf3afbc649f67074be9612fd026def4e9f6d7746e1d667f"
+      },
+      "#82L2PYRCL": {
+        "signature": "32616d1ede7549a088a2724c20971c14d44e33547c352595c461d01c6a78b1d0"
+      },
+      "#82Y8CCLGG": {
+        "signature": "ffd8cdca7d7db38bbdbaa1a57ec8022e56941728b95a22ec5331ebc316023501"
+      },
+      "#89CGL8R2C": {
+        "signature": "488e96b875570ddb74e5395015d3c2041c463d2181628731e7c364d3a252ee10"
+      },
+      "#8PVG9CY8P": {
+        "signature": "b30054c7cfb03d644ace85bd8057f8296ed9ea9c30d10b9a13cd76ec46509f16"
+      },
+      "#8U2LPQQ0U": {
+        "signature": "2c80055ab444c674456b7779bd897bc0dc1a30c782c17a0fbfb176f070ad8caa"
+      },
+      "#90P9J0JGY": {
+        "signature": "883f63ec1bdcd5c9e18d1e9251e4d171342903f1c715f3ed507eadf7a87e617f"
+      },
+      "#9G9L2JJ9Y": {
+        "signature": "9f571d9dc22ea7455d71b4d2fbc05926796954131a1ad3771762661fe0967058"
+      },
+      "#9GUL8Y08U": {
+        "signature": "4d68db6846ed7f22d3364711d9c05e8dd3380301084c4e10bd705dbe79f776a4"
+      },
+      "#9R8PUPJP9": {
+        "signature": "874850badb437302879993e61fc93231f0785493591f4e085b931340a9fb3bdb"
+      },
+      "#CYPUYUQL": {
+        "signature": "d67800fb06335f6d29fd0c601153de14b933a80c85e360389092d45822c8c6eb"
+      },
+      "#GGVRQYQR": {
+        "signature": "97609406405f2fc59cdfd7ce231b775c6025ea2a16ae9ffe924037c66bc4b5ab"
+      },
+      "#GQRUYVYV": {
+        "signature": "33c087c2fa16ee90778486a9d0cb6a1a534397a26d6bd2e5bc6e656ae3e7e8d8"
+      },
+      "#JLUJP89Y": {
+        "signature": "c436d93772f53744964e33767dd32572696843e82dcbe0ba1756d7e58f42792a"
+      },
+      "#L8RCLLPU": {
+        "signature": "3b89eee37ed68ebbddb49e0a2f8b96cb687f5eeb3fb90fe400ce1eb1b4b5bff7"
+      },
+      "#LR8R2PRYJ": {
+        "signature": "a59ce7b2881dac2c631c19266efbb2b336482961a1dccf86708445330621b0c4"
+      },
+      "#P0CQ2JY92": {
+        "signature": "6677d856064b1fe7b2276deb2ac77f9e4a77eda9c4681e2e32126041ff9d61b0"
+      },
+      "#P9LLJLCJP": {
+        "signature": "425c6eb79dd4a66994c6edca15e136f2de501d53b6db216a1088658dc9f0b04d"
+      },
+      "#P9PR98UP": {
+        "signature": "7e9c956deac939f239d69503f9c4ef37fdb53abb51f4071be0dafc12fa8640c8"
+      },
+      "#P9UCQG8GY": {
+        "signature": "801b22753cc88c867e11768c4fbfac7371faa6a6de11acdf4867213bbcfd4dbe"
+      },
+      "#PCP99CCJP": {
+        "signature": "7dc9099c93473a392b9fbd20668bd2321c673a5b1f88d01afeb4f2b9efa5c0d7"
+      },
+      "#PLVJJUQG8": {
+        "signature": "fbbe2f8383881e8f1f884c4f0858474d71cc7b0b339d80c27b750d4fa8e5e53a"
+      },
+      "#PPYJVRPVC": {
+        "signature": "6ef288ae47c8d3b88ca5d9936f12be48a511736aecc9145247ccb51fcb7df028"
+      },
+      "#PPYUR9UJP": {
+        "signature": "9a9d30f4ac49d3175ce86539b469d71df9c024546627c9352cce89ba9fd33293"
+      },
+      "#PR29CQYQP": {
+        "signature": "f9d8b0f29f57065520ed50dfb02bae90235c63d7e4f2ddf79eba6b4ee8c406a4"
+      },
+      "#PVJCYCJCY": {
+        "signature": "baa3d30f0b0d0723cb149a403d85c47a1245ceab1d6e85fadaccf2895df429e1"
+      },
+      "#QC89R9J2J": {
+        "signature": "1e4b49a7a0ca012c6fc40f244c407a3b6f0cd3782685ec5e435068d4586c4329"
+      },
+      "#QCGGQYR9": {
+        "signature": "b6ea5f43a85de41200fc27780cfc140bb20d8ab8a20bf0b6c8127fec5189ad0d"
+      },
+      "#QJLL9JLG9": {
+        "signature": "2e2e768ae09906ec0df1dc49f23f5463a367c7c4924432eda55c03fc314b2fcc"
+      },
+      "#QLQRYY9Q": {
+        "signature": "56b0456becbe7bf18589f959f379d55d435252e709940b38e3796f6f039c5e95"
+      },
+      "#QP80QGUPJ": {
+        "signature": "63b0c6f9433be8652c815d92b5dca31c2327f0234d1397e29bd172ecd0e33c9d"
+      },
+      "#QQYY9GP2P": {
+        "signature": "66723388eb54b1cca99a5be28020a2044e165af777651a1816898c097f48959f"
+      },
+      "#QUQLRLVR8": {
+        "signature": "38903bbadb5c3753ef64573b8dc63df41607bccdbeef29652a35eab25e08f04f"
+      },
+      "#UCLCYJ9V": {
+        "signature": "fbf221923066f26650f3199b60dd7e9b89cedd957ba03cdbc8ca5c13dbabd600"
+      },
+      "#UR9QV92V": {
+        "signature": "feb9f705740d4b28808a4aebe7f73fa8429ddf8f3baa4a78588838a401734ff5"
+      },
+      "#Y28CGC8UP": {
+        "signature": "2e1cf33d074785f5c16c840b1057df270281d221d1eb625eaf3cddec5645afe7"
+      },
+      "#YP28VRQUR": {
+        "signature": "a7d90b7d5d49bb5ae58a96bc4d2c33ab5139c0192ff0841cbd77ff8da2bf69b5"
+      },
+      "#YV9LY209": {
+        "signature": "85d746aeaae59bb7378771e2a73c70c4541a2fbcd1468bd7485ea971beb8409a"
+      }
+    }
+  },
+  "#2PPUCL9QY": {
+    "members": {
+      "#2022GUR08": {
+        "signature": "b345e0e2cb9190b992acce6a52501f6c752326379a2eb158579b9fd6cd92d29a"
+      },
+      "#20G09YQ9J": {
+        "signature": "fbe98e29e6908b905f003bea84b0b5c6cb858a5d2d682e9df2e0ec2f899e9df3"
+      },
+      "#22G8G2VVC": {
+        "signature": "2cc4250e24fb51698a88d579bc8efe1747092af6dff67b5a58ff3aa53e86999d"
+      },
+      "#2CVUUJVP0": {
+        "signature": "325758431c57cd8ce2b308d33e5b72d4ea4154a78015795abda88e96b7943efc"
+      },
+      "#2UCQUL2RY": {
+        "signature": "2d7a371ecbcf32fe85b023bb7b1729e0aadc4d182ce483a840b39df0c39432b3"
+      },
+      "#80RJLJJ0": {
+        "signature": "8a5ccc0fbb352331652444fbfc01d3cb7a5b6047416f8ff18efb7474e69467c9"
+      },
+      "#80UCC09U2": {
+        "signature": "12c59bdae7236538cada36d97bf839c50e256e32a8d9defc2ed2638c059c5096"
+      },
+      "#8G2LJ2JC9": {
+        "signature": "c6e1694a183c66f1870ad2dda0951aec1aa91b7d5922d6ce7d635494901793cd"
+      },
+      "#8G9LRGPV2": {
+        "signature": "3497ff0a3c9d177a04da9e3bb49b7e8d9136b8f64266683de78dad84ea1b75c2"
+      },
+      "#8P0JGVVRG": {
+        "signature": "0b08c05f062303be712359e2b5e7f2de1e6e66bcfd3ae4c51da7a69ebc1a5bfe"
+      },
+      "#8PYYJ029U": {
+        "signature": "b0bc1a544619c06c50850f6fcd07ded88d6c7d982352349fdbbd0c6d7b939509"
+      },
+      "#8VV2LQJUY": {
+        "signature": "b550c7a8d8b39254fd738077d0639d0c82fe759f266fd609bbf9aa552e7de781"
+      },
+      "#8YQYU2Y8L": {
+        "signature": "86e1102c0d37c7f836272bfa0fa66d55b03bf7995c0915d433d6467d763dc260"
+      },
+      "#920Y9JYPP": {
+        "signature": "0f9290a0f64b1b95eb478687dab35972b53a6853e27115cf9e62117e3438d952"
+      },
+      "#92YCU28VR": {
+        "signature": "8f7f892e2685c4ed02ee9c3a86702962fa8976d83a14cd93f66f39823d381dee"
+      },
+      "#9CQQC9LRG": {
+        "signature": "913ad0caea239d220c7eccec6c0cf709466ee51be68d4b7bd77b2a3c12f505db"
+      },
+      "#9GU2RJUYQ": {
+        "signature": "30f8a9c18bb26787d46fd0f932e56a550d23b8049df0cae660f40ae57f99ea84"
+      },
+      "#9PUR2Y0RJ": {
+        "signature": "9c25acbc915ab9f973d60421f59208a49853f2b544e1a1179134b6f882ebf951"
+      },
+      "#9V8YV0LPV": {
+        "signature": "8c50ecd60c636f1a68c5e263f1fe88bf4e76e5b775791df221d5781515ee36ea"
+      },
+      "#9VCP9CU8L": {
+        "signature": "e0bc480ad5e71cb5bf509a98d7686879f93c0996bdfda118cc252c3928c5a9f2"
+      },
+      "#GJLCQL8V": {
+        "signature": "f60f3863b76bc8de9e25aa1e8ac69789a13bd668034d6cbdc2af3d628e8b9aa9"
+      },
+      "#GUYGV28Y": {
+        "signature": "61f5cd6e6339c0176572b33625e76292c592193f1eec969d20dfdbcb664b0802"
+      },
+      "#J0UCRYV2": {
+        "signature": "6ee0b24c951e6745527f041373a84493bdb686b7f0d2175e973ee6dd037c34e0"
+      },
+      "#L2U2VY8U": {
+        "signature": "8d987a068ee70ff6744fc8199520b0b07b491035d2e4692534f3050955865053"
+      },
+      "#L9JCP8GC9": {
+        "signature": "c19c9e7097eeba0dee4ba102380085db79135e247fedc18c959a7be22230f028"
+      },
+      "#LC0U8CLRV": {
+        "signature": "df5c149c9dbd8ba8354a9f3526ad3cc20bd4c6a951d7a01041462ea7e64b9da8"
+      },
+      "#LJ92LPG0G": {
+        "signature": "0a8e43e228ea9fe0b6c9afd4389779081ed2dd2163f01fd886dfaa3c8e7e8640"
+      },
+      "#LL0YGQVR8": {
+        "signature": "7abb9b7afb850fd07c9c0be8979c37ff0ea4f08dcc4d1b00482778b8b2981e4c"
+      },
+      "#LPP9Q0LRL": {
+        "signature": "55b5eea74beeb5b3f1d0f609f4740c6474425bfd55a25ae785be250cdd0b70d7"
+      },
+      "#LQL2CPL2P": {
+        "signature": "a4fdc4494c980d008e0170305d1328328238091833d005152fec0cfe6c83e7ab"
+      },
+      "#LY00L0PYV": {
+        "signature": "b9f6b5ace53269885ff6f520f9e242693e0a423de03675e1500f4f3131c9721a"
+      },
+      "#P9RGQPLJJ": {
+        "signature": "115a8d95eba19a81509742f83559ba2a8a6a06e0eaf549c110a41dfc159c76e0"
+      },
+      "#PGVJ0CVGQ": {
+        "signature": "9ae295a4c4ab6afc2e04cb3faf45c3cefc53eca09730a3fa8b46de5ca95ce670"
+      },
+      "#PJUGY82RQ": {
+        "signature": "fcd789cde53abda8f5d971d7448a0adb02ea637cca7e8924de9c2bbffc2c3d49"
+      },
+      "#PLY9CYY28": {
+        "signature": "d57f1ccd69e65d2b998e1cb59c71e23535f56a78aa6e95f411eac1ec9e5bb92e"
+      },
+      "#PQCP20PYV": {
+        "signature": "94d7a1fb3e0b54ef0d8634451532bf92f280b9fc2d708c57e1a7a1a485e5bc7b"
+      },
+      "#PUQCR9U2P": {
+        "signature": "3e9835b488993055c1ec9b43015694c9b5fa3b5670bed76f6e971cdcfd3efa9f"
+      },
+      "#Q000Y8VLC": {
+        "signature": "6837eda54385acb8b573755a594b469b435b73182e79dcd2f2e54ab26ed0eef1"
+      },
+      "#QVGURL2UU": {
+        "signature": "2210e290afc3b80fc82fd64ff16e5da4917cceb93cb5e48900671ec21a929c60"
+      },
+      "#QY02QYCGU": {
+        "signature": "a860d5d406407a8ed4cf67bc1770bb8a1b9fdc8925b924161910a289255abc7c"
+      },
+      "#URYVRGPP": {
+        "signature": "ad13fe7aa5a6d2eedda08ab3dc24137c5de9c052fba1d447f66d22620bed785b"
+      },
+      "#UYRUY9Q2": {
+        "signature": "30c49206c89c744d170fc29989dd0f140ab890aac4baaf249ed0a5bd8899837a"
+      },
+      "#Y208GR9UC": {
+        "signature": "cb7b342ba2c2d77389e04e6287d889d2cfd4a5905777be5fff20f6aac022a363"
+      },
+      "#Y8G2GQPV0": {
+        "signature": "127f47e5e37046878611eb7abe91367641de462650245e518df5aafd32b23c9c"
+      },
+      "#Y9LUU98Y0": {
+        "signature": "3eba7d996b9d01e72650b2947eb072a751166d05d222c16f3cd0229ee9561734"
+      },
+      "#YLGC9QYGP": {
+        "signature": "ac5c77f04fb2b08607d4bf901640d34a113cbea8b33cba6f7e6d90d9bd3988bd"
+      },
+      "#YRYU0VPQ9": {
+        "signature": "fcc10ca9e1f882c493a9b595474beb318a83b71133c7445594c07b57902c45fc"
+      }
+    }
+  },
+  "#2QJJRYJR2": {
+    "members": {
+      "#28JUGLGV": {
+        "signature": "2c75bcd0efc487df956b440ce140006afd1e19aa8eb3e6ac160a7ce680305d47"
+      },
+      "#28LYCQUL8": {
+        "signature": "05a18bafce96d79d75116798dcace286ba6557dc74490b485d89699c87a6b7c9"
+      },
+      "#2GCGQUGPL": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#2JCJ2GJ8G": {
+        "signature": "29c9edd46ca2428eeb13c61ea088e70fb5c08aafb1aee181323f430cc2d80113"
+      },
+      "#2JR0QVYP9": {
+        "signature": "14b93338875e634d650e4c8ba98207be84a18929454aaf179b4837b00c98bad4"
+      },
+      "#2L2LR99UL": {
+        "signature": "59be220ddd1d16f65a7f5f1522feda03c61ff945cd230ef41837a324211f752b"
+      },
+      "#2PCR2RJQG": {
+        "signature": "3ce443de22fc7d541ebdd7b593353c5a5385883de2b24aea9832a8ea5da9cf70"
+      },
+      "#2RGQULCL": {
+        "signature": "f14f5a586fc21b6b71e0183a4437e37e97da05250a1fa027fe5e2657d2636299"
+      },
+      "#2RYJU82V": {
+        "signature": "3b1f1b4163337d8bfad32709be7892bad887e8cdff9ae0ed2c28ce93886f1d19"
+      },
+      "#80QYG0C00": {
+        "signature": "6fa0c4c5ca2c46c6ba4e2fd7c6857e911ec5883c2e70079425aa72ccc17517ad"
+      },
+      "#8Q9PGCR0": {
+        "signature": "662832807838ad8c98262323d6314a7ea33a69ac374bdebdead18556a10432d5"
+      },
+      "#8QYRLVJPQ": {
+        "signature": "e883c79f6844b269539b1c376a66ff45feba2722684d4894d2b9665821a82750"
+      },
+      "#8UP0QPG2": {
+        "signature": "074138033ca990518b05ba69e9d6af9b96f94dbc127c3b1a70a1ad63789b8ee4"
+      },
+      "#8V9C82920": {
+        "signature": "8e12b8fd1b7d8777735e8b048f3e92c6aa03d410ce844aa9ba9a32d224b7d016"
+      },
+      "#9008CYVP": {
+        "signature": "fa668c3b1afdc7fb5147e65005b353b1734c6b9a531eebe3db667e36f4bba1e7"
+      },
+      "#908G9Y8RG": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#99LCV228G": {
+        "signature": "f6a81d12f16f975c20d0c6288c3193242e1fae2b0c01c2f692e551649cf30691"
+      },
+      "#9PVYJRC2Y": {
+        "signature": "f49c15365fd11e5c1ffabd7a6b3b784ef5ba1e2f898742cc490d3156f2b351d5"
+      },
+      "#9VGPR0C2C": {
+        "signature": "fe88fe3eb9e09150c2d385cb235a001c9dbd03eabfa9b8ea3d716102d943defb"
+      },
+      "#9YPL9VY0J": {
+        "signature": "c2b35a2f84efc87e7c246bba75ef161e4bfea92747332ea3ef222c45f3bf12cf"
+      },
+      "#G0CQJJ8R": {
+        "signature": "1b7b94e61492e5fec5d433dfff3448bf09cfe51ddeb913202b4b1c445f2a2cce"
+      },
+      "#G2J98GGJG": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#G9CYQVUJ2": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#GUCJCQCQ": {
+        "signature": "499ea30f289ca425263bda9ae7e9259c4fb86394b567e5d53db82afdd2315f2b"
+      },
+      "#JG9LQ9UJ": {
+        "signature": "98d51735491bb35923a49a40ebb6536039fcab483d292b1493e77e25edc20794"
+      },
+      "#LGUCYUPUU": {
+        "signature": "e9198dcfb64727d9dddbee8ff130f34be5983b1783adf17b7e1b58d5df8fc30a"
+      },
+      "#LPRUQPR0U": {
+        "signature": "3160b63c24b56810a8d2b0a2bdac716f0b37facef29378d1bb7e5520a8aa6433"
+      },
+      "#LRLL8PQUC": {
+        "signature": "2c37b8c9534949d8de5601c59ff5febc1d2bb50eea8fabb4a246dd32529dd244"
+      },
+      "#LULC9R0C": {
+        "signature": "e8fd046c6eafb8b88972c83ac0e40b23ed0bed8516f5e4015d2bb626ba9f5b06"
+      },
+      "#P908UPVL": {
+        "signature": "401d9a86e0d9dddecd4a036b4284e31a617e1cfbf51ef04cdd92fbd7ce107e36"
+      },
+      "#PPYQ92YU": {
+        "signature": "c16a2b3d76fe40ce4ab84ea552b00846dc1e6ac3ac851c700f98fe1cf6dfb226"
+      },
+      "#PQ8PC0LQ9": {
+        "signature": "354e1ceeb5e01bda267bdd68cc7fdb06ae2345df89023f1f518e088e2944d9be"
+      },
+      "#PY0UPJR0": {
+        "signature": "c85473d2d6e71420537e09ef7c22d2b21226bcfd194537ed82bf3d2b88e80453"
+      },
+      "#Q02J22Q2P": {
+        "signature": "9d31d0da0f0bcceb67c8b4e0b8db062580de0f12c7ae14d52e5b4440c270b361"
+      },
+      "#QCJJPQ2YY": {
+        "signature": "275ab5af96d13b3fff3b1ad385a7e8c2b0819c27119cfc9da32c2fce541633bb"
+      },
+      "#QGR98Y9J": {
+        "signature": "37c8c489707954436d59e49cd487da97448c03f1c932106f090a626002fa018e"
+      },
+      "#QP8UY0LPG": {
+        "signature": "67c135297cbea8ebe61d878050b7f31b7d459a48b914d5c7e71ddbdaea4718dd"
+      },
+      "#QP9RVVYGC": {
+        "signature": "9825c695f6a95801a0ee2b35a1ed95a3467494bd31772531c31a1977f315623c"
+      },
+      "#QQGGJRY8": {
+        "signature": "375e132c145dc71ea5520948740589b79127a164bfe8be7c0bf716e81ba3e32b"
+      },
+      "#QVGYJ9RJ2": {
+        "signature": "89f4b528ed3f9b8055893cb4538f50c40205e2338d554097c01e03231cf07cc9"
+      },
+      "#QVQPQJGJC": {
+        "signature": "a9cc03c60b9f5e5a6c2387946bfe4ce39fdf272551761e1d3a3ba501b00ce302"
+      },
+      "#QVRGG9J02": {
+        "signature": "2c3004142950a469cd227b0622410e59ebe7291f529728ee10ea2da8a23ba488"
+      },
+      "#QY9L0CVVL": {
+        "signature": "8d5a0e36f25e5d5094661a1fbde7f88875df02b742e81aacffb396e227e1d0aa"
+      },
+      "#UQUQY9G0": {
+        "signature": "70aeb5f161dd3a8c04de9607d3d440f0fa966701457e6283b3eb5f4a3d1a0750"
+      },
+      "#Y092CPCVP": {
+        "signature": "f37b1ff2918aadf7b1bc8d43e1857efc51f20316999e4011d50e137a591c25c7"
+      },
+      "#Y22CVY982": {
+        "signature": "ff9ae039df48b04d520a28284dde5ac1d02d32b42c9d3ee42a013d62ecc2872d"
+      },
+      "#YJGRJJC8R": {
+        "signature": "7fec233a1d04d141c120cd02a8f23565f62f130bdf62b38d3e0699065f3cd4ab"
+      },
+      "#YU9RQUQ22": {
+        "signature": "d162048dc491909d866341d7ddd16fba0349aced150b75d0d3e487e5ddb23082"
+      }
+    }
+  },
+  "#2QV8JQR02": {
+    "members": {
+      "#2CVCLVYYY": {
+        "signature": "eb6635373636a0d52a8f371cd901118d8e28cb2667eb571d58b099a6d1710bdb"
+      },
+      "#8J9C880YV": {
+        "signature": "2824f43e607494f3c32263f6cf8818ec5cd74669548580d750ce25de1cb3d430"
+      },
+      "#9GQQ89UUQ": {
+        "signature": "9a1bc05e62751a7544fc29b3a1582e0a33d6e60803f24148291b7f604d91a528"
+      },
+      "#9LV02QCRV": {
+        "signature": "42bab66576e673a798108e1dae4ddde19cf0a0cc352c0643508d4313e935fdfb"
+      },
+      "#G0QUVYYV0": {
+        "signature": "cf4793124760a778ca1267f3703902c817ce2da16a392c95f8111d84d8ef5fe6"
+      },
+      "#G20RCVL8P": {
+        "signature": "40f0b7202f66af410eb98fd5c751430c3b99f6a05bb1833f5262fb868b68b5ff"
+      },
+      "#G9L20UCPV": {
+        "signature": "fef62e9fcbd3e99512871eb420eb09d526282bcf4091c541895213d05a7e950e"
+      },
+      "#G9LPQCLUJ": {
+        "signature": "b2764b9a35c8f7c747915035c2f28adb7084af3b70e0f39400a4d082f17c43bb"
+      },
+      "#GLYGPY00U": {
+        "signature": "12dae726da1e8c3b591a132d4c270da4d3a0cebb1f72cd8eeeca8ff9bb582fbf"
+      },
+      "#GPC9CQY8Y": {
+        "signature": "816fd577f7277afbc48b64be3480c9d0322cee6d304e7791a663247b1bba0388"
+      },
+      "#GPGC0PJ2G": {
+        "signature": "9d127edcba53c0a199ec252108b065941cd92dbf66f7a749738d0c08fea306e3"
+      },
+      "#GQ2RP92LP": {
+        "signature": "dc54f02c2867ee9e08edd8bc97da353de540bc949411d50a42845f724db6e1ce"
+      },
+      "#GR2LGJC0L": {
+        "signature": "165de165d03ee0030093fc4794d75caea002ca3c5749797098d7e8fe030b0f87"
+      },
+      "#GRU090Q8R": {
+        "signature": "a1dd8c9854cd826c39da56567db8ecdc42852c01adfc2ad60bdf80b8c1aa193e"
+      },
+      "#GRUY2VLQ9": {
+        "signature": "e3eaa9a03274df20b678f032a16e429c0df36a471b66e70d84eef0414306fd08"
+      },
+      "#GYP8YCVU0": {
+        "signature": "d2accd0dcbabe45a3aee450dcbd24452c2492da9c03ced84d5483c59fbfc9ecf"
+      },
+      "#GYY90UJQR": {
+        "signature": "91d812e799a01b05e9889abe89657a0c2b3ea40996e81d253f45cebc54dbcf66"
+      },
+      "#JCU0L9GG": {
+        "signature": "07bad448b1c28c037876f95eb94851d41f39fa39164d8b1b325e80690c3f62c6"
+      },
+      "#LL8U00Y99": {
+        "signature": "c44d6818c649e62a8e59b29a4da7c8c23d2775625e0c9ebd46db0c567fb7ce71"
+      },
+      "#LPR2VLP0Y": {
+        "signature": "47dc0d7ca6298488e3eb0928dc25b7f7af6bfa04a39424d1d5d273ec01eee03c"
+      },
+      "#PJ2PQ8RRG": {
+        "signature": "682ee6ef90929709c8558c946d9d9b12de9e8d6afe95cff98904dc45b33ae5c0"
+      },
+      "#PJQVCQ2QU": {
+        "signature": "ed9722053d77d9c7f593e5e6811a8720e36aa4d20e89a0398716329f21b67d3b"
+      },
+      "#PUQGUP0VC": {
+        "signature": "c29e0d84b7c450b6809fecd8e2093e29d9bdfa1ace10fb4c71660bc47af21548"
+      },
+      "#Q08CLRLCY": {
+        "signature": "f00b9fb745c96b69f0beb002d390d0e42555304efe1eae6f0adde6205363d8b4"
+      },
+      "#Q28PL9G82": {
+        "signature": "fb9b66bb1d546c830a1319e7243cf8c6b54c8eeac11b693d4aefffc3a3d706ae"
+      },
+      "#Q29GGCGGQ": {
+        "signature": "040583f0e38357df516ef3a10accf15ba8ae51e0ff33ba211f55df1830eafe95"
+      },
+      "#Q2PCVQ8R8": {
+        "signature": "d7c37167a884d2b15373b68286e835b253a3e11a75571c176b6ae6c9ad9e2f10"
+      },
+      "#Q80LUQCJP": {
+        "signature": "6afee7befab34fe20948431506ecf6a32dff999d32266b53a17b4f7daf0a4dd0"
+      },
+      "#Q980Y0LPV": {
+        "signature": "8d0e79a47b94c7e638dbf2067c21eedf6c337753e80c60d4b355e65b489df6d9"
+      },
+      "#QG80Q0VL": {
+        "signature": "dd93c60c151936a9fbee31787fac1f32fbe9cf12a52cb03b25d0df82c50a77f6"
+      },
+      "#QGC90YCCP": {
+        "signature": "2d5ff81009f0c8bad50b6471f6df25c8a2562ae7d2c10dd42f96254d033a81f2"
+      },
+      "#QRCQYG9CY": {
+        "signature": "295698ba21d9f12bda86cc9f006948d0ac4efbea2d9ea4e3c6cb972f3444e632"
+      },
+      "#QRYU99YCL": {
+        "signature": "fbc0713d0877a2e9d62ee5b5516caa0b7fe2558031ab6d5e74c0dc54b374ff88"
+      },
+      "#QUQ8YG9PP": {
+        "signature": "20728b6e8332e744024baf6fbd3933aefe5c082900653a684a71c19ed02f3a26"
+      },
+      "#QVV0U0GJY": {
+        "signature": "3318607a8dfd8491f214203732b3d11c1ffc74ec791b51ea488b55a0f2c06da3"
+      },
+      "#R22CU2RL": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#YCJUUR0RY": {
+        "signature": "d37e238de400c7ba60994f681b9252df76f7643f8312ff5ebae4a3bd3ff3f098"
+      },
+      "#YU0LP00U9": {
+        "signature": "0325a350e477dc7a619962dbd8005048f291de2a4a72378422964ee0ad849c10"
+      },
+      "#YU0U28PYQ": {
+        "signature": "__no_battles_at_signup__"
+      }
+    }
+  },
+  "#2QVJVVJC": {
+    "members": {
+      "#20G929JRU": {
+        "signature": "42bd2adcb55ad7a7f4abff20b403d1aa4fe3dff46934d07d6e5dae8e84703b64"
+      },
+      "#22C8QYJRQ": {
+        "signature": "a067499d91eb6c594ab9de43e12e0f1da26e4e7d8f7994b01ca6ff8d4e316b92"
+      },
+      "#29G92209Q": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#2PGG2RRP": {
+        "signature": "124d96b9d065a33f35b359f391e1c5d6a13464ed2b22758f49d4e1e3ea73135f"
+      },
+      "#2RRGRLRC0": {
+        "signature": "9d4054e40f60b512f1601af1d7b053a417540d5f13d23ac00b1f714ed35f8a9b"
+      },
+      "#2Y82GJ2R": {
+        "signature": "5d37b15c45087a568b68b1184205f85c1914f10d9199ac837957168c9fb0840b"
+      },
+      "#89J9VY9Q": {
+        "signature": "30a01c97bbf8b1f040c535b68565ef8d3e9abdb361865093d6801bf4a8e100e2"
+      },
+      "#8L0QQLGG": {
+        "signature": "aec57dc7b7f8fc64d4065d6451c97c97d21609145a1a89e233c1d6e54ccb3758"
+      },
+      "#8LUU0RQU": {
+        "signature": "6d14f643a6029a7844ef0f059e286a58beed80e88b671c70c77403ee6e6129d8"
+      },
+      "#8PC20VG8": {
+        "signature": "df857e437f96c0cdfc4bbd75cc16251af43a630e12a75c3b95384c682035267f"
+      },
+      "#8VVCGLYL8": {
+        "signature": "6d3f8cfd9dcd76ca85dda3f5606504241efbcb8ca61bec97bb935c8b438db8c3"
+      },
+      "#90JCQJRU": {
+        "signature": "117606acee39015850611ff5cbecd558796d0aecf5ab35e029f34734544d83d1"
+      },
+      "#92LQ8Q9CU": {
+        "signature": "fec78015b7819eaeecae9e052eacc1e188271a2896a2f5baddf97f8cd9f7a9c4"
+      },
+      "#92QGVP2CU": {
+        "signature": "a0ace0b8190ec44055981b7140127fc4a4823a05c743cd65c6964bd67b39a04e"
+      },
+      "#989QJGCL2": {
+        "signature": "a2aedd7ae488aa120c0d1199cdd8a7dc5f149270bcaed57f4e1e5d1ed4e714e6"
+      },
+      "#9G0PR8UGG": {
+        "signature": "ae950d0b1e94298079ae571e90ef91ef626383b416c243bdc5c17675bf37cbd5"
+      },
+      "#9J29V0GLV": {
+        "signature": "0325528fc938ca85ae16f70fc6ebefd156d4eb3dd5e2889373293913e5648960"
+      },
+      "#9JVQYCGLQ": {
+        "signature": "8788662070ac61ec7fe0b149750548b88abb4767a3993033df5e8df95c31e904"
+      },
+      "#9QGRY20VY": {
+        "signature": "f0aa17922a28fb314c5d6e4adc486c8fc8bc3f5f0a6704917f7bb82b93be2cb6"
+      },
+      "#9QGVPL0UL": {
+        "signature": "d6eb766da9ced92ce2ae0422bf201846df91b3fffebafc6e2037c7c87476a609"
+      },
+      "#9QJVV8LR": {
+        "signature": "0a61f321a987205e874be4e2fca84d427e91b304d30aaf722c8a476d9f073eb5"
+      },
+      "#9RQG2CR2": {
+        "signature": "d2031c8f67cd088047195b93987e983839a7fb7b27c866287e9cbfb08d710599"
+      },
+      "#CQ928JYP": {
+        "signature": "6aa210fd543166b56083612f6b58e4dacf557ee69108cd5fb30d4224fd15b772"
+      },
+      "#GGUCLVUJ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#GPJVQYU98": {
+        "signature": "0dd82a8e77e7ea7e20a205a75d72138d64d603d4793d6c3f8ed8fbb9cfb187e7"
+      },
+      "#GV0YQ0RG": {
+        "signature": "e9dfd04bfdb01dd87c52a481d73b721a905a5aad26d0eff82d6a7f8d274504a1"
+      },
+      "#GYGJLR2V": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#JCCL280": {
+        "signature": "3745397de5d11b7955c8ac4138e54b3a868551ab1f2963850541d7fe1b9a3c18"
+      },
+      "#LG2CVJGU": {
+        "signature": "4e19f10aa08df04f066798adfbeb45336eee3d36e2182f99b0cfb08a4a4ad611"
+      },
+      "#LULCPJUQ": {
+        "signature": "592b980a68b9a6a5dee55573c47aac4acc78d55be5bbbc34b543fa373e3c072e"
+      },
+      "#P9GJVPLCR": {
+        "signature": "956d4eb364213fb165e1d111a5642507f7f265c079ea16fff33e6b6f5fbd2685"
+      },
+      "#PC2QV098P": {
+        "signature": "5642026543a257ceaae8b617c8e423b617209120254c89a5f57f4a36ad7b7b23"
+      },
+      "#PG9C9L8L": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#PPPLPYLU0": {
+        "signature": "7efb20972e45a6ebfe0c6e13ca0602feb802fcfcde7edb4815505bf373b13be9"
+      },
+      "#PR2VCYU": {
+        "signature": "91f63c9328a1964702147a83519a20d1db247edfdda9e5399be28e0268a8ff32"
+      },
+      "#PY9CC0VVV": {
+        "signature": "21b41637d8a4db479657ce4663d0e3da823adffb2560f2bf57af5eaa0f36b60a"
+      },
+      "#Q0C9LLJGY": {
+        "signature": "4a8bbd04ad26ac48ee48f26b1157c4bd4dc1d9998a2e86dbcc7140a7c54e09b1"
+      },
+      "#Q9R8UVRRQ": {
+        "signature": "01767339e613dd3629321c670283b812aa45ec1de38835078823d758a90b0e37"
+      },
+      "#QGLQ00CPR": {
+        "signature": "bb58a3a61b809d3fc82df7aa65449074839194f0212745c33c105310721445c5"
+      },
+      "#QJRJV0VL2": {
+        "signature": "d3ba47dea1b6c5bb63fe7d532b1ff1338cdc3d950419ca088d5e5fe7580a68fa"
+      },
+      "#QL0Y0QJQ": {
+        "signature": "ff0006a0f0417f2cab66ae3391754c6bbd1791bdce8b9665a9e004a8e6cf6893"
+      },
+      "#QRGQQQJLP": {
+        "signature": "6fe1027ac3ef2b1a685820de28b8817a86bc60febcec392a88be2a71469caf3d"
+      },
+      "#QVYRPYCY": {
+        "signature": "d03bb743c1e02d184c6903ac75f37ce26637455995506950daf433173b86e580"
+      },
+      "#R0VQRJCR": {
+        "signature": "fde727dac88a2119394c10b232a869d1e592c23051ac494430591e3265cb69db"
+      },
+      "#RV8GR9PV": {
+        "signature": "17aa6be042427ea1b7ede5dbdd36aa2c8c53558b3b51673141b3b4b6402540fc"
+      },
+      "#UVCJ2UCL": {
+        "signature": "f1a4e6337e964b620d70f23e6b3c3016f4f979157fd19e567784b8a29799e358"
+      },
+      "#Y0CQC0RJ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#Y0L0UQY": {
+        "signature": "d09de17b5144728a378ff7787665aaefc4dd955546fef9ba0f89778b3e762330"
+      },
+      "#Y0UR0CV": {
+        "signature": "__no_battles_at_signup__"
+      }
+    }
+  },
+  "#2RCLJ0CCR": {
+    "members": {
+      "#208JPCQPQ": {
+        "signature": "84736f469091759f686a911ddb8b1e8f16ce24752060041da783f7b65b480fd4"
+      },
+      "#20GCV9J0Y": {
+        "signature": "c3d00a9509465719c3eba82efecf9d47d5c862527baedbfb2498ea9b4e1c8ceb"
+      },
+      "#298C8QU0J": {
+        "signature": "9d933f486963b48f87930324d0b1fd8737d303a6e8df5dc9f77f28c1dd7992fc"
+      },
+      "#29YP828RY": {
+        "signature": "2bf05452804231cf18fa93dfa12c5271cc48a9d04393c5466f37c3060953348d"
+      },
+      "#2CP2G89R9": {
+        "signature": "c61c32b8255f01d2182159aa85d2dd6a19300bd5eb27bb4c066a3a2a9b640e03"
+      },
+      "#2CYRJGRG9": {
+        "signature": "ac0b884437be91b8a322e991925e80c702aefb3fa39c85ebfcaeb8836ee491d9"
+      },
+      "#2GCRG98YG": {
+        "signature": "5ac626917ce77fb160863122f1d1eb5ad2b22aa9f8aa16d0e3648ceb7f6bfc19"
+      },
+      "#2QRLL902": {
+        "signature": "21ebebf2bca2b282191e80a2b029a6e6a7a71ba08bb5645ef5c68a7ba6cc5e56"
+      },
+      "#2R9J0G0YP": {
+        "signature": "41e3c7383823a1a24b126fadcf22c591f242efd9f13acbf12f34113109acf7c5"
+      },
+      "#8092QJQCG": {
+        "signature": "ce8d280a49bcc82fbd35d87952ad828571960a32889a02381f89a9017f90b392"
+      },
+      "#80R8PC2Q8": {
+        "signature": "2113f2eebcff938005cba413dc3638f9f4e33e4d6d9071f933fc536607504a79"
+      },
+      "#89GP898YL": {
+        "signature": "2547d14be2b55cc324724e523435b97f983823c55c056d0a9c3f92bef3eb3984"
+      },
+      "#8PGLVPGYQ": {
+        "signature": "0f275ae3c95cfd38c6ddc8edabe5288d379109d78d438fb443615dc336ad9c02"
+      },
+      "#90QY8VUJ": {
+        "signature": "148644e28f01039c9044178285c859abc3bd189bb7c3b07044dc1960755f9e66"
+      },
+      "#99R2VC228": {
+        "signature": "8a6635bf54ada08e0d0f8186e7399b1cc2acc1d8a9f9c0ba772226591efcf6dd"
+      },
+      "#9RGLCULUG": {
+        "signature": "70c199405c226b33d6eb548bdfdea0d3f73934538403127500620eba1ff0e650"
+      },
+      "#9UGVJVU8": {
+        "signature": "6e54866d647f45c0b2694e812c0feee5e5f3fcfa9bce97a8cc59d6381d3ca939"
+      },
+      "#9VC999L9Q": {
+        "signature": "fef50bd523600340b0768f6c9322ee317414ee19a7b942640184e734172870d5"
+      },
+      "#9YRJQ22U9": {
+        "signature": "3a79c25a5f0ae69280f639815d456868b7b1d2327a9be62ce2c5c802fe310f9e"
+      },
+      "#9YURPPQQY": {
+        "signature": "c3b8e20f11b434480113a84760b2858e1c8d562430fe0b97bc59bbfb8a60f3cb"
+      },
+      "#G8Q0LVVVJ": {
+        "signature": "e5a8bd3b084b6624a737e881a532da850e85a455abfa3c0ff4c87f6d7850a035"
+      },
+      "#GJ0PG229": {
+        "signature": "4d80395f184c595da40036b6adfaa61eed79e8c39dd46f7374235569dcb3bb53"
+      },
+      "#GYCVR99RP": {
+        "signature": "9841ad8a2653453b150dc12457359d2abd662687dc15ccbfaddc63cdf0bcfd21"
+      },
+      "#JC9YCUPY": {
+        "signature": "0af8bebdb6de3770b7585bb890ef5f321bd21584894751f7176e5e6c52ba7fb7"
+      },
+      "#JQUYG9C2": {
+        "signature": "17c5c953459177bf8abc83e3cb1a8482dfee216d4f294b04a96566fcf00dc668"
+      },
+      "#L9V88PL2J": {
+        "signature": "25d3f4414baf0298c1d91e24cc46635a2ad17746f956b520c426e0f2cfe29fe9"
+      },
+      "#LQJPJRYR": {
+        "signature": "fba8e196ee24ff23171b7128013a0215c96ded37a3b7d6900b79bf43a20d0a6e"
+      },
+      "#LV0J2GJV": {
+        "signature": "e9efd4f25eab3b438f9701f00641f4de98c24fc839613ae624a08ec00cda67e0"
+      },
+      "#LVJQ02909": {
+        "signature": "86f51afbe126ead7cc074bc3a94e651ba22191ff4fe0fd68a25641b940febbe7"
+      },
+      "#LYQGPV0PU": {
+        "signature": "cf982b51c6446681a16e3d23a9462ff14230b7592691fc29edf7b62c4899361f"
+      },
+      "#LYY22YLYQ": {
+        "signature": "7c19b97e9fef604b3ccbaee31edd26c8e3a155b34e6c1af3a347e3ded74ca3a7"
+      },
+      "#P9G8L098Q": {
+        "signature": "49ecebe8296c606f9e4e91736f7979f8615ca51104f5b72da313b508dd7d8607"
+      },
+      "#P9YGJY098": {
+        "signature": "202f6925c5fe427b4e53ee0179d6960d69743d6e7c66a12f7778c47a1ac8969a"
+      },
+      "#PGUVQJJGV": {
+        "signature": "0d3698bbb93ad9f569cf257e81faba0caef95cef8b057e070d8efbee919eea1e"
+      },
+      "#PLGV0QLQ": {
+        "signature": "ac9d69cde45f7b00097aa3b8e45b214bbca7580f8bc7d0adf98427d13396af2a"
+      },
+      "#PPY8CQC22": {
+        "signature": "2999b07a30e56b9c088030b7f674674c0f5b753a0150f28c6e566a15dc5b529a"
+      },
+      "#Q0QGJ8GY0": {
+        "signature": "327ac65b46fdfa593510545daeede714f725cb8529182215ab655f747b03cbab"
+      },
+      "#Q2008QGP": {
+        "signature": "40ef78bb7084b4b3e4972e5cdcde0795ea39c1d2a199baf73b638848d633bff2"
+      },
+      "#Q20CGVCVL": {
+        "signature": "4d34775dc26ab26394d7ab575db571e6d0e1317d4e2437e3b42485f314ef21f9"
+      },
+      "#Q8LCC9RLR": {
+        "signature": "ae263b0eed246fcde1217c6626a9a951cdfbeaea577d32f902dd6b6255e5ad7d"
+      },
+      "#QY8CCLU0": {
+        "signature": "690805c5d800ca4c2a3afd2e500253f0e44690e43bfa4fb65b973f8881e40dc7"
+      },
+      "#YCL909RL0": {
+        "signature": "908cafa82e0595930bb8ad258acb35a424f2cb1b2d5825b19c2331ff09c6d1ac"
+      },
+      "#YGC2P8QUR": {
+        "signature": "9b1a639c1f86780c17adc056cd79bbf062ba944de0605fe7028cf45c20d941a8"
+      },
+      "#YJC8L8LPV": {
+        "signature": "f34349d510d8573e0ca6646c1d330237d9b8188b0710c4cdb95eb768690e48ac"
+      },
+      "#YY0820QJ": {
+        "signature": "c7b9ac0d6b2c4e985df014041d5f4d67ccb968b3ddca5b7d19c946bc8d787e00"
+      }
+    }
+  },
+  "#2RRLL208V": {
+    "members": {
+      "#2CRG8UUGR": {
+        "signature": "bb5869ed8a7ef7764a5a7d733dcfdd0a4bf7755c7ec67c407d17020f7c8de5de"
+      },
+      "#2JUJRGJGL": {
+        "signature": "40d06effcc34bfa9ac2f472e8ade7008ead9fedd2dd0657b8772e8db563651aa"
+      },
+      "#2JYU9QCVC": {
+        "signature": "c8ef680c30e45463179303af31957aa36b5703957d6b3b4cd27f3589a513a8f8"
+      },
+      "#2LLL9GU8P": {
+        "signature": "0f8d70f307cd46e19d8febfcd23f1cd65d3b470db91252b9f96d5966499e4f13"
+      },
+      "#2R2QRU2LP": {
+        "signature": "f334ad12157a86509bc573112f49df1234bfc0c80ff502dea7187034c872ecfb"
+      },
+      "#8C820VR9Y": {
+        "signature": "3eaa3b4228a52d06b2a588b39f0078484bbd80d40ce08a60d9b7206648b00eb7"
+      },
+      "#8QU0V9GVV": {
+        "signature": "b1e973995cf93b49f0290ba8078c41195420f6e25df1a517e28685c9d6482d88"
+      },
+      "#8UQJ0L8U0": {
+        "signature": "7b2713ee4862b27a88c2b6128e3ad643b68097897873132fc80f67b80db28188"
+      },
+      "#98PQU8QLU": {
+        "signature": "115be702de0f7fd328daa13a39d74939a07c532b22750863ef2638508e1906e2"
+      },
+      "#9RP2Q22VJ": {
+        "signature": "1fa1bb0840a1e6129dd59fb6245471841d96d5e8deeeafac342113eef6221f0f"
+      },
+      "#9Y2VRQVC": {
+        "signature": "3a3a88c52888be931b192780702c056b27a05385f50b54123e6f76a2ae3217ff"
+      },
+      "#9YJ88PQP2": {
+        "signature": "4c04aae8baec53b159fa87bc30a06eee121879f0b3705e38a3bb5929ee58c603"
+      },
+      "#G2VCJ0JJY": {
+        "signature": "36fe4e01f2cc97f8c37a27f6e6290a81e268fa9ffc923e0094c9352195983806"
+      },
+      "#G9R2YUUGQ": {
+        "signature": "1135c3519d179294f5bbfac6e188b8dd8a118d2dface3eea27d37e23beaf60ea"
+      },
+      "#GGRQ2ULG8": {
+        "signature": "6f33fa881c55a16d823231db91c817982d406ec494c9e238dc8a49619e7d7169"
+      },
+      "#GJCLQ0UGV": {
+        "signature": "b15d52c4f0bfdb2ce118def067278f21e7b97e2b64b3b8599d6e4168c4513eaf"
+      },
+      "#GQR0U2QU0": {
+        "signature": "7480782c8abe31ee1307781dbf2d92494ffeff04159a566fe646c72ce3e2fa9e"
+      },
+      "#LLURP9R2": {
+        "signature": "c538af52d5f7dd22befef0237ed0a3273761e9fc246af4dcca04b0d6544dd519"
+      },
+      "#LQUPJYVY": {
+        "signature": "04522015631558f2eb1542f52656df57e1c7e3a974cf56afc095b914072deb2d"
+      },
+      "#LVJ0GYJ0": {
+        "signature": "086a7600f79d29ed919cda059f4c1276af4679c254b7a275189f508f8209f15d"
+      },
+      "#P0G0YVRG": {
+        "signature": "2979106bfc97d3f82e5fd197dbd80a52d896e389af59d6a348b6798f355253ba"
+      },
+      "#P2LRJ09PJ": {
+        "signature": "c1f61816b7dfc1e750aa7893994589203ff670e2e26bf3db530c7cced2e9d62f"
+      },
+      "#PGRV2YR90": {
+        "signature": "29753ef98de754423672b30a9c306fffc9c1300a90acec16dbc944ac1092438b"
+      },
+      "#PLGRPQ8QG": {
+        "signature": "1bbe1165a2fb7f7ca3d541f48234a7c2494f5c78e60714c62f3418a523ce079d"
+      },
+      "#QCGQ99JJC": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#QGC02JRYU": {
+        "signature": "f5623fc497f41f64d6e6270e582f9e218bbb838315fd63c41f5dbeba67432b63"
+      },
+      "#QJYVYVJQJ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#UQVQV2RY": {
+        "signature": "0927842501b30506bc7c45018000b6dc3ebe74bc5414e9732597b7e8189731bc"
+      },
+      "#V092GU8P": {
+        "signature": "f1cab3121bc6deb1b28f5b36fa8bc6df36fd52b54303fefa6c0f54ac5a32bf5e"
+      },
+      "#YCYC0L0GV": {
+        "signature": "eab8481a206fd6eaafe2de1a30cf52a15e72a3d9785966f78dee8a896808bfd2"
+      },
+      "#YQPUVR2Y8": {
+        "signature": "__no_battles_at_signup__"
+      }
+    }
+  },
+  "#2RRU0899R": {
+    "members": {
+      "#28R0R0VR0": {
+        "signature": "45fc3905f1bc086c21a65e48520141fa226aa40f287ff7ac7c1329af00cb55df"
+      },
+      "#2LQR00C2V": {
+        "signature": "d332d510eef2bc58851525e91702c24f011843c50f890ffdc1cfa91122ddc09c"
+      },
+      "#2Q099Y90L": {
+        "signature": "a621ba51c2166dc85f512cb3339c35ec48b0346caa019317517cc5a011902ff6"
+      },
+      "#8290R9YY8": {
+        "signature": "229593b14c985fab1deee00552e7ded24a1d71e5e3d62c7559bc57b6f9353728"
+      },
+      "#9LCYYJC0G": {
+        "signature": "1b95ec4661e63cc22b4acc2f233bc8f4d58c877ef973fb4833f51ab9278d5c04"
+      },
+      "#G9QV0Y29J": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#GJ0QY28RL": {
+        "signature": "3973e03aee7d3b7ca3bcea2baf71d699ef6cb5257e66418bd508ea91fbf8b16a"
+      },
+      "#GP0RUYQGL": {
+        "signature": "cbe5d12c602cd91b860e640330a030198d0cad191e5a2da5778178724ab39bde"
+      },
+      "#LCRUCYQGP": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#LR8L0P2YL": {
+        "signature": "19f287f968e9ec7becc933cdb04ae5eeef857a526f6911eabfc4aa503faa5324"
+      },
+      "#P2Q8PRRGL": {
+        "signature": "4949001f14a70520594cc886eeb58bae35f2ced2ece05e535eb469c2dec0d8b3"
+      },
+      "#Q2V9PL8JQ": {
+        "signature": "2234ece6b92cc03d0b4ff620dc6756b26255e093910260e4acc911fe18c0d282"
+      },
+      "#QQPCCP82R": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#YVCLGG0JY": {
+        "signature": "1e9b27f393c4016596452395ac24c19f9b8bb1c72d81f0ded2a8bd5a8e47f545"
+      }
+    }
+  },
+  "#2YR9LRCQ9": {
+    "members": {
+      "#29JC2220Y": {
+        "signature": "87c660cd8a506228c7ad63b33b94475a87fe4e55ffbdd9e8360feffd0d0a36e7"
+      },
+      "#2G0UU8YV8": {
+        "signature": "e6e2d79e5fc992e3063a84de3dcc6c4bd7764b79979d8981ae8e48dc3471598c"
+      },
+      "#2GRR9UU8J": {
+        "signature": "419513f55f17f9aae9d6b763f1131cdac6e180a7da39b6e9b795121d4f90facc"
+      },
+      "#890J0LPJC": {
+        "signature": "1aaad52362ae7c2a2718dafa38d87b4cdf3fff8befe2e94c6fcde8eaa6c4e180"
+      },
+      "#8J089JQVU": {
+        "signature": "2d9ab32dec94aa2e5620711701ec22e070b61db56fa6cd468a31d7ce1c0be898"
+      },
+      "#8UPGLUV8L": {
+        "signature": "b2027f69d958894a8a74b3353f084ccb3bc7ab005b4efe673ae65d317a392489"
+      },
+      "#9CUGRLJ29": {
+        "signature": "4118f810574daffece1b506ffad9192acad6197844767a506eab7228023ec488"
+      },
+      "#9LQ0Q2C0Y": {
+        "signature": "a88fcb6e12868817385c63b0fbe08c0e26d46c189db048e501be2c6903bc1b7e"
+      },
+      "#9Q28U9URP": {
+        "signature": "459a0741b4ff96e2550b5b32866539e042b1b5244f6c4c79ace472037e8b40cc"
+      },
+      "#GJ0C8YLYY": {
+        "signature": "089536508126c36c6cc52b6cb952a528573967ba6d9b067d8add5942ead912eb"
+      },
+      "#LLCP0VYU2": {
+        "signature": "b51a8125c5498c72bb1a87120a89c8e43532a9d6caf602b3192aa63842ccb83f"
+      },
+      "#LUV2U0YJ9": {
+        "signature": "77e25b7586f32a6098d2fa90647588e53d04d02ca6743cd54e6d746d82719058"
+      },
+      "#LY90JCPLP": {
+        "signature": "66ffe92b955e8075a2173aaf606afac9f6d5e00b2512f05d569c962f15f34b0e"
+      },
+      "#LYCVUY0PU": {
+        "signature": "157cee0d34a23db933d4d6719683732518e99765938aee4d9900c2eeacd540ce"
+      },
+      "#PCRCGRJYR": {
+        "signature": "caac9c4f9ac330a1ca7a74cfa079b1b2141bb5b590a256919b2032162bc00ac4"
+      },
+      "#PQC0GLJGU": {
+        "signature": "7a98f2ccc5fb54c396ff61cc863424823aec42fe9786bf5edd8b25607d0b447a"
+      },
+      "#QCY8J8VJ2": {
+        "signature": "785449374a9f06385b281b0fd966eaf34ef9f1655088eef304ef76522e8ad865"
+      },
+      "#QUY99U92C": {
+        "signature": "0391eca86c983418df558032d15f57693aee2b6c74d0603c1a089ba0b8bbb823"
+      },
+      "#QVQGQLV2C": {
+        "signature": "c13480e2c27f3545b6bb4af1c8ef4e791f9c1b27ecfe76ddd202161b973266b1"
+      },
+      "#QYPR0UYYC": {
+        "signature": "5a77d9548c528df90beca4d498978dabb00f8d95691bd6854b4a3f2cdf985609"
+      },
+      "#R0RPV0QY9": {
+        "signature": "873538101194e9772fd506ced2ac216268abba219bf4cb10caa038f1f41b11d2"
+      },
+      "#RYCU0UUJ": {
+        "signature": "40aeb2a306ae7022e1aeba35fe16d8c81798e6f4d1bda200e38b0a0aaef6635a"
+      },
+      "#YLY2QYCC9": {
+        "signature": "74ff4a69ea8faffe1aa6e2b2c48c7237a39aadab33249d3bd1e1e5bab650dfb8"
+      },
+      "#YQGJ0YRQR": {
+        "signature": "f5e9d0419a47f02aacee620a18912a13f1c93c2b13ed0f16457863251962c54f"
+      }
+    }
+  },
+  "#9R8YPYUU": {
+    "members": {
+      "#20L99G2QJ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#22J9LPLVV": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#28G0R0CPR": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#298YL20JP": {
+        "signature": "e01b6a971cc25f44bf16d3aa98e00c9206b53137d5d6c4af78649485581ab8a0"
+      },
+      "#29JYV0Y8J": {
+        "signature": "235701392a1e165a1f60031eaed678ec13e2d9d1a78a9740c4354a8fd8f1c597"
+      },
+      "#29UGU2G0C": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#2G202R2UR": {
+        "signature": "02c4e20065b651be2dec51423f54ea0b1da11f0978031ad7a9d60d6a997de67d"
+      },
+      "#92YJ2PL0G": {
+        "signature": "e5ff5be7905499a79aa307a843cf02989c58d0e03bc2c28615000eb1f533fa9d"
+      },
+      "#9PRC0YL9J": {
+        "signature": "27607e75633a17d679422ece26aaa87346dedc7d73f254d4425f57d2dc40cb74"
+      },
+      "#9U09000J9": {
+        "signature": "7df0f8a7ec198acfee6db82bd8ba823a9e30600658b5c3fbbf2c18b03ec5932f"
+      },
+      "#9Y9U8Y9PJ": {
+        "signature": "7f37af2f331a65ce88a23cc23af4d10fc2c6b5ecb56b3533f325e3a2e5f39384"
+      },
+      "#CVRYYPV0": {
+        "signature": "4404addb620e9a5e39ff39035f88fb338826cca6974ce5edfd14c9848d35d71d"
+      },
+      "#L2200QP9C": {
+        "signature": "d5c40d6e15b3a43261b42937f5e2c1bd36973fa53e86fa4f10beb63dd2391e33"
+      },
+      "#L22QGVVL9": {
+        "signature": "6fa40fe09d132a61ac581337f4b2c2f4ec010623019c4a7efb6065310f5bd2cd"
+      },
+      "#L28RPLQQC": {
+        "signature": "b1d916cf81e053e94a7d6d1bb863023324d59197d558e21093cc7f60cd61442a"
+      },
+      "#LGGGR9QPL": {
+        "signature": "2299ea268edd4b96ecb19e542ba2c76ae280eedc4a2e769c6f5bebb8ae0471b6"
+      },
+      "#LGGLVG99Y": {
+        "signature": "e5c0f30b67dd5b8d10257eb8b897eb65deb70b60d6820f0907bcf478fe092afa"
+      },
+      "#LGQUURVU0": {
+        "signature": "502b925025feedffb3786c9df0a287d179c45662a44b9842d50b42ace4268dbe"
+      },
+      "#P20Q00GJC": {
+        "signature": "910d018be0e29a769b3c253669503a908de476d36b1bfe75c3bc25826bfbf80c"
+      },
+      "#P8QCGC90C": {
+        "signature": "d1beeb9a6668705ccd271f2437f72a0d5aab03c812f54f38ea633670506f6bbc"
+      },
+      "#Q892YJCUL": {
+        "signature": "e765ecac86b329bc21c9870254d4479bef3dd74b1262b555217ca7c9d50e4d35"
+      },
+      "#QLRG9CY": {
+        "signature": "20b3bbea2f5dad755e750b23e9b64aea4528944c6851c5b9298893318fd1c12d"
+      },
+      "#QUJ928VVR": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#QUVU28CLL": {
+        "signature": "4b45836c08f8d13f0dc747db61be471275a18bc6e3dfa26cb5991a565c0b7168"
+      },
+      "#R2082C9R": {
+        "signature": "061881404f2f20dc9a79d5b9466afcfca1b1c7b789b9a9accae2c35abef637c1"
+      }
+    }
+  },
+  "#G9YGVJJG": {
+    "members": {
+      "#20R8GJGY2": {
+        "signature": "a0a3de1a84e825532b70c1413255b749fb7cbd90a534ca6d68259386bfa078b1"
+      },
+      "#22R989C20": {
+        "signature": "3bdb923740deb4b2ff9151a3e7861715b28b48fcd292e2db8d569757da46f3ec"
+      },
+      "#22YPGUJ0L": {
+        "signature": "2866b2053619f9d5ce1db3d4ce49b0113c0fddfc9ab5100026bd8d90beecefee"
+      },
+      "#29229P98P": {
+        "signature": "33b05c2449b5e8a3621be19cfdb103bb54b1f1fa54c5d0af010e64cddbd73f0f"
+      },
+      "#2CJRUY00": {
+        "signature": "7f045fd0f47d05b8d6d7eb88fb5e618cc638b20c0ab7b242be2265c4a38f971e"
+      },
+      "#2PCGRJL9": {
+        "signature": "245d2b6dd4716f598f99f931813740c9580f067c45d85c3fffc805017296b409"
+      },
+      "#2QGR0JC0V": {
+        "signature": "3b666e0d274882707adf22cc0679deee66a4dca9990e8345dd907c740242a7bf"
+      },
+      "#2Y89V8CUU": {
+        "signature": "1cc47195c6ae1362420341a5b056c5e31795ef2aeafcb96cbc24effcd8de44ff"
+      },
+      "#880LGGPU9": {
+        "signature": "66b974fe74010bd1d6733f49408df17f60f971ee324c27d5341e56a142e85d41"
+      },
+      "#88LCJ0VYJ": {
+        "signature": "ae9b9adccb6635ea5dc9f9866841a3285824eaddbcb59be0c30a821288170061"
+      },
+      "#89URPJQ2V": {
+        "signature": "df2f65bba3584949de3d2cc35b5b5a0b05abe6140597802de42bc43316eaaace"
+      },
+      "#8CPJCGG9L": {
+        "signature": "146eebcd830a4f2939442b4bed82b4d78be97af516c44e83cfe0836653d6a638"
+      },
+      "#8J82GGQ0C": {
+        "signature": "f5cfac10e1ef98903e21e87040db0047e486ba64473399b22d760d7738fcba0c"
+      },
+      "#8JP0JYY89": {
+        "signature": "4d6ed64872b2f86a63583eaac34a522fad524601b950d5adf8f008ca53bfc0b5"
+      },
+      "#8QCC298UU": {
+        "signature": "ec8785987992436f89264b4670ba70a3456bfa45752f25cdc26ba1db1fb46406"
+      },
+      "#8QR0JY08U": {
+        "signature": "379b7912aa2ab9ed1f322b23b03a5e1149e092ae165325d811754be4526d7d43"
+      },
+      "#8RLV8PGP": {
+        "signature": "bf5e50a84af8839403061ddc02c9a3af868650088fe16ef823e2c6721409c3b4"
+      },
+      "#8ULQ0YRQ": {
+        "signature": "907fe2ce45a6d7b81e5e0d3fe4ff28add314091c2cdbad25054c955926886f01"
+      },
+      "#9CRQRP8L8": {
+        "signature": "0fe2fe01ca36d486562ba4807d91b25cfb6168a07bebca0626762ea7efeae5f7"
+      },
+      "#9QCQCCP9J": {
+        "signature": "20d87254b59e4663a6093b7fd9f6cfa7a8b4a770766e8b21c606d2eb87c60e82"
+      },
+      "#9QP2LC0": {
+        "signature": "9398fb5800d75abd046c6b4fca18dc126a18c33e8912c368bd2974a36f6c0984"
+      },
+      "#9UL0Y9P8Q": {
+        "signature": "5dbd41419cd614a4be02e5ee10606fd98408b5d23505d98e3d319807424b016e"
+      },
+      "#CL2L892R": {
+        "signature": "e80b1783a855b4650484169a8f8ae76e65064e8d5d74c50adbcab6a2e8111891"
+      },
+      "#G22QLYU0Q": {
+        "signature": "48a67838caba2b0f8f3d6aee26e0bc4db6b878a069761079b01bb197d053a3c5"
+      },
+      "#G9LLQ89R": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#JG80G9LG": {
+        "signature": "5c7d6aa2426e1f27bc4ba2fa5128267b1e9d20d73a193d0ee0d4466d3a8ce2d4"
+      },
+      "#L0PC2P20": {
+        "signature": "a01a70bcda244d19fd09df769407232368f6e2c84b0c1a1c49a77bfa66726b18"
+      },
+      "#L80PVCR99": {
+        "signature": "4006c0182908dd1138f0362c4ffd5b3d937f22ebf299fe6bfcf7dc1669441542"
+      },
+      "#LCY89PGU2": {
+        "signature": "cf028af8b36cc61cd038966b728a9fa62ddd5c2cdbeb67aa13ae6f945e6322ee"
+      },
+      "#LG0JRL0G0": {
+        "signature": "806dc0d86d1604095dfa9d998c3f7511c9e21a1931947952ee271bc6062e5c44"
+      },
+      "#LVQ09PJU": {
+        "signature": "42348fd4793f8985aed31144074fe195010d089b6e5530c2af734e8b35cc2b3a"
+      },
+      "#LYPR9GPUU": {
+        "signature": "f077b0726c0e22eb70cb1a6fc8c7ccfaae12023c977a1c3051e3eda99064e649"
+      },
+      "#P8UQ8UP8": {
+        "signature": "8fbd47939e515709fe8c1f70c26f406853279e89fc2a779e508f338614fc08bc"
+      },
+      "#PCUUY8YUU": {
+        "signature": "4ebc4bb67e6a2ceb4f2862a538ff184a4a52dbe83e56fd3114eb8608c34292f3"
+      },
+      "#PJ2LQQGPV": {
+        "signature": "556a6e78d0febd0832df058b968e14aa3cd973be43942dbb8cd6fc25acce2073"
+      },
+      "#Q0CVJ0999": {
+        "signature": "7c79970e199e59d4d9bd45f7f1d4593def356432b6a66de148e056f147dc840d"
+      },
+      "#QL0RYJPJ": {
+        "signature": "1d38be97e1340983ecd034237be9fa88bc61cb022e6be4ea52672b1e7492452a"
+      },
+      "#QP2JC2QJL": {
+        "signature": "9bdf03653ea5500b6cf23b9a541d8d760d0ffd35a6465764151884dd4fed663f"
+      },
+      "#QR02J8R8": {
+        "signature": "fbad8ebe35ebf9e34057136875584f61bd4dedd16a6d709ae41591874601ea9d"
+      },
+      "#RUVUU8PV": {
+        "signature": "cc26d8c6c7f5d6bddf1b02756153d1f40b2fee6c54f6f23ecf2e5e7c554ad05b"
+      },
+      "#V28GPVLL": {
+        "signature": "fcd1dc8935c9d18db98da54b5357e72ffb3c64ea5de6a0f2aaf8d0b98d54d85f"
+      },
+      "#Y0RL0JPGL": {
+        "signature": "465edec7a3448ebf050ba8b945f507b871c996359a1686d82ed633888532b853"
+      },
+      "#YJ8RQL2Y": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#YV00G0LGP": {
+        "signature": "6b86da0d4cea7dccde25bb5eaa11a58b8d1aa6d2153cdeae80736886bc65d7ec"
+      }
+    }
+  },
+  "#L92RGV90": {
+    "members": {
+      "#2G2R298L9": {
+        "signature": "2b86c0277193ebb5ba479529f5bce129d9bfc7f730bc33ab599baeee6c7d9284"
+      },
+      "#2U9V9GG0L": {
+        "signature": "7253f2b2034fe467c74b557138ab3c8e347ce546af2550bcf4c219cfcf27ce09"
+      },
+      "#80QG0QUQ8": {
+        "signature": "de8500562f1ce6ca9b6f81ff66e86310f0ab371e7f0d654fa9a4eed258c3fe07"
+      },
+      "#8G90U8JQU": {
+        "signature": "385a36cbe8a835951084979c36afbcaedeb19cc3560bb735681d55e20234fc7a"
+      },
+      "#8J8PP08YG": {
+        "signature": "5b97be00dfb84b60a685f3af6a4b0d2ab94019512f27bb7675b66632d3c93724"
+      },
+      "#8PJUYV9Y2": {
+        "signature": "94d2d556b11f68fe5cddf4b66c27ce54fa23834e03d1a6f5ad4448fba0afe059"
+      },
+      "#8R8PC2JC0": {
+        "signature": "36d6121243ee093c9a22c9d21e93fcfeaf5aa8e071772589f055b34b6f47dc38"
+      },
+      "#8RVJU8L22": {
+        "signature": "a2781712015ab9d570453064670313e71e0614f49d1557fa829e9e17e4e13a58"
+      },
+      "#99LQQQVGC": {
+        "signature": "30038b0c3e749e6ac4b468a3dcf86a0b5ae7a489b6bf029411d932b7a259d2c2"
+      },
+      "#99Q0PV98R": {
+        "signature": "e2e1e7b42a17e5262db9492e35bab4108260d52af650550bbcc9f010a5b4ee94"
+      },
+      "#9JGPPGPG2": {
+        "signature": "4bc964816d7008a2d6fa75c8c7a39a259cdc28bb32c660e800d5b8605bd2b4af"
+      },
+      "#9LUP2VP0C": {
+        "signature": "1cf3350af5b6c35250e5cec94aac8504d223cff924124bd7b0f4748ec79b1503"
+      },
+      "#9V2CULUCC": {
+        "signature": "30451218a892698298e2af5ce3462c5e4dd113ceb10e830b6efcf4b129ffefe5"
+      },
+      "#9V2LCJRRU": {
+        "signature": "e2cb0a414c7baf060b995d8365745e57713d13937eebceea41b9250fa79a5047"
+      },
+      "#9V8Q9CLG0": {
+        "signature": "5dd0cf1745f0b6f9548e7ebce25fad515a8ba6f3f718a02d6b9aef787e7dfa94"
+      },
+      "#9VP8P0L98": {
+        "signature": "a984ae74a371bc948b2651688698627c9b34adc54ff62c889d3ef105a68d95cc"
+      },
+      "#9YCCG8UPC": {
+        "signature": "a4f68ccfc3ac0f30edbbeb5a12ec686b08971fd44208a7696da066a659ef4d62"
+      },
+      "#G8C82RU2J": {
+        "signature": "ed10d64415a085339855938224c441554890cf38cb4612173e0f10dcbf5d9afc"
+      },
+      "#GGC8Y2QP0": {
+        "signature": "cabedf251c6c17f2916d406bb3f9f748af26ff5a97192e6ae0be43a7578ba154"
+      },
+      "#L9LRGJQQR": {
+        "signature": "d2c4a662561a62f97c78c91fa4ea5eda238e2ceff660f4d907aebf4cb1286ef0"
+      },
+      "#LJCCRQQU": {
+        "signature": "84feb68288ffb92affb6884aa30a4ed8532a5dc15b656d5a3521627435201acc"
+      },
+      "#LRLGG0GQ9": {
+        "signature": "48ea8be4c5c03603d036902c0bda17926386c185cb6e556b11dd4bbe48814676"
+      },
+      "#LYU082CLU": {
+        "signature": "975e8c5b1b9aa5f498f01fc5beb67e0e229ae1f3ab64f3e18420ecc2bc9039f7"
+      },
+      "#P8QVQVYLJ": {
+        "signature": "9f3aacddb2cf322074e511a14874a01271e636c67fa679393fb7a2ed38136855"
+      },
+      "#PC20LLQG2": {
+        "signature": "0bc6a48b7a377ebc6915660c4d7353744ead9d16d21065db5f0441136b385134"
+      },
+      "#PGJ8JQRY9": {
+        "signature": "99cd7cfd20dbec6a95b78ba24a4a0391d10fc04d007bd25edf7cfb553d060c5f"
+      },
+      "#PVCC98PRG": {
+        "signature": "7273d339642ea668bdaabb5101991d83b78b81a34ac06c7aaf8bea42c77f25f1"
+      },
+      "#Q0PC02GV9": {
+        "signature": "995c384464cee5beddbc8bd13215086ea36577d4d0071f3b76fd74a2f784a500"
+      },
+      "#Q9VQ9VVU2": {
+        "signature": "e8b4a86f029aa424bf77a5a7d492dabe74088f3249f2dc0d985a39134f8a5755"
+      },
+      "#QPVJ2Q2YY": {
+        "signature": "67bf810041e54764b865bcbcb9793d7e2671aff576fc35450630a5756b901423"
+      },
+      "#QRJQGPL2V": {
+        "signature": "0eb291c635c00c8639309ba2ea1189320ca5fa657df3cb32826f863e98037bf2"
+      },
+      "#QUU8JGR2G": {
+        "signature": "41f45f00495b04df3ea2d66b913b59016b57e3b1738aeb5fab943548d07b0600"
+      },
+      "#QY8200YG0": {
+        "signature": "1f97e28f725b8699298dd92285c6ecd877da547b21e56a3ed45a4c2672fb28e3"
+      },
+      "#QYRVPL99Q": {
+        "signature": "a0f6c0c55d0e53b8a717ab8faf598bc174b654fb38d15b610f6a4837708fcbca"
+      },
+      "#V8RYCU2Q": {
+        "signature": "d4ac0faad74316049136dc5271559fa7291fcd89cb2b38e8963c1f3220e58117"
+      },
+      "#Y8CG98PJP": {
+        "signature": "a5c6e0bdb3ba1f57ab5f8864ad70b327bd63ff4f14060fdca4d26e47b9f1f121"
+      },
+      "#Y9PQY8PUP": {
+        "signature": "2d7201785b8cfffc95971420ffcd4cc1d6cd58b103a4557c1fbad9499c070b1e"
+      },
+      "#Y9R0LUGLV": {
+        "signature": "800b87758cca455acca54f69e069b50fe59e500d28a6107eb9ae07af198c3078"
+      },
+      "#YGLL990PG": {
+        "signature": "63fcf62e54123e4e88cc28f669a2f7a276103961a76c04cc48695b46a03c9f32"
+      },
+      "#YL0J0YLQL": {
+        "signature": "5a3a5eb5e4d9a751a0dc7ef2f1fdd877bf2af504ef7979f38c8d0c58a40ba488"
+      }
+    }
+  },
+  "#L9Q8PV": {
+    "members": {
+      "#220J92YLC": {
+        "signature": "6d8f6226759d44bb74a2a6278889ec2e6fc14b328d5cbdd6d5bb63002e44987f"
+      },
+      "#22P8UGQ80": {
+        "signature": "701d047d9a111668977759de4c86aaf8409776ab34a876c12007128b49ebdc39"
+      },
+      "#2J8Y2QJQU": {
+        "signature": "8b57e57453eed3492cb4f4e2214787089993b1547ba3ebbba156136def0f910f"
+      },
+      "#2VGRVRYCP": {
+        "signature": "083d7dfe6a8acb60c0873fed80bdb55285a86a3f90a2d1ae29cc8a9396ebf445"
+      },
+      "#88LPJR8R0": {
+        "signature": "17961481032b995971378dbc1d1d829db7d238279d838da0fb0b295256ee3d52"
+      },
+      "#8UU2V8V0Q": {
+        "signature": "05c4c62981c7b73949bc35acbf2ca71374d4c270f8143c2fef7d866c37d051fa"
+      },
+      "#92P0U0YR": {
+        "signature": "525708b8be6cb6f2210e0a0d712f7ee4b8f582a5fdaf2af5eff6e3242b0827c5"
+      },
+      "#9J2C0LCUY": {
+        "signature": "612587614a5324c13f274455354863b334f8bad5431ec3f4a33302ebbe0c22f7"
+      },
+      "#9RR8P9080": {
+        "signature": "11c63be292b3d05f46132a1b0d838b8d041eb0601f60b0c45b6c57aa4a811493"
+      },
+      "#9UUJYU992": {
+        "signature": "d248bb6d482b228feacb0ced7b097a94eda4476f37874a20ef5aa60687833869"
+      },
+      "#9VVQGPGVQ": {
+        "signature": "62df764a2a185b352d461bfb82c157b265387634718dc78214064fea4d33c887"
+      },
+      "#CY9PQC9P": {
+        "signature": "5489ba408b3b2a5c51bf6e9360165cc69d77ce72137c03a7d723126b5566e588"
+      },
+      "#G8RLGUYCL": {
+        "signature": "524ae9a4a3f8ddf05849acfb055e63781d057ba4c09339d607598aad82772724"
+      },
+      "#LC98YLPG9": {
+        "signature": "826b13f33c371348ca0563cad8f6e1f4fa0198ea680c1a368d7df2264c161b66"
+      },
+      "#LRC2VCGL2": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#P9CLQ0JL": {
+        "signature": "7ff83e96cebf1d1f6bb705b59b6e3b308a7410eb4e3eab981011ef819dd6799c"
+      },
+      "#PPV0C9VPL": {
+        "signature": "efdf007f56c85a299145be9f44fcbb3cd74d347a4f913fc59eb861cb8a060420"
+      },
+      "#PYVC09YUV": {
+        "signature": "5c3cbf4b10d80a71f0ca28757ae0c7ad9cf6a81ebf3df7a34953f5d6bb110d6a"
+      },
+      "#QG9PLYGVL": {
+        "signature": "5b109cc04342e6c8435ce6d18cf7dcad821e78af7760d8ed0c4c381e4f243914"
+      },
+      "#Y9GQJGJJ0": {
+        "signature": "4c15a1a64edec12366117a0fbfbd834d0eba9567aa6039ad904d233e4fab1cd7"
+      },
+      "#YVV8U0GCJ": {
+        "signature": "6b57d72530cacaee76e6c4777051bb41e8a8d6f2a9cdcdc6aa112de72592237a"
+      },
+      "#YYCVQUQY8": {
+        "signature": "0780cf630c71c3736fa5e70df78fa44a80c392305dbcc56d0811d40b408790c0"
+      }
+    }
+  },
+  "#LYGQUQJ2": {
+    "members": {
+      "#2GQUU2PLQ": {
+        "signature": "55798215beabce79e7e151a1d43b0b71bd12a5066e66792b22a8d1c285da2e45"
+      },
+      "#2JRYP98JR": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#2RP2RRGVQ": {
+        "signature": "a8986edb5ece733df077bbc8cebf78b0301d20785a3efa00b008643777d08576"
+      },
+      "#2Y2JRQCCU": {
+        "signature": "64e13420c8abb16f0826d8526b11691be9b691948f6c36a6fd7911c24dfe5602"
+      },
+      "#8C2R89Q0G": {
+        "signature": "5a30fcbffd708ee9462ac705517535963cc9d6c7d02dc96727e4e9fb0876b4a9"
+      },
+      "#8RCR8U9G": {
+        "signature": "11716f59c8a5347a50dd704d606e35125209a1c9f1ef57039489513ca8a28ca3"
+      },
+      "#8RUYVQPR": {
+        "signature": "e8c4cbc333172e68e2e88ddd498a72e922b593cdc4cc47ce847e6eeb1109fe7c"
+      },
+      "#8VQPJJ9LL": {
+        "signature": "8114f7d8d553bfc66905d72a653635bd495ccf8484415c350c53394e5533b011"
+      },
+      "#908LR80R0": {
+        "signature": "e6177b7caddc893d6899ba877c1dff9a75951f655361e6f10638a2092172de96"
+      },
+      "#90Q2J9QGC": {
+        "signature": "f12fb528fd26e155397243badecdc724c6f4e6a0cd4da8e8d96f21c54a355b9a"
+      },
+      "#922J8Y8LQ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#98RUQ9L2L": {
+        "signature": "2a97ff369b9379e259601b42d298570399bc54e14c4cfd9f80ef3418c6a9bb6e"
+      },
+      "#9LGUQCUPP": {
+        "signature": "148ad4f1d29caf57354297580ce7f92cdef8844c3b276eea274a8e527c6521e8"
+      },
+      "#9LVPGJCYQ": {
+        "signature": "1bde616312aa37f69be40f9d90c6907204f71c29b6e8f6dfdb507dce0c485629"
+      },
+      "#9LYUC9202": {
+        "signature": "30afb566cf208960a299bace819aff8b25cb1d8214b08e150b38ea0e65baa217"
+      },
+      "#9YR0V9G92": {
+        "signature": "285e5051a7e24c5e22f8da69fbf239260f691aa14f56305c634dd4029aec63c6"
+      },
+      "#G2Y9990GG": {
+        "signature": "0426d397b8a00563ca615af0251d82f4b27dd2515416de18a8f475b7e20485a6"
+      },
+      "#G92JV2U29": {
+        "signature": "13f30352f6b6f0ab35e1af326d375d999c389cb9174e042ab876621629918452"
+      },
+      "#GCU9L80P8": {
+        "signature": "d7fea07ad28f788e3bffc00dabf6446aa18348571db4c96e4216cf276ab83c21"
+      },
+      "#GJ9RCVV0": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#GQPC8JCGQ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#GR9CVRL9": {
+        "signature": "d5e75c256fb8e3005bc19f45b124f7a0ce4d8a8877a93a845888f1be5dc38081"
+      },
+      "#GRYYL9VCC": {
+        "signature": "840f0c6cbfdfc5531b8563e12ab6bd34b0e7d2304359d64694d3618230708f19"
+      },
+      "#L0998UYYP": {
+        "signature": "c08f0577ed4cd2619db70f3922ba358fc3b9ac550a293293becfa5fbec449f65"
+      },
+      "#L9RY0G2R8": {
+        "signature": "2e8ffa05866002478cec7f71be14809492a6d68fd3ac91ccf18273c3e7e7d314"
+      },
+      "#LC2C28VP2": {
+        "signature": "852ae2055fb704d6b94b20e5c0dc28c48fb5100adafd4fbe6b050f728c3bcd69"
+      },
+      "#LGGCRLYVP": {
+        "signature": "c6b368f7023f01f81a44cd6f0758a4ab324f43876375054cb664d2db0c29e22f"
+      },
+      "#LPYCLG00J": {
+        "signature": "a1067d3ac7fcfc4a09763370ebe8aca1c273b3c3e24bb5b072832a78520ee380"
+      },
+      "#LVRVGUPUR": {
+        "signature": "b2e7597c18e0c091418d4efa13bc30d58e5d3aeb528bc10038d31d85ccedc047"
+      },
+      "#LVV9PY002": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#LVVRG8L2P": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#P0JQ9PU9Q": {
+        "signature": "0f94f9f15050cea96fa9b4e2d1ae607db0ba41162d2d333b03826749688433fe"
+      },
+      "#P2LPLLY9G": {
+        "signature": "d7685d40a03802795719c38aebdbd5f3db222ba05f3bfa12088589f32304a3dd"
+      },
+      "#PUP2R8C22": {
+        "signature": "ace74ba54545e2802533936793092581db1c29b8f7f90bb78c24852c82c0e5dc"
+      },
+      "#QCLQQP9JJ": {
+        "signature": "639ac5f0408fcf8f32e703170f20f4bdbdcd5c47a1d26d9f4843d5eb1a0a511d"
+      },
+      "#QR9VVGUP": {
+        "signature": "fe4c15ae4c80dc22cc79ae064b4cb485112ce167424e7b8260a271ac113b8913"
+      },
+      "#QUG0PQJ8P": {
+        "signature": "3e05637f680371e07013023301a94fb5ebdd3dd77ed95bc1f52cb4993b97d07f"
+      },
+      "#QYU0CP00": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#UJL8VPV9": {
+        "signature": "d0776a748a52eed6bbfc91b80c274f479f590a91eaa5f510fdd357a7f1c48c3f"
+      },
+      "#URVQ8PJ9": {
+        "signature": "606a426bc9879af53c6c50c0b467c3f22361cce9e91e08e3f8334793925db8e7"
+      },
+      "#Y089JRGVQ": {
+        "signature": "3eedbd925b469e1bc4b3194fe2af93bd031c3391ab09e3ffc391f3ef8e52edd3"
+      },
+      "#Y2RVCLYPV": {
+        "signature": "2a3792c066b86efb76e0f8844104ba0d205405dda58de3645cda0900a4510950"
+      },
+      "#YC98922R2": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#YCPYGLCP8": {
+        "signature": "0250091de9d47d87fc742ab3e6e0b9852e8ff56021d99aca39c3018b4ad2f993"
+      }
+    }
+  },
+  "#PU8P822V": {
+    "members": {
+      "#2PUPU0Y9L": {
+        "signature": "c11305538d2a2e2f9aa2dd17b514d4415d131c9b073d08279dd1642b41dbcbd6"
+      },
+      "#2UQPRLQCY": {
+        "signature": "49037292ea8ffa6027fc0fdc390eca85d2779715a0ac0ab2ae50061346dea886"
+      },
+      "#2Y8J8URCJ": {
+        "signature": "c3e4b4170a7c7b18833e4d5e89c6d2e29ba9a147355d912195f09d6777b0fb7b"
+      },
+      "#8QP0RQV90": {
+        "signature": "c188345056fe264b5528261fbd24215c171d150d6a2464adf0f2730ca54bff49"
+      },
+      "#8VP09Q0QU": {
+        "signature": "64978a03274232ff27a3bb5417b61b7083486acf5258f40819fe15a8b46e367c"
+      },
+      "#8YV92882": {
+        "signature": "8267d0070303cdd05bd42075fe4cd6c2518621b948e3a26b82f8e0b20b0cb106"
+      },
+      "#98J0L0RYY": {
+        "signature": "2767320ddb5694fcde13c1c8f0a0d08d934a7b93a47f9171d02ebe3567232909"
+      },
+      "#9990U22UY": {
+        "signature": "c61e84acb0ce96aa36a97334af85765cc9994bdd99809731a04e4b13e1e41dec"
+      },
+      "#99YRR8PJL": {
+        "signature": "bf3d5e7ff9eae1e1764dc13fd89addbfba06ae07da5577ff209d09e79b8328d3"
+      },
+      "#9JCG8008L": {
+        "signature": "75b3a684d9f3123bed632acb59c922159cc4c3c6bd9ad19fbdfe38d16d8e5035"
+      },
+      "#9PVVUJUQL": {
+        "signature": "0a5f6b36a9690a450228208e0ce462a285d993df96a4fbae88a3fbf6b7f6a1ab"
+      },
+      "#9URL0GUJY": {
+        "signature": "418fe28435e688cec9e947f31224f0e816969813945afa7eaf3555138072cf05"
+      },
+      "#9V22U2YL8": {
+        "signature": "034ae67d913aafb094c33b54e69dd0e35bac9212b0cb2e05d200965b20ab030b"
+      },
+      "#GLY9J9UPG": {
+        "signature": "bbae331d544bb85abf2de607082d0aa4c8da06ef2abab86bd0aada7e8d408677"
+      },
+      "#L8P0LLQPQ": {
+        "signature": "305d30be0ec91a8dd21e36fe9fd6432b9014cb96f3db176ec9b2967835a1273a"
+      },
+      "#LJGLLJLUC": {
+        "signature": "c8b780eb7d1b0571dd89d0c46183a0d6e3a3a1c380e3078062991474cc6e0f6e"
+      },
+      "#LLL8CJQUC": {
+        "signature": "bc904b8a4a75d1aa6c1b3668829e8810d8b6cca25d981fabae3ca0a3c145b15e"
+      },
+      "#LLV02VYUR": {
+        "signature": "da3fe0603e0e6514eaf6bcb4bd2885a9c53c8907159a5a5080e1912565e9f5f4"
+      },
+      "#LPULYUY2R": {
+        "signature": "e57793a27369e10fb5e821a62f1157720e78ea3c8690acdfbc0fcbedf34ad2cf"
+      },
+      "#LQ28Q29L9": {
+        "signature": "71961a35710e8890b1527daafa79d1365750fcc835b1d0b2d1c050124e91ae0c"
+      },
+      "#LQU9J8UVY": {
+        "signature": "e9a6966820675fd4f342a16dc927b9b4a0684aaa03935934f57ba6d276b20fdb"
+      },
+      "#LU9PLGQG0": {
+        "signature": "fb7cc57430a38680f27a6cc37f55a9b8e65ef2c52fd4c65f26853a2437056584"
+      },
+      "#LVLVUVJ22": {
+        "signature": "38a0c47c4d8bcaf84b9638c8c50c41262065acb0420baa22d1ac00b7916ebcf3"
+      },
+      "#LVQJQUP88": {
+        "signature": "cebbf75127f814dd5d946025077e6115d07d373c4e9885e3b95b9b41c658b437"
+      },
+      "#P08RQJY99": {
+        "signature": "4bb570a3200e5bfa4ad77cc4f5cd8626fbfbaa8ce430f175c2b1cae155031c69"
+      },
+      "#P0L002JGQ": {
+        "signature": "0bcbbcc4e516f61bc0c1cf4efbb269bfb58487ab3c4c03425d716579f8dde285"
+      },
+      "#P8RQRLJ90": {
+        "signature": "a3710ee93db93e83a996e1c86383196d4f37b8f5b9519b3e3e7ecf8c47a9c749"
+      },
+      "#PLQQUYR0R": {
+        "signature": "90f6d6f96e6a9bd867112fb6c63e655c75b21b519ae4bcb447b0aa4753a9a4c0"
+      },
+      "#PP9VJ2L9P": {
+        "signature": "f2b9357a64fb4851c6a74ee9de70bae45346b8f41abecac831488f64f27b2c45"
+      },
+      "#PRCQQYCYL": {
+        "signature": "f06e2fff1bc2f5f8ef9823c8facba7242ccb70c05016c27d3e0f03881edab2fb"
+      },
+      "#Q02VGJUC2": {
+        "signature": "b78fd2d9dfb7ffac9694847c8c3a473bc2006157b3371b2c584c0f466030ba79"
+      },
+      "#Q8YC8U0JG": {
+        "signature": "cdcd7dcf2323c65657b229ed88c13f08abe8ab95f2ba20ee601ef6856cd2771c"
+      },
+      "#QGJU89UUC": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#QLP0CUCL2": {
+        "signature": "2ea8ef6f152a359497dc03055070c1341ce76b8dc30b133fa0613ca5ad6240d4"
+      },
+      "#QQ0YYRPRU": {
+        "signature": "2477ca8a1e44b7253408a96e92ef59bfa822648f9c996c019d52626ab627e494"
+      },
+      "#QQ9VQCLVP": {
+        "signature": "7ae9868a7997314a0b91e533bb92fa310e05c56a313ef6a14e44cc17dd06b917"
+      },
+      "#QRJLC9G0C": {
+        "signature": "b83c33ff016a3451fa4d690fd2678150731cd54358fcf29e0433fa0267b91ffa"
+      },
+      "#QRUPUP82C": {
+        "signature": "ca45918a3fb88852b571bacb5d0528b5705e4c8c1fd22b49010bd291da6ceab4"
+      },
+      "#QYY8LP0PG": {
+        "signature": "7446357a467dee6473f5eb82a8b06687af492d9fea2f621bad61fda7613d97e1"
+      },
+      "#Y0PJUC82Y": {
+        "signature": "f69b214c01009ebb910a1954a48ac6cbcd83e8901e5ceb57d5b5fcfa88702424"
+      },
+      "#Y0YLPJ8JR": {
+        "signature": "cdcdeb163ca721aa1593d18e90800541afbda2114b4209955e77f6c9aec23e74"
+      },
+      "#Y8Y9VPURG": {
+        "signature": "2fa2f57a507aa3052a3bf0b2c983ba914802daf9957dc350f20241e832d14be4"
+      },
+      "#Y9PPVQ2QU": {
+        "signature": "8bf18d17482ed5f555343c704461549c4ee8afe9646051ba608bfbb3ae2590a8"
+      },
+      "#Y9QYUG2L0": {
+        "signature": "01a7a66ba3096909a2e86ba71ecbc8e67f4741b61695170d250a4f2cc3d69a6a"
+      },
+      "#YUCR2CL0U": {
+        "signature": "13c425a0bd2d95a768f52b8257d7347f7be2865d73ab4357d44ca7681374c911"
+      }
+    }
+  },
+  "#QQR8892U": {
+    "members": {
+      "#2LPRVL8CY": {
+        "signature": "2b7e017e990573a62ba88db2f17b27e22cc6e4cc538f44bf9a11db6f4b641cbe"
+      },
+      "#2R9JLPL9Y": {
+        "signature": "cf780240d612c10722b23c54625d3c6b9ffe1a284fa9e38e5571c5cf1ba4aae6"
+      },
+      "#2UY0YR2YG": {
+        "signature": "a7d3861d087ef3eb06886fcbe1895b6745dd5b9b810af40198114e92d2abbe60"
+      },
+      "#8JCLJLVLQ": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#8JQUPJ0QQ": {
+        "signature": "c779a83c67ed9e7d2442a1457eac1e3cb3e9e8c1ba0b8e9e96bb47ea6ab22be6"
+      },
+      "#8UQRPJ8R0": {
+        "signature": "e1a36e7aa2754a9cba342341961a89cc0863493324e265919fb16015aafbd350"
+      },
+      "#992CCVJPY": {
+        "signature": "7f5e0f24ddd61b92a2bab1064ee5336300a43405e4d75e79fae01a2027e0baca"
+      },
+      "#99UL0J92Q": {
+        "signature": "eb87c669017b7c6da51d5ad339012e2ac4adfbc0ea2b79221c3b27bfe49709f4"
+      },
+      "#9CRJQVQG": {
+        "signature": "958b16fcc62f277b2c5e49bc0c097c47754595624511486bf80026e28a38309d"
+      },
+      "#9JJP09P02": {
+        "signature": "9ee5a16faef4a05802924910bb61d23ae21bfd389006255fec84c01a6974b836"
+      },
+      "#9JVGJGL8Q": {
+        "signature": "846b12c0398da176df343c1df48dc5e9554d0df87e070dff5fbbca820bbdfdff"
+      },
+      "#9LVRQY02L": {
+        "signature": "75e54e63e68409607a1d101e53cd40677f4220618f45c985869f582249d789db"
+      },
+      "#G0UGCQGQU": {
+        "signature": "4aa3a2e047052bed1d65c95289d00fece73172dca432df5ff8f237e9e9266abc"
+      },
+      "#G99JUCYRJ": {
+        "signature": "c55758ebdd4fb35d7291ba6e61ebb4e7b8ab5250e14338899feacf5e4dccac22"
+      },
+      "#GCVY89CGY": {
+        "signature": "05a70059ad31523cc6afb51a278a16c130c4dabc1b12cbebc8595a522da41fe9"
+      },
+      "#GG9RLV8LQ": {
+        "signature": "097c45e12090bebc054d83d2752d2440110f0d13e33b171c8b9ccac49fa35c90"
+      },
+      "#GG9UPV2UV": {
+        "signature": "13f84598bfa807c5dcca64b022bdc86d109084d5e38c4fd16b74d8084b7ab3e3"
+      },
+      "#GP8VVG9JY": {
+        "signature": "34cd895f7092857c0c3244644726341357d8bd639d2e04d95fad7999e5de6056"
+      },
+      "#GQUL8P0LR": {
+        "signature": "7482819249694edb00d9da81a150eda91cb44765df6ed52320d3a8826be0c5e7"
+      },
+      "#GUG0Y2QU9": {
+        "signature": "69963a2c391f97c13bef24c2ea9605ed42676b597b26d58666f1d1f47a5222e2"
+      },
+      "#GVRRCL0CP": {
+        "signature": "45de63493c06d9de78f7b20b21d7dda6fdb766f5cec0c2a849bd30c4a090ef07"
+      },
+      "#JYR9UQUU": {
+        "signature": "0a9998e1bb61d5ec75bdf0770cb6f4029deaf55a4054f448bcda31b93baefbaf"
+      },
+      "#L080P9YR0": {
+        "signature": "d300066d21eb4e2f1a05f1ff1a23d1302ad6906f1f48b052649aa91eb102abaa"
+      },
+      "#L0LJP9C8C": {
+        "signature": "b4fa3410f8bf7ef64fd4c174b04ce62036c45d8842f60927d1fe61cfd6978e20"
+      },
+      "#LVP8RPUYG": {
+        "signature": "fa5eb29ff0b14dead304eb083fcc4585a28312ec218d67fac81cc23f00c38b05"
+      },
+      "#P8YV0UCLP": {
+        "signature": "6c18ef731979aa909642b32e6dfef956f6f29e17598f00b5685069d90e6df27f"
+      },
+      "#PCVP0U92U": {
+        "signature": "28d7423918e660d45d4127713c5ed1ff2520a55582b08c6ddad44da4c599e762"
+      },
+      "#PPQLV29P0": {
+        "signature": "c0956c5d8f5fa04d6b7b1d8749f6832d24c18bc7bca2592161a75a1001b38115"
+      },
+      "#PVC9GYJU2": {
+        "signature": "a32fd320482708e23af09a05ee49ff9cdac5270b6f884ff7daa657768a015006"
+      },
+      "#PYGP82GL9": {
+        "signature": "be7c59649c42f82c5a96b72adbfb482e5ba9512774d70c15c6cd7afd4d9ed4c2"
+      },
+      "#QGJP2L0CQ": {
+        "signature": "9240e5e876eec0d8bedd102627d84b695c417fbc12b425522fa68741839435ef"
+      },
+      "#QL80LUUYU": {
+        "signature": "6238bd59a7632e54584307082e0b741ef7274cd57aebca9108c562b8d8ca03e2"
+      },
+      "#QLJP9JY2Y": {
+        "signature": "edbbc42cf77ba97a3fc9346f99a1c4c9335fc5de82bde9ff1ca021b464910ca5"
+      },
+      "#QPJL98L9R": {
+        "signature": "6ecc1cafab48e3858d15b3095ba7bcc4c48a9859c6f53a51561bdccc16b0dbc2"
+      },
+      "#QYP2RPYGC": {
+        "signature": "a15045c30c5a07e3464f0e4cafd718a0663227327b25048d74b508d003fdd480"
+      },
+      "#Y9RJGLLQY": {
+        "signature": "c8a043c0da33fef65c2a1ca8254af5cba0b6b9cf40d0b3ab691b28a4dc13d52f"
+      },
+      "#Y9VYJR8GL": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#YUPCGC8RC": {
+        "signature": "f0f66fd879871264acf313456d6950a9e4246fe2032521e9b419688b201bb9e0"
+      },
+      "#YYUPPP2Y8": {
+        "signature": "c5d8b3fb06a9065e86de9278b0c125255d5a6b0925f63a9f0e97807178b16273"
+      }
+    }
+  },
+  "#RP9R9": {
+    "members": {}
+  },
+  "#Y0L9QRQU": {
+    "members": {
+      "#28RJVPRG2": {
+        "signature": "0c1cba3bed87a12372cb6dd2f98bb34655316073ba8090b808527e3545c256a7"
+      },
+      "#28RY888GR": {
+        "signature": "863c2facbf0430f66b52284225f1d5926504b1df0b8433a6daac2920bc1df017"
+      },
+      "#2C8YRPYRG": {
+        "signature": "eff34bf114e421186775fc7f7ab7d65cbe4f30e15748b830db22bf86c6357b75"
+      },
+      "#2PVGU002": {
+        "signature": "92f29a4b1d17e620aef2e51d6718509acb3f5d33933fa667854f74ca727788c5"
+      },
+      "#2U89UVGV2": {
+        "signature": "871d473152bceac6761219c47cb05ed7f22ae80030885898df21bbdd60778325"
+      },
+      "#2YVGQJCPV": {
+        "signature": "3fcebe0a09d79c07e99d931a2b527af56a1a0cd2de606b272595640c80a1888f"
+      },
+      "#82RQU8JL0": {
+        "signature": "19c0a761df617a12304edacbc43d9283e9076ddbe15aafd46f9e943bdb146575"
+      },
+      "#8Q0G9LR8Y": {
+        "signature": "71b58c98e88070b0dcb7baebf23bc8869f27139311f19b50cfe80176f0f54ede"
+      },
+      "#8RPVPP09U": {
+        "signature": "aeb6617c16e91893d0e0a03dd5d8bfdd94da538b3e238db1dc0667ba3e462f24"
+      },
+      "#8U0J00JCY": {
+        "signature": "7b55817f9c574ef8a26a1002499dc784517c98ed6a5f627d7313e32487f8aac0"
+      },
+      "#8ULU9R882": {
+        "signature": "5c054f1496b8f453dfa8b90b7208dca964237522f48e2d40014ca2bb2953cec2"
+      },
+      "#8Y0U9YUP8": {
+        "signature": "ea2a99c33e8fa25df4ce1897465a7606cda95b7b74fd01271654c4be28ea7265"
+      },
+      "#9CG0LGCU": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#9CPQ9UUJ": {
+        "signature": "ec09f998af290998c926aa1779a2a229d8db0ae4477f6b4820913134f49b3148"
+      },
+      "#9JCJCQYP9": {
+        "signature": "72a5c7b077df62cff6a6818d26d929beb115e4e0cb004c447e1615a92843bedd"
+      },
+      "#9RR2VPUUP": {
+        "signature": "69a1a22ff30e26c5ab118bcea97c78b525544fddb11e29a00ae9f4e6d41b74c4"
+      },
+      "#9VG9Y9PR": {
+        "signature": "eb141274ef47194f82f2069161214ca37a0843ba49eb6620bc0e48a53dadcf03"
+      },
+      "#C99CGGJU": {
+        "signature": "07c91d09b1485b1658c7746ad16930371c501e43367c44a33ae0a32f9c9cb1f7"
+      },
+      "#G0C2RCY8J": {
+        "signature": "9a21121ec19f7e5ddb4ceac712852e223262ca7575b727eabb661c7e40ae084e"
+      },
+      "#G0GG2L0CR": {
+        "signature": "58456961e5ce58582c0c1623651fae9c7010fbbd40d4551d4f48fc5bc0a473da"
+      },
+      "#G80PRL29Y": {
+        "signature": "150e212481fc83c56ca6e65d3502c1ecd29895682808cd822ed27ed3a21b9e80"
+      },
+      "#GGP0C9JRG": {
+        "signature": "bd236b23cc03cc25c306c6bbeea7195811a875d2602557ad14c622b2949d1db4"
+      },
+      "#J28202": {
+        "signature": "74eb4b7655ecefc44a93a5f8af09a81825819c1d9ea230805250dd21744ae874"
+      },
+      "#L0U9LC2RP": {
+        "signature": "e833da15c9f153d855187fb70c26ccb0e4d722a0e761d512822f58be32911838"
+      },
+      "#PUCLQRV9P": {
+        "signature": "4b7c5da12ddcb5479c644ee2b76ff3320b46a5553b53537bcfb08d7770f10392"
+      },
+      "#QC9JRUQVC": {
+        "signature": "c266efcdc6f9565413d26245a125f5696d089d87b465c6a82eb50e71c2c6de5d"
+      },
+      "#QR8G0C08G": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#RQ8GLL2": {
+        "signature": "5ee560d531e6cf455b9e83aa87d5794c1ec325f50c40596e3725c9cd0c296296"
+      },
+      "#Y08P2UGLU": {
+        "signature": "__no_battles_at_signup__"
+      },
+      "#Y0JPPUYQL": {
+        "signature": "b03d914030797b54e1f8783bd2780d863b752e5b36db08b3b92786d30914d96b"
+      },
+      "#Y8QUGJ8CU": {
+        "signature": "430e6537a253b7c736ee1eb0d45f0f104f8859ca18d180dffa0a22e430943b02"
+      },
+      "#Y9UC9G8": {
+        "signature": "9fd5c5fb8190d6a4fb61176bee44bdd560592ad4a768a793bf367396f9a49532"
+      },
+      "#YR09U98V": {
+        "signature": "fd7de4e5935d7d1d50d5a10cb39447b00300e89a0bdedbb1c3fd5092b5f621b4"
+      }
+    }
+  }
+}

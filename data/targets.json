@@ -1,0 +1,872 @@
+{
+  "#222GQVRJC": {
+    "league_id": 105000034,
+    "name": "Ferrari",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.862763+00:00"
+  },
+  "#22QYVL0Q8": {
+    "league_id": 105000036,
+    "name": "t4k1",
+    "trophies": 5025,
+    "updated_at": "2026-08-22T17:21:06.878655+00:00"
+  },
+  "#22RQJCUUQ": {
+    "league_id": 105000034,
+    "name": "Mohit",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.676257+00:00"
+  },
+  "#2GLQ809YJ": {
+    "league_id": 105000035,
+    "name": "BOT_TF\u26a1",
+    "trophies": 1251,
+    "updated_at": "2026-08-22T17:21:06.899083+00:00"
+  },
+  "#2GYYUU8RV": {
+    "league_id": 105000036,
+    "name": "STARs\u2b50\ufe0fMAD\u2605\u2606\u2605\u2606",
+    "trophies": 5148,
+    "updated_at": "2026-08-22T17:21:06.869556+00:00"
+  },
+  "#2L9YPRRLC": {
+    "league_id": 105000034,
+    "name": "misti",
+    "trophies": 720,
+    "updated_at": "2026-08-22T17:21:06.886406+00:00"
+  },
+  "#2PG0LLJU": {
+    "league_id": 105000036,
+    "name": "BOOM Macy\u2764\ufe0f",
+    "trophies": 5255,
+    "updated_at": "2026-08-22T17:21:06.854515+00:00"
+  },
+  "#2PJ2PJGP8": {
+    "league_id": 105000034,
+    "name": "\uff41\uff58\uff45\uff4c",
+    "trophies": 256,
+    "updated_at": "2026-08-22T17:21:06.847438+00:00"
+  },
+  "#2PUJCJPYJ": {
+    "league_id": 105000036,
+    "name": "Mawe",
+    "trophies": 4986,
+    "updated_at": "2026-08-22T17:21:06.850730+00:00"
+  },
+  "#2Q0UR9J8": {
+    "league_id": 105000035,
+    "name": "-15k LayoverFR",
+    "trophies": 1275,
+    "updated_at": "2026-08-22T17:21:06.834763+00:00"
+  },
+  "#2QUVJ90J": {
+    "league_id": 105000034,
+    "name": "\u8fa3 Tofu \u0295\u204e\u032e\u0361\u204e\u0294\u0f04",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.893097+00:00"
+  },
+  "#2R9J0G0YP": {
+    "league_id": 105000036,
+    "name": "STRN rihawn",
+    "trophies": 5198,
+    "updated_at": "2026-08-22T17:21:07.008989+00:00"
+  },
+  "#2URUGGU0V": {
+    "league_id": 105000036,
+    "name": "AnisuR",
+    "trophies": 5152,
+    "updated_at": "2026-08-22T17:21:06.840644+00:00"
+  },
+  "#2VUJLYLLR": {
+    "league_id": 105000035,
+    "name": "SE Exitifer",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.876086+00:00"
+  },
+  "#2Y08JJVLY": {
+    "league_id": 105000034,
+    "name": "NinjaBreadKhan",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.680419+00:00"
+  },
+  "#2YL8P9RYG": {
+    "league_id": 105000036,
+    "name": "2Ez4Rwinnn\u6770\u4e97",
+    "trophies": 5192,
+    "updated_at": "2026-08-22T17:21:06.856949+00:00"
+  },
+  "#800RJPUJV": {
+    "league_id": 105000036,
+    "name": "hsn",
+    "trophies": 4893,
+    "updated_at": "2026-08-22T17:21:07.047666+00:00"
+  },
+  "#80PV2QPJP": {
+    "league_id": 105000035,
+    "name": "\u26a1\ufe0fLegend\u26a1\ufe0f",
+    "trophies": 1319,
+    "updated_at": "2026-08-22T17:21:06.746272+00:00"
+  },
+  "#80QUV2U8P": {
+    "league_id": 105000034,
+    "name": "Aqain",
+    "trophies": 766,
+    "updated_at": "2026-08-22T17:21:06.880516+00:00"
+  },
+  "#80YUYCPL2": {
+    "league_id": 105000036,
+    "name": "rock star",
+    "trophies": 5244,
+    "updated_at": "2026-08-22T17:21:06.888057+00:00"
+  },
+  "#822YLRG2": {
+    "league_id": 105000035,
+    "name": "Spicy Tofu",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.884199+00:00"
+  },
+  "#82CCJR0LQ": {
+    "league_id": 105000032,
+    "name": "Lion king",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.882465+00:00"
+  },
+  "#899RRG9CP": {
+    "league_id": 105000033,
+    "name": "\u26a1\ufe0f\u064a\u0648\u0633\u0641 \u0627\u0644\u0645\u0644\u0643\u26a1\ufe0f",
+    "trophies": 737,
+    "updated_at": "2026-08-22T17:21:06.894521+00:00"
+  },
+  "#89PYRVYQC": {
+    "league_id": 105000035,
+    "name": "DL\u2728\ufe0fJelle \u30c4",
+    "trophies": 160,
+    "updated_at": "2026-08-22T17:21:06.864406+00:00"
+  },
+  "#89Y2VQPVV": {
+    "league_id": 105000033,
+    "name": "Eikka",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.697565+00:00"
+  },
+  "#8C209VR2G": {
+    "league_id": 105000036,
+    "name": "Adam",
+    "trophies": 5292,
+    "updated_at": "2026-08-22T17:21:06.889899+00:00"
+  },
+  "#8CUCYG9": {
+    "league_id": 105000034,
+    "name": "/Sam\\",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:06.701572+00:00"
+  },
+  "#8J98QCRJ9": {
+    "league_id": 105000036,
+    "name": "\u2764\u00ae\u2764MD JOY\u27643\u2764",
+    "trophies": 4975,
+    "updated_at": "2026-08-22T17:21:06.822599+00:00"
+  },
+  "#8PYJU9VPR": {
+    "league_id": 105000033,
+    "name": "ROOKIE ASSASSIN",
+    "trophies": 697,
+    "updated_at": "2026-08-22T17:21:06.895779+00:00"
+  },
+  "#8RPV289LL": {
+    "league_id": 105000035,
+    "name": "Ahnaf",
+    "trophies": 724,
+    "updated_at": "2026-08-22T17:21:06.891525+00:00"
+  },
+  "#8UCVJP88V": {
+    "league_id": 105000034,
+    "name": "Duujper",
+    "trophies": 981,
+    "updated_at": "2026-08-22T17:21:06.897239+00:00"
+  },
+  "#8UR8QJVUY": {
+    "league_id": 105000036,
+    "name": "SnowBBcreaM",
+    "trophies": 4895,
+    "updated_at": "2026-08-22T17:21:07.196282+00:00"
+  },
+  "#8VJLQPUYR": {
+    "league_id": 105000036,
+    "name": "JN\u26a1\ufe0fAashutosh\u26a1\ufe0f",
+    "trophies": 5193,
+    "updated_at": "2026-08-22T17:21:07.185694+00:00"
+  },
+  "#8YG8V20RQ": {
+    "league_id": 105000034,
+    "name": "RIOT",
+    "trophies": 717,
+    "updated_at": "2026-08-22T17:21:07.230969+00:00"
+  },
+  "#8YUJPJYY": {
+    "league_id": 105000036,
+    "name": "MachoMan",
+    "trophies": 5063,
+    "updated_at": "2026-08-22T17:21:07.215658+00:00"
+  },
+  "#908LR80R0": {
+    "league_id": 105000035,
+    "name": "bliZZard",
+    "trophies": 1254,
+    "updated_at": "2026-08-22T17:21:07.252109+00:00"
+  },
+  "#90CGJP8LU": {
+    "league_id": 105000036,
+    "name": "Blossomed Yun",
+    "trophies": 5240,
+    "updated_at": "2026-08-22T17:21:07.289585+00:00"
+  },
+  "#92CPR092": {
+    "league_id": 105000035,
+    "name": "Ace Again",
+    "trophies": 1390,
+    "updated_at": "2026-08-22T17:21:07.799761+00:00"
+  },
+  "#9902VURLG": {
+    "league_id": 105000036,
+    "name": "The Phoenix",
+    "trophies": 5207,
+    "updated_at": "2026-08-22T17:21:07.408376+00:00"
+  },
+  "#99G2UJQJ": {
+    "league_id": 105000033,
+    "name": "Colston",
+    "trophies": 785,
+    "updated_at": "2026-08-22T17:21:07.398014+00:00"
+  },
+  "#99JYC8GQL": {
+    "league_id": 105000035,
+    "name": "ARMINIUS",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.396231+00:00"
+  },
+  "#9C8GQ92UG": {
+    "league_id": 105000035,
+    "name": "astigmatic \u2727",
+    "trophies": 1294,
+    "updated_at": "2026-08-22T17:21:07.418846+00:00"
+  },
+  "#9CGPCCVJ0": {
+    "league_id": 105000034,
+    "name": "InterForce",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.437605+00:00"
+  },
+  "#9JLL88GJ": {
+    "league_id": 105000036,
+    "name": "Aufi",
+    "trophies": 5238,
+    "updated_at": "2026-08-22T17:21:07.534872+00:00"
+  },
+  "#9LYP2GYV8": {
+    "league_id": 105000033,
+    "name": "Windsom",
+    "trophies": 884,
+    "updated_at": "2026-08-22T17:21:07.598229+00:00"
+  },
+  "#9PLRJ99UC": {
+    "league_id": 105000034,
+    "name": "Lion",
+    "trophies": 505,
+    "updated_at": "2026-08-22T17:21:07.498929+00:00"
+  },
+  "#9QUYGRG9P": {
+    "league_id": 105000035,
+    "name": "\u2728Dave \u65e0\u654c",
+    "trophies": 1198,
+    "updated_at": "2026-08-22T17:21:07.558571+00:00"
+  },
+  "#9R0PVGGYJ": {
+    "league_id": 105000034,
+    "name": "Mxim",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.466671+00:00"
+  },
+  "#9U8PV88JP": {
+    "league_id": 105000035,
+    "name": "Berserker",
+    "trophies": 1000,
+    "updated_at": "2026-08-22T17:21:07.516746+00:00"
+  },
+  "#9UQUPC888": {
+    "league_id": 105000036,
+    "name": "ANSUMAN",
+    "trophies": 4837,
+    "updated_at": "2026-08-22T17:21:07.648758+00:00"
+  },
+  "#9Y228Y008": {
+    "league_id": 105000036,
+    "name": "sCar",
+    "trophies": 4758,
+    "updated_at": "2026-08-22T17:21:07.699085+00:00"
+  },
+  "#CVRYYPV0": {
+    "league_id": 105000034,
+    "name": "\u1d0d\u026a\u0274\u1d00\u1d1b\u1d0f\u2022\u6e4a\u26a1\u2728",
+    "trophies": 1012,
+    "updated_at": "2026-08-22T17:21:07.709233+00:00"
+  },
+  "#G2J90Y9RC": {
+    "league_id": 105000034,
+    "name": "DINGUSS101",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.792351+00:00"
+  },
+  "#G2PYCV2G8": {
+    "league_id": 105000035,
+    "name": "Xexon",
+    "trophies": 1188,
+    "updated_at": "2026-08-22T17:21:07.783607+00:00"
+  },
+  "#G8QY8Y2R0": {
+    "league_id": 105000035,
+    "name": "Bizzy",
+    "trophies": 1344,
+    "updated_at": "2026-08-22T17:21:07.730763+00:00"
+  },
+  "#G8UP0G2L9": {
+    "league_id": 105000034,
+    "name": "LOVE",
+    "trophies": 975,
+    "updated_at": "2026-08-22T17:21:07.689548+00:00"
+  },
+  "#G9PPPPQCJ": {
+    "league_id": 105000033,
+    "name": "Blaze",
+    "trophies": 271,
+    "updated_at": "2026-08-22T17:21:07.796100+00:00"
+  },
+  "#GC2QQCRR": {
+    "league_id": 105000035,
+    "name": "\u266a\uff41\uff58\uff45\uff4c\uff43\uff41\uff54\uff53\u266a",
+    "trophies": 1377,
+    "updated_at": "2026-08-22T17:21:07.737454+00:00"
+  },
+  "#GJC8J2PPY": {
+    "league_id": 105000034,
+    "name": "Mihai",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.638102+00:00"
+  },
+  "#GLCUU0QVG": {
+    "league_id": 105000036,
+    "name": "Professor",
+    "trophies": 5317,
+    "updated_at": "2026-08-22T17:21:07.930567+00:00"
+  },
+  "#GLG9QCCU2": {
+    "league_id": 105000034,
+    "name": "BOOM Mikhey\u2661E",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.566345+00:00"
+  },
+  "#GLJ8022JJ": {
+    "league_id": 105000028,
+    "name": "Tanjiro\u2694\ufe0f",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.747523+00:00"
+  },
+  "#GLLL82UP": {
+    "league_id": 105000035,
+    "name": "Ozzi",
+    "trophies": 348,
+    "updated_at": "2026-08-22T17:21:07.720699+00:00"
+  },
+  "#GLU9LC2LG": {
+    "league_id": 105000034,
+    "name": "\u67d2 \u2022 Lai",
+    "trophies": 175,
+    "updated_at": "2026-08-22T17:21:07.794259+00:00"
+  },
+  "#GP82PULQR": {
+    "league_id": 105000035,
+    "name": "ExL Bizzy",
+    "trophies": 380,
+    "updated_at": "2026-08-22T17:21:07.725297+00:00"
+  },
+  "#GP99R9290": {
+    "league_id": 105000036,
+    "name": "melonhevd",
+    "trophies": 4995,
+    "updated_at": "2026-08-22T17:21:07.715088+00:00"
+  },
+  "#GPC0CGV0J": {
+    "league_id": 105000036,
+    "name": "SSS\u26a1\ufe0fBarben\u2764\ufe0f",
+    "trophies": 5229,
+    "updated_at": "2026-08-22T17:21:07.777283+00:00"
+  },
+  "#GPP0V0Q92": {
+    "league_id": 105000034,
+    "name": "Somebody",
+    "trophies": 1117,
+    "updated_at": "2026-08-22T17:21:07.797913+00:00"
+  },
+  "#GU0G9PVPY": {
+    "league_id": 105000035,
+    "name": "Aashu",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.919935+00:00"
+  },
+  "#GUYCQCQJV": {
+    "league_id": 105000034,
+    "name": "R3^SpawN",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:07.947934+00:00"
+  },
+  "#GYCVR99RP": {
+    "league_id": 105000036,
+    "name": "STRN generalbob",
+    "trophies": 5137,
+    "updated_at": "2026-08-22T17:21:07.910527+00:00"
+  },
+  "#GYQ0002YL": {
+    "league_id": 105000034,
+    "name": "Nekox",
+    "trophies": 1028,
+    "updated_at": "2026-08-22T17:21:07.894238+00:00"
+  },
+  "#L0CLG0PCQ": {
+    "league_id": 105000034,
+    "name": "Arceusgod",
+    "trophies": 527,
+    "updated_at": "2026-08-22T17:21:07.975877+00:00"
+  },
+  "#L0GLYCJP9": {
+    "league_id": 105000036,
+    "name": "X E N O N\u300c\u96f6\u300d",
+    "trophies": 5158,
+    "updated_at": "2026-08-22T17:21:07.989290+00:00"
+  },
+  "#L20LYQ2G9": {
+    "league_id": 105000034,
+    "name": "OsamuDazai !",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.073239+00:00"
+  },
+  "#L2RQCCYC": {
+    "league_id": 105000033,
+    "name": "SE Aurelion",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.197459+00:00"
+  },
+  "#L9GC8VC8U": {
+    "league_id": 105000034,
+    "name": "ChocolateMuffin",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.150076+00:00"
+  },
+  "#L9LGCQRRR": {
+    "league_id": 105000033,
+    "name": "\u02da\uff61\u0b68\u0b67\u02dakitkat \u029a\u2661\u025e",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.137865+00:00"
+  },
+  "#L9U8VCPY9": {
+    "league_id": 105000035,
+    "name": "-15k Death",
+    "trophies": 1220,
+    "updated_at": "2026-08-22T17:21:08.171614+00:00"
+  },
+  "#LCGRJ9CUY": {
+    "league_id": 105000035,
+    "name": "\uff36\uff21\uff2d\uff30\uff29\uff32\uff25",
+    "trophies": 1349,
+    "updated_at": "2026-08-22T17:21:08.182587+00:00"
+  },
+  "#LJCY0889L": {
+    "league_id": 105000032,
+    "name": "FALLOUTFOOD",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.202314+00:00"
+  },
+  "#LJUGGU8QQ": {
+    "league_id": 105000034,
+    "name": "Karan",
+    "trophies": 1026,
+    "updated_at": "2026-08-22T17:21:08.262320+00:00"
+  },
+  "#LLCP0VYU2": {
+    "league_id": 105000034,
+    "name": "August",
+    "trophies": 1039,
+    "updated_at": "2026-08-22T17:21:08.299419+00:00"
+  },
+  "#LLR0RUPJR": {
+    "league_id": 105000031,
+    "name": "ch",
+    "trophies": 251,
+    "updated_at": "2026-08-22T17:21:08.217290+00:00"
+  },
+  "#LPGQVUYC9": {
+    "league_id": 105000034,
+    "name": "teraparsec",
+    "trophies": 921,
+    "updated_at": "2026-08-22T17:21:08.355713+00:00"
+  },
+  "#LPL2QRL92": {
+    "league_id": 105000036,
+    "name": "DL\u2728\ufe0fJelle",
+    "trophies": 5307,
+    "updated_at": "2026-08-22T17:21:08.451651+00:00"
+  },
+  "#LQ0PY80JQ": {
+    "league_id": 105000035,
+    "name": "MR. LEGEND",
+    "trophies": 406,
+    "updated_at": "2026-08-22T17:21:08.442452+00:00"
+  },
+  "#LQJPJRYR": {
+    "league_id": 105000036,
+    "name": "Morn",
+    "trophies": 5145,
+    "updated_at": "2026-08-22T17:21:08.424486+00:00"
+  },
+  "#LVL8VG89Y": {
+    "league_id": 105000032,
+    "name": "AryoLvl22",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.429000+00:00"
+  },
+  "#LVP8RPUYG": {
+    "league_id": 105000033,
+    "name": "$AcE DeViL\u00a5",
+    "trophies": 316,
+    "updated_at": "2026-08-22T17:21:08.558314+00:00"
+  },
+  "#P00P8QC9C": {
+    "league_id": 105000035,
+    "name": "Coffin",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.465997+00:00"
+  },
+  "#P2CJQG9UC": {
+    "league_id": 105000032,
+    "name": "miss majesty",
+    "trophies": 792,
+    "updated_at": "2026-08-22T17:21:08.552029+00:00"
+  },
+  "#P2QJPVCPR": {
+    "league_id": 105000036,
+    "name": "\u091a\u0930\u093f\u0924\u093e\u0930\u094d\u0925",
+    "trophies": 4894,
+    "updated_at": "2026-08-22T17:21:08.440011+00:00"
+  },
+  "#P8J8LJPPV": {
+    "league_id": 105000036,
+    "name": "Hooter",
+    "trophies": 5000,
+    "updated_at": "2026-08-22T17:21:08.555088+00:00"
+  },
+  "#P8V2QYJLJ": {
+    "league_id": 105000035,
+    "name": "ASER",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.481730+00:00"
+  },
+  "#P99Q900VV": {
+    "league_id": 105000035,
+    "name": "Varun\u30c4",
+    "trophies": 628,
+    "updated_at": "2026-08-22T17:21:08.508022+00:00"
+  },
+  "#P9LUPRR0G": {
+    "league_id": 105000035,
+    "name": "End of Days\u2764\ufe0f",
+    "trophies": 1131,
+    "updated_at": "2026-08-22T17:21:08.541123+00:00"
+  },
+  "#P9U9GPVUJ": {
+    "league_id": 105000036,
+    "name": "[ FB ] Nevin",
+    "trophies": 5112,
+    "updated_at": "2026-08-22T17:21:08.547363+00:00"
+  },
+  "#PPQYULY0R": {
+    "league_id": 105000036,
+    "name": "FuRious\u2660\ufe0fSADHIN",
+    "trophies": 5105,
+    "updated_at": "2026-08-22T17:21:08.476118+00:00"
+  },
+  "#PPRQUPP9R": {
+    "league_id": 105000036,
+    "name": "V A B 15 \u2726\u300c\u52ab\u300d",
+    "trophies": 4876,
+    "updated_at": "2026-08-22T17:21:08.518268+00:00"
+  },
+  "#PPUGJYCGR": {
+    "league_id": 105000035,
+    "name": "tony",
+    "trophies": 536,
+    "updated_at": "2026-08-22T17:21:08.486516+00:00"
+  },
+  "#PPYVJV0C0": {
+    "league_id": 105000035,
+    "name": "STRN Tofu",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.556944+00:00"
+  },
+  "#PQC0GLJGU": {
+    "league_id": 105000035,
+    "name": "Apu...",
+    "trophies": 1313,
+    "updated_at": "2026-08-22T17:21:08.550001+00:00"
+  },
+  "#PQR28UQJY": {
+    "league_id": 105000035,
+    "name": "Ghost",
+    "trophies": 1399,
+    "updated_at": "2026-08-22T17:21:08.548727+00:00"
+  },
+  "#PRJCVCJL": {
+    "league_id": 105000034,
+    "name": "Neukz",
+    "trophies": 978,
+    "updated_at": "2026-08-22T17:21:08.612087+00:00"
+  },
+  "#PRLPGUPCP": {
+    "league_id": 105000035,
+    "name": "jOker",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.605554+00:00"
+  },
+  "#PV2LC22": {
+    "league_id": 105000034,
+    "name": "SE Invictus",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.578181+00:00"
+  },
+  "#PY88LQV9U": {
+    "league_id": 105000036,
+    "name": "\u0561\u01df\u0586\u025b\u025b\u028d",
+    "trophies": 4866,
+    "updated_at": "2026-08-22T17:21:08.638448+00:00"
+  },
+  "#Q0GC8QYRU": {
+    "league_id": 105000036,
+    "name": "King Tukker",
+    "trophies": 5238,
+    "updated_at": "2026-08-22T17:21:08.620431+00:00"
+  },
+  "#Q0JR0Q8P": {
+    "league_id": 105000033,
+    "name": "Aki",
+    "trophies": 271,
+    "updated_at": "2026-08-22T17:21:08.652793+00:00"
+  },
+  "#Q0P8JYYL8": {
+    "league_id": 105000035,
+    "name": "TASHI NORBU",
+    "trophies": 916,
+    "updated_at": "2026-08-22T17:21:08.755677+00:00"
+  },
+  "#Q28RPQVV": {
+    "league_id": 105000034,
+    "name": "Death",
+    "trophies": 1098,
+    "updated_at": "2026-08-22T17:21:08.793826+00:00"
+  },
+  "#Q2VYV8QPU": {
+    "league_id": 105000036,
+    "name": "FW Ese",
+    "trophies": 5246,
+    "updated_at": "2026-08-22T17:21:08.835257+00:00"
+  },
+  "#QC89R9J2J": {
+    "league_id": 105000036,
+    "name": "\u2022AM\u2666InfERioR\u2022",
+    "trophies": 5261,
+    "updated_at": "2026-08-22T17:21:08.884696+00:00"
+  },
+  "#QCJL892R": {
+    "league_id": 105000035,
+    "name": "STRN shade",
+    "trophies": 1370,
+    "updated_at": "2026-08-22T17:21:08.776695+00:00"
+  },
+  "#QJC228LC0": {
+    "league_id": 105000034,
+    "name": "XyNix3e SP",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:08.898887+00:00"
+  },
+  "#QP9CUVGRC": {
+    "league_id": 105000036,
+    "name": "Tigraz",
+    "trophies": 5392,
+    "updated_at": "2026-08-22T17:21:08.864558+00:00"
+  },
+  "#QQ2Y2JJ2U": {
+    "league_id": 105000033,
+    "name": "\u2606 zub \u2606",
+    "trophies": 714,
+    "updated_at": "2026-08-22T17:21:08.850105+00:00"
+  },
+  "#QQQ9RLQ2J": {
+    "league_id": 105000035,
+    "name": "! Drift",
+    "trophies": 1277,
+    "updated_at": "2026-08-22T17:21:08.936148+00:00"
+  },
+  "#QUY99U92C": {
+    "league_id": 105000035,
+    "name": "TE \u2022 Aashu \ua9c2",
+    "trophies": 231,
+    "updated_at": "2026-08-22T17:21:08.975676+00:00"
+  },
+  "#QY2RV8U98": {
+    "league_id": 105000033,
+    "name": "KRWE PRO_TF\u26a1",
+    "trophies": 767,
+    "updated_at": "2026-08-22T17:21:09.029880+00:00"
+  },
+  "#QY9PY22CR": {
+    "league_id": 105000032,
+    "name": "AryoLvl55",
+    "trophies": 40,
+    "updated_at": "2026-08-22T17:21:09.103547+00:00"
+  },
+  "#R28C8UYL": {
+    "league_id": 105000035,
+    "name": "simone",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:09.045660+00:00"
+  },
+  "#RV8GR9PV": {
+    "league_id": 105000035,
+    "name": "BS Lucas",
+    "trophies": 366,
+    "updated_at": "2026-08-22T17:21:09.142881+00:00"
+  },
+  "#RYCJYQ82": {
+    "league_id": 105000035,
+    "name": "BOOM Macy",
+    "trophies": 1252,
+    "updated_at": "2026-08-22T17:21:09.135971+00:00"
+  },
+  "#UJ9PJVUU": {
+    "league_id": 105000036,
+    "name": "Slasher",
+    "trophies": 4864,
+    "updated_at": "2026-08-22T17:21:09.119681+00:00"
+  },
+  "#UU2PV9LC": {
+    "league_id": 105000035,
+    "name": "\u67d2\u2728PuLsArc\u20eb\u20df\u20e4",
+    "trophies": 820,
+    "updated_at": "2026-08-22T17:21:09.160956+00:00"
+  },
+  "#UY8GLU28": {
+    "league_id": 105000035,
+    "name": "BOOM George",
+    "trophies": 241,
+    "updated_at": "2026-08-22T17:21:09.165019+00:00"
+  },
+  "#UYPGJUCY": {
+    "league_id": 105000033,
+    "name": "frodo",
+    "trophies": 769,
+    "updated_at": "2026-08-22T17:21:09.108567+00:00"
+  },
+  "#V8VJYGR0": {
+    "league_id": 105000036,
+    "name": "SmellyHippo",
+    "trophies": 4799,
+    "updated_at": "2026-08-22T17:21:09.114684+00:00"
+  },
+  "#V9YY0RL8": {
+    "league_id": 105000034,
+    "name": "ChocolatePuddin",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:09.192784+00:00"
+  },
+  "#VGCR8Y88": {
+    "league_id": 105000034,
+    "name": "Vaibhav",
+    "trophies": 969,
+    "updated_at": "2026-08-22T17:21:09.250304+00:00"
+  },
+  "#VRJYVV0G": {
+    "league_id": 105000035,
+    "name": "Fallen Words",
+    "trophies": 1313,
+    "updated_at": "2026-08-22T17:21:09.252031+00:00"
+  },
+  "#Y0RCY08YJ": {
+    "league_id": 105000035,
+    "name": "Savage",
+    "trophies": 165,
+    "updated_at": "2026-08-22T17:21:09.207018+00:00"
+  },
+  "#Y22P0YLCY": {
+    "league_id": 105000036,
+    "name": "Honest boy",
+    "trophies": 5132,
+    "updated_at": "2026-08-22T17:21:09.221944+00:00"
+  },
+  "#Y2GUUG9GY": {
+    "league_id": 105000034,
+    "name": "Numinous",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:09.246258+00:00"
+  },
+  "#Y9VQ20YJC": {
+    "league_id": 105000032,
+    "name": "Aryo (2)",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:09.214280+00:00"
+  },
+  "#YCJGY9GJC": {
+    "league_id": 105000036,
+    "name": "\u67d2 \u2022 Yun",
+    "trophies": 5258,
+    "updated_at": "2026-08-22T17:21:09.239478+00:00"
+  },
+  "#YCQURURR": {
+    "league_id": 105000035,
+    "name": "IMxOMEN",
+    "trophies": 1290,
+    "updated_at": "2026-08-22T17:21:09.197474+00:00"
+  },
+  "#YJU22CQG": {
+    "league_id": 105000034,
+    "name": "MrBustDown",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:09.212945+00:00"
+  },
+  "#YJYQRYGRY": {
+    "league_id": 105000033,
+    "name": "Archadon",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:09.258875+00:00"
+  },
+  "#YLJC8Y2UV": {
+    "league_id": 105000036,
+    "name": "A\u0181O FAHAD",
+    "trophies": 5000,
+    "updated_at": "2026-08-22T17:21:09.232584+00:00"
+  },
+  "#YP8VUU9GG": {
+    "league_id": 105000036,
+    "name": "Mini Sparta",
+    "trophies": 4668,
+    "updated_at": "2026-08-22T17:21:09.296518+00:00"
+  },
+  "#YP9YGY0Q": {
+    "league_id": 105000035,
+    "name": "BlackDaytona",
+    "trophies": 0,
+    "updated_at": "2026-08-22T17:21:09.262466+00:00"
+  },
+  "#YVG0JJY9U": {
+    "league_id": 105000035,
+    "name": "Flowis",
+    "trophies": 1133,
+    "updated_at": "2026-08-22T17:21:09.284874+00:00"
+  }
+}
