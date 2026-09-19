@@ -186,10 +186,10 @@
         "signature": "__no_battles_at_signup__"
       },
       "#9JLGRLUUL": {
-        "signature": "4ec41ab7797703e8686eec5ee8e4149a4b059a62222511b790e7807c474e999b"
+        "signature": "dcdedb44ee04d0579ad5c8b31f96e6712080efb950856367a552b428dc6b329e"
       },
       "#9JYJJPGCP": {
-        "signature": "ee55843dd116dc9cbedb77fc735e48ee2df2cb1f8e1cef95e90fc6f71db72fe5"
+        "signature": "13e34997c4e7b189d0d901406b85ca6582f2e5384c35fbf7c289c980966a5ece"
       },
       "#9RQLU9Y0C": {
         "signature": "c98a4da55413ea04e25b9ed3f22a3184c9e5fe4d3216465a5426d1c0b8c3ed58"
@@ -727,7 +727,7 @@
         "signature": "4c2d68722919760391f5cbeb75b501974ec7489f827dc4cfdf755c012ce4273a"
       },
       "#22ULL0CVP": {
-        "signature": "398ec18f01725bb664aa04bbc03989281082b8bb7a34d0b8e666d73f77a73d5d"
+        "signature": "0b750d8b91b145febb7261bc93258c43ab0d50c3ecdf0e94704cef08051b4718"
       },
       "#28GLY2222": {
         "signature": "d76b9ec9972e08d1d721252ab6bb672c9ce1b13808131fefd1aa1df5cce776a9"
@@ -835,7 +835,10 @@
         "signature": "62c9e3e7d0bc0b348446da4813f4f8dbd3a5c91563855bdab0d228d2353391cd"
       },
       "#URQYRY2G": {
-        "signature": "12878cd69d61b787145a1d22d8f083a2136501c3e5ad936e5dddf209f03eba50"
+        "signature": "8f97d7e1087087aeea478c71b7c45cae0017095ac080fbb70485f85e342ae1e7"
+      },
+      "#Y29U0VLCC": {
+        "signature": "209fb9b5b3105bbb7ecab262841d76500a516b3d67d46704da334057ace53b09"
       },
       "#YGGJV90J2": {
         "signature": "4979638d30121bd81bea70d6acb0359d70ab2d9e4fba79d8aa6d44a1cdc5b3f0"
@@ -844,7 +847,7 @@
         "signature": "19d33d9fbdbb7a08d6847e4c6e83beddcd3831852b207b68cbfc509f33ee9cd8"
       },
       "#YVGQJY8V8": {
-        "signature": "92692709b510dc830d99f55b6573ef2792517aa794e27991c2c715ceb3202796"
+        "signature": "6489203492b472cd0f171fd79a6bcfbbae39c71f7b05b22594605a135794c0ba"
       },
       "#YYCRCYURQ": {
         "signature": "9d818001be7a2bf1f5f15fa5161e3e0304e1b795e01d177af0ec15af80239c38"
@@ -872,7 +875,7 @@
         "signature": "634966a7cbfa2f364f79e62937e50b4a1f5a5bb228e314dadce40407bd43b2b7"
       },
       "#9QCJRJQC": {
-        "signature": "95f836494c9884667d8d0fcbaa90688fb3cb960d7ad8d15b096194bddf77b5b5"
+        "signature": "9d3498d419f8016cb72f4ffdbd76be8b6941b8093dbb8e2570aaaa0d8adffeb3"
       },
       "#CC099L0J": {
         "signature": "edde238d6d2814bc8441fcb605a303d0a576331586e28a0e75dbe4fe4d5fc9da"
@@ -893,7 +896,7 @@
         "signature": "6c8671f8e476032f45d23588b7ca9d140a66436ecbbc8038b3b67e56e334b91a"
       },
       "#GPGQRUVVU": {
-        "signature": "f4ce63633d4a621502b05c33bd90c6b991bd0bec1d0cdf77a47e5fed8450a81c"
+        "signature": "4bf4bdf9aad9af701e7d6789bafa85162cba77cf4dd166b81ee685b23dd9859e"
       },
       "#GVVQ2CLC2": {
         "signature": "55b2188a8db886997f8e6d4f605f2fa078f6954f3170c50331ef2e3e6a5adc5c"
@@ -935,7 +938,7 @@
         "signature": "889af62310ac45b4820999dc1d852b0f4e99c0df750945944f6abce581f40d82"
       },
       "#YCVUUV99": {
-        "signature": "5f29330e84a12ee6979ef9ff3a34739f23900f30b85420abfca20f97ac88b286"
+        "signature": "99066f001d7c10e4f102385182f94229ddf3ecf129100da87601ad270eaeae78"
       },
       "#YY20JU28": {
         "signature": "__no_battles_at_signup__"
@@ -1218,6 +1221,9 @@
       },
       "#LG2U2URU": {
         "signature": "32e44d3cf4e40b3ac2856cffc4ca62d1133e8a083fbbc9ba28194d1e93c5655b"
+      },
+      "#PLL22J2U": {
+        "signature": "ed256a0dddf4f0c747ae2d9f88a8d9ce78df56beda943d8a08500354c828def9"
       },
       "#QYP9QURP9": {
         "signature": "79e7744d79b45f2085c06ae92cb1f5e4801b4de2cb193e43e4c9ae2100d8aad9"
@@ -1718,7 +1724,7 @@
         "signature": "1f64067ac0281062bbf3fce56c558b331d3e9c7fe9e9edc4120649ad84812b7e"
       },
       "#9UVLYUVU9": {
-        "signature": "5c3faed9d8fc7388813e0d0ea8c1c7db4a2f3e7d3f5ca67830ca697e24d50c56"
+        "signature": "8cf1961aca9193b4a2100f9d004a7b126ecf44652c43133eefb0b8a1d4c85930"
       },
       "#9VJP2Q89J": {
         "signature": "00a17838ef76f82ff7bd9cc969418ba0fe880bbe12a30592dac4ccdc1874bd7e"
@@ -1763,7 +1769,7 @@
         "signature": "0438025f7f35a8d282b1a0befeb6d89a57e28b0b28f7c73dcfa1ca427e6de3da"
       },
       "#LVYGJQGRP": {
-        "signature": "1ce455ad0eee1ffc10479aec359bfcbcd69481488a70dabe4399b0fa1b15fb39"
+        "signature": "1fe2813e1ce2a50741bbf28f419bea3bc7f03201d1026b30d790ceb08095fd57"
       },
       "#LVYLQJVRJ": {
         "signature": "e0f2a6216863d2e4051d84d13c5220ea7fe7d21cbd2b903b81f128b393981862"
@@ -2306,7 +2312,7 @@
   "#2J0Q9CV00": {
     "members": {
       "#L9LP0QGJ": {
-        "signature": "8a99100b73beee1961707f5d5d3badf948b8e7f42c4cb36a634d98e6648bf98a"
+        "signature": "f00768ef92452376587b8d7730f1cdd8fa16aabc3fc8874f813b531f76bcc03e"
       },
       "#LVYR9QQ0L": {
         "signature": "6364d556a1842b5d08de326e9e343a05bb184fa8aa4a81cbac1684a83b35ccee"
@@ -2331,7 +2337,7 @@
         "signature": "ade1f7616d01de1b6a7e5b6a6641ac48d929677f4804ebf6b9416ee66b754fe3"
       },
       "#2G0YRUGJ8": {
-        "signature": "3f69fe2fa781c8e5b5cee63ce20c9c984b91db82b323fd40bdd0188eee20c8aa"
+        "signature": "1d7d52cf24dbc9b41e71522e7f47897a28d05412772aa62f090fad0540986fc1"
       },
       "#2G8RPVYRC": {
         "signature": "fffdd5886b3bda09ba83218c0cff4c49a96819744186ff43917eb879bc4c8a57"
@@ -2403,7 +2409,7 @@
         "signature": "14dde0d871ec240176a4c64453e7dd337339c9c9e29a0ea9df8de880a5d89b67"
       },
       "#QUUCPYPCU": {
-        "signature": "a9c0362e23f80bce4d856bc6e79358f256617249f324d27d0ebd1bdc923365ca"
+        "signature": "1e175c4a42011e79e641dc8bbad6f1340d88ed917f18019525cb615e419f9743"
       },
       "#Y2PYLJPUR": {
         "signature": "015e9f893b4fa20c5a1c309af2dd0a1477c6a2d0e16bcc00e8297b5c4cf38c3b"
@@ -2482,7 +2488,7 @@
         "signature": "c66e4b5d534c5d8979889f85f6ae39ed3f95db559d1a7c8fec96fe02bb1ff8e7"
       },
       "#8RGYU8G8C": {
-        "signature": "1950a2614efefb7c95aa2f6fd11aa61d5ab483d08128f56abac6d76d3f37e58a"
+        "signature": "dd1ab4ce54299481ba4adc01c3b8b625ca9f772180a66bb500f2f1276a77c211"
       },
       "#8VVC2YJQL": {
         "signature": "80fcf1e7b190f71e1c23efa6df5b72256144589483232f8d31f67ad41603aaca"
@@ -3380,7 +3386,7 @@
         "signature": "f19497b6f248f7ae99087586b3ed9fb22fc2f6696aa8fb924a16110e6aae1d34"
       },
       "#G2V08JYYY": {
-        "signature": "61787971200ed86386f2876c929abd861e330d12d373b6d3ee6569ef0a042c90"
+        "signature": "703d39ddc25b04e938f03a1b8bc045619628c5ac7fc4442beeafa81b4dfae7f5"
       },
       "#GP0C2JPPG": {
         "signature": "2649ede328a07eec7844b591b4294d281f3bcf304c54702ba717409314dd9c21"
@@ -3401,7 +3407,7 @@
         "signature": "c3ac3bbfa716fdff12fffb1e2bc61f4559a2e62b35fcc06fe22b5ce7c5a77f1a"
       },
       "#L9LVPGLLC": {
-        "signature": "64050207be2955a712a9fab24c7f8a4df0e3258cb8f99253457e04de49e4107b"
+        "signature": "0ed0674112a8d695b075bc71296b29fd5cc7d42c29e619cf0e2544b54c2db1da"
       },
       "#LQJPJRYR": {
         "signature": "b3a21c111404e33bf4870c48c98ab81ddda244279279b94663b65a71beb96035"
@@ -4003,7 +4009,7 @@
         "signature": "001332d16b0e1a7fffe10ce0d9d9f30cb2d1330c1ac297b5da3d36dea0acdd8e"
       },
       "#2VJGJQYRR": {
-        "signature": "de89017b1bbb573a1f0cfe1da835461049989db03c57d769c936c118e286ddae"
+        "signature": "e36e6ff53f0ee2e6d21012780a9bf299c1ce180be22352e8d8a00d243c171b55"
       },
       "#2Y88GRRQQ": {
         "signature": "fb4c114331748e9851f02209133109a9a4311e8dae896ea87330da09c8c2f160"
@@ -4602,13 +4608,13 @@
         "signature": "33d2d626161293c8a9e6b68409b2f1ff600010739f58121027bfa05365dd425c"
       },
       "#8PC20VG8": {
-        "signature": "865da3267c2f750af383612d41485436ed8fdd8d2e5a32f4be50a0b9db31c008"
+        "signature": "cba650b7c695890d2df245caf9e6dd2cace24c67db1cb545a27127debebec1e3"
       },
       "#8VVCGLYL8": {
         "signature": "0d5aa909dbfbf3c79ea3a5edf83304f6b6fa78a2059958278cc82e47d42d97a5"
       },
       "#92LQ8Q9CU": {
-        "signature": "6822fc1a8016b874b4589920c6e8963436c97858f7c4fed7df1e6279ee394759"
+        "signature": "ecc5e85941ffd07b3781411483463508b52fc3dc1908b6286074879c2581203a"
       },
       "#92QGVP2CU": {
         "signature": "__no_battles_at_signup__"
@@ -4862,7 +4868,7 @@
         "signature": "84dced761a41d726743ee9c495bf792cc1e01c2fc1b9ae974637c60bff9a3ad8"
       },
       "#8JQ0JGPQ": {
-        "signature": "056290b61dc73b28f507071751d66501db974abab1ab94894510e5a3072a1e58"
+        "signature": "b954c3d4e8ebf769aa0c0d3d2d0b1223c9f1b7097b1ff2c0f05cda413c8a7362"
       },
       "#8JU8YGJJY": {
         "signature": "2fb8110f105076b86e735a078c998d442348402e7e857322368a0f0c69140699"
@@ -4952,13 +4958,13 @@
         "signature": "9a08fa4f3c02bebe250e325168e6c97b0d91c5083a87db4f72b0f6df97364419"
       },
       "#RQ2CGRVY": {
-        "signature": "84c08136e300ae7617a04289ee541c6987591dd8fab0613dcb7f4266cc751601"
+        "signature": "3fc043528a1d29fe0c3ea2790c6aeda9630c161361dad0ca5994fb6110fffd2d"
       },
       "#U80R2VLL": {
         "signature": "1e68efb81cd0d4da15dd71bbf67e6684ce534e0bfe1da718d80ecc6c504c71a6"
       },
       "#Y2GGYPC8J": {
-        "signature": "7b1f89b7e0771818de27cffa35266cf387b0b2da04dea23eb18e41d5a6d14190"
+        "signature": "56c5222bcbc1355d168ac95c2d11fcfaaf58933b2b60517fe3296889008cbe12"
       },
       "#YG9LLQ8L": {
         "signature": "2fe9fc65623a0b60ba2169379dacf5ef0bf6a4ef1d8f7badc249cd716ec06906"
@@ -4992,10 +4998,10 @@
         "signature": "9a6d8fdc75b93b9f41acf84c361188130e95c88d02b575f7e41acc74f4fc0412"
       },
       "#2YJCU9PCV": {
-        "signature": "92b83273428527ee7afe06f17a0e8725636a9ae78b563bb1c7e094e5afe6d42d"
+        "signature": "f510e717f7deb39398aec7fc873379b8621e6b88c64d3d6c2f02a0b9b82212a8"
       },
       "#8092QJQCG": {
-        "signature": "80a882e7dcfdb85497cd2b4ac94a57bc860b8e858dbec534851a575e43d498cf"
+        "signature": "9e4911193d38a8608789831c9c7446e7662a31154eb89092afd632e1aac4f438"
       },
       "#8CRQ09PP2": {
         "signature": "6d32ad732cf2c9668e315808580844bfa930b7793b81f2602177b6f4f456d86d"
@@ -5134,7 +5140,7 @@
         "signature": "46df82a3ef00199047028843683ee3aa4b7ac9d460409814d6bda9fef649ab85"
       },
       "#2CJRY0CQV": {
-        "signature": "ae2097fdb42b37a9527bdb763a654391da2678220c861f2696d8031fc36263dd"
+        "signature": "e62f71b7d74369e17b1b0b35483f13a3b913e75ba7d1618f439228188ef2c863"
       },
       "#2CVVR0U90": {
         "signature": "154084f107634794e950f52ec0b58703e76b34371dca21f5762d9067a1703b4b"
@@ -5306,7 +5312,7 @@
         "signature": "b5d3aeb340ade9b0a7fd12a9bd4d09fb94ffdee9240021b3d56b1b1f711ce57b"
       },
       "#LVJ0GYJ0": {
-        "signature": "a661ee283428530c7b1dd4abffc03e7fbe764d66ec97f897b9a4cc54995d713c"
+        "signature": "6e9eb08802e2d86e453d9f80009a024e702d61a617272f0dab113bec9bc1df0b"
       },
       "#P0G0YVRG": {
         "signature": "c67d5ea334c1834b18baed153c9f57303f3d7bb3b1c4870ecebf8362c4f37c64"
@@ -5494,7 +5500,7 @@
         "signature": "e1361499fa3724ef0235a565b6acc952440a9a1686bcbe6cc8ab436d22218216"
       },
       "#LQLQPGP2C": {
-        "signature": "a9304ed0329dfc2afc462111855751496043502630dc5dbcc42c1e9ebcab3526"
+        "signature": "bf7b6831024985deca8b6475f4765564ad0bd2e5fddd0c44e592fa82faf7292a"
       },
       "#LVC9LCJYY": {
         "signature": "e91c4dff448442d29ae650867036c3b1de7faef1f8081c4a10445f92a3aa4b91"
@@ -5735,7 +5741,7 @@
         "signature": "bd9c5df2dbc2b9343cdb4848f87523450b33a34ee922e37b93efc76a6e4ad849"
       },
       "#2LYUVLLUU": {
-        "signature": "624038885eba244094f8e8d310199a6ddb75a4fcf4325a13e1d47a60d1e29db2"
+        "signature": "0ae52e689921c8244960cfc145e8a6beb23e57f00fbc0c44cfba5b33a419bd79"
       },
       "#2PQQ0UGR0": {
         "signature": "0028f7f54758d569fb3bc5f31ff27aad93299e4532f3535a206a98767b9632be"
@@ -5754,9 +5760,6 @@
       },
       "#88L9G2Y8G": {
         "signature": "2d9af6c2a22d4c7cd12477171ecbe5c71f4e15b22c57cb01d77b98db28b1d865"
-      },
-      "#8GVYQ9QGJ": {
-        "signature": "8d2b168fd59b727272fb93af88bf2e554e420526c318563e39b5a3d794482f52"
       },
       "#8JL8V8GV0": {
         "signature": "a157607b800194a1b10bdc833a8ebe0c54b3859082573e75d56b72d3b92b152e"
@@ -5855,7 +5858,7 @@
         "signature": "77826f99362210e025f88fafb31257bfa2eff9a4b11c0d598938bfe33dd04d14"
       },
       "#YV9PYY8C": {
-        "signature": "839099582beee9de6234cbf54eb5ae28f2a4700555c418265d612d1328c549fa"
+        "signature": "1a82eb3a92b689eb215a142ce94ea823998fd94eaa362db3eff1329b0bda3123"
       },
       "#YVRLRUJYJ": {
         "signature": "ee11da02ef01d45c95ffe1f50a426b9171833d5bd905c1a8d351f9aad57ae8d0"
@@ -6074,9 +6077,6 @@
       "#9Q28U9URP": {
         "signature": "59afd7f706f7c548b39ae9dff65e04a0ea9e57302c77d0c04cd7fe5ad5e63ab8"
       },
-      "#9VQ92Q9VC": {
-        "signature": "7b305ef3499873601b77eca8b271b97d0639d79d051ad0068b1030d0c516e398"
-      },
       "#G2VYJ8G0P": {
         "signature": "2732ed91007a708164b0ba0d34444693c93a8bab5206e4d2598df01e1ada22bc"
       },
@@ -6232,7 +6232,7 @@
         "signature": "f3de9b104302b74cd9f45ffeeb48d774d7a65b606b5ce07c5d47dcafb40302e8"
       },
       "#LGCJYVLLV": {
-        "signature": "962892f223f843a9a00c7134d42753684443549cbf0db2a6497ac967c4c70665"
+        "signature": "370b61c6fd3bc2068ddf78c47dd738b71fc83650a7c26ba3e477735f730d0166"
       },
       "#LPVPLVQU": {
         "signature": "3e07d7645d6d21bbfe1668ab8a443b0e6e3ee85e005d6aaa86550f471d93e10d"
@@ -6274,7 +6274,7 @@
         "signature": "e5db15c3022f51ec862f28f092b613df8ae46fbf21489d402688493f9b93254d"
       },
       "#VP2JLUR9": {
-        "signature": "2c8518740739ee3bc747c1ee7fc7bf1f7ba052fa2331e3ce7b0622fa5e160689"
+        "signature": "06f8253cc0f0c76d7aa8a880b7abb0affa2ca8689785e27227ac3af2611a7271"
       },
       "#Y9GQRCQJ": {
         "signature": "20a9d9241bc35d5ad159df76310c70690b3aca4ce50f3a8d72c019cfe45aaf94"
@@ -6490,6 +6490,9 @@
       },
       "#QCV89V9UJ": {
         "signature": "e4aed75ebd455935660a7307b84892618fe8d64133c3be10b5d94ac203f09c59"
+      },
+      "#QG9GPJJG0": {
+        "signature": "88cdebac09f91008cec2b3f886b038b26c5fb2c04e4d29ffe9d8eb964b99061f"
       },
       "#QLU2QC0V": {
         "signature": "9625705657057121d7a4a8f4a42e89df0f9ab9de58e40e9fb4caf6fd60973915"
@@ -6744,7 +6747,7 @@
         "signature": "__no_battles_at_signup__"
       },
       "#Y8PJ0GVU": {
-        "signature": "4e0c413abf076f381c2a91e6e20c8e1c54388d2b8bd768b917260f1c59909bf4"
+        "signature": "7f52d350f4001405da0741fa42db9312ec017644476e25aa01319584ff74311a"
       },
       "#Y8UVCGJJU": {
         "signature": "9d83697d6ce49b4cae022cf02f206fd490e1f65f9acdcb380d14de40b02828f0"
@@ -6793,7 +6796,7 @@
         "signature": "0f27036d56da046d6aa0daae48e119920e2bf85ea07489d38a61e78d4374a80f"
       },
       "#982JGJ99U": {
-        "signature": "3db40b96cbff57f2cb8e3d83458d885342c7a5ad131b0873fc31aa7adf60e9a6"
+        "signature": "df24b2f55cb86903c8f805128f88c02b4ed8b58a73aca6255322376f12f9015b"
       },
       "#9PRC0YL9J": {
         "signature": "b1c4526f83344c48cf5405c0142f12586bef9852dcc5ea40990e836568393739"
@@ -7311,7 +7314,7 @@
         "signature": "afd0f2cd6e09d6ad72c8988cd74b354a1eb4d2351d195cea8e4e041795472dbc"
       },
       "#8QG8LV8Q": {
-        "signature": "3c8a5311984a7919378d3afc2aab1dd185d0bcc0067f4992619f38af82f595fe"
+        "signature": "153b614b1a2e99099556cd3ac291389485343eb42d57dd485c993cfd07220d8f"
       },
       "#8RJCPPLU2": {
         "signature": "d22fab7b896e5c349b6e34b58bb30d7822813a99e8bbb340db25f7e310d1d3af"
@@ -7544,7 +7547,7 @@
         "signature": "402a0477e9721d930e4a970ce3b8ec77faeb7f9ebdef42b9723a2b1497c4f778"
       },
       "#2J8Y2QJQU": {
-        "signature": "280f0ae80da39c71e49958d666dfce64a773a041fcb6b1bddcec3d8a87e4bb8f"
+        "signature": "d86075f6903f0d6954ef10d6cdbc3ca8b64fb0f975c38b5aa88840d8c3eecf51"
       },
       "#2UULLLPYR": {
         "signature": "71e9ec95583c0ee8e55e0f90fa004a4630018274a0804514301d564bb3a692eb"
@@ -7665,7 +7668,7 @@
         "signature": "1c59c03aeb1e911b7f28571092154bf4254848501f7bb8337da0704c51785181"
       },
       "#G92JV2U29": {
-        "signature": "511e45907eb1d9d9dc2e8cce245828bfc264be64be46e681afc004bba3b1845b"
+        "signature": "f6f8a32e3bd2da138fc0cecaf749421a321f51e61f87ddc2b563d024bc846339"
       },
       "#GCU9L80P8": {
         "signature": "d60288568e55fc6d1a3ad9bd5d7d6c5d9811505419f1b5c37d91a729beadd4fb"
@@ -8183,7 +8186,7 @@
         "signature": "b5553f3815e3ce38613d73faad1337c644ef69d1c782fc0bf0f98ce53903569b"
       },
       "#90G2RRJVP": {
-        "signature": "2fce0328626699a44d1c6d6ba0ddbbf6c4e8ceb0c2490c9d585b062c5f76625f"
+        "signature": "9111a7bf7ff15b6c5aa54a71eba1c9eb0898bf420237892b20b08f44a368fe89"
       },
       "#90J9PJ0V": {
         "signature": "d40f48fd8f6cde3285326ad6a93c31d4df8c6d36660ce04ba2020d8882c0331c"
