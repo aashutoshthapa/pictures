@@ -1,0 +1,50 @@
+{
+    "1203239283196960788": {
+        "guild_id": "1203239283196960788",
+        "guild_name": "Sigma server",
+        "botname": "Nice Bot",
+        "has_custom_avatar": true,
+        "updated_at": 1790397103,
+        "updated_by": "564087230847778842"
+    },
+    "1462179924214415362": {
+        "guild_id": "1462179924214415362",
+        "guild_name": "Bandland",
+        "botname": "Bandland Legend Tracker",
+        "has_custom_avatar": true,
+        "updated_at": 1790398018,
+        "updated_by": "564087230847778842"
+    },
+    "1367183565108023458": {
+        "guild_id": "1367183565108023458",
+        "guild_name": "July",
+        "botname": "\u67d2 \u2022 Tracker",
+        "has_custom_avatar": true,
+        "updated_at": 1790400719,
+        "updated_by": "564087230847778842"
+    },
+    "1535049318443122883": {
+        "guild_id": "1535049318443122883",
+        "guild_name": "Divine Underground",
+        "botname": "UG Tracker",
+        "has_custom_avatar": true,
+        "updated_at": 1790414526,
+        "updated_by": "564087230847778842"
+    },
+    "1415061967642558465": {
+        "guild_id": "1415061967642558465",
+        "guild_name": "The Fallen",
+        "botname": "Tracknaline",
+        "has_custom_avatar": true,
+        "updated_at": 1790418260,
+        "updated_by": "564087230847778842"
+    },
+    "1120781285313490944": {
+        "guild_id": "1120781285313490944",
+        "guild_name": "\u2767  MADE IN FRANCE  \u2619",
+        "botname": "Legend Tracker",
+        "has_custom_avatar": true,
+        "updated_at": 1790437169,
+        "updated_by": "564087230847778842"
+    }
+}
