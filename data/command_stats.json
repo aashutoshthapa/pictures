@@ -1,9 +1,9 @@
 {
   "current_date": "2026-10-04",
-  "today_total": 49,
+  "today_total": 54,
   "today_counts": {
     "banlist": 3,
-    "legendday": 36,
+    "legendday": 41,
     "toplegend-stats": 1,
     "toplegend-today": 2,
     "legendclan": 4,
@@ -11,9 +11,9 @@
     "legendstats": 1,
     "legendlogs": 1
   },
-  "all_time_total": 2776,
+  "all_time_total": 2781,
   "all_time_counts": {
-    "legendday": 2007,
+    "legendday": 2012,
     "dev": 3,
     "lastranked": 21,
     "trackplayer": 2,
@@ -58,5 +58,5 @@
     "hourly list": 3,
     "basevote": 1
   },
-  "last_saved_at": 1791073129
+  "last_saved_at": 1791073249
 }
