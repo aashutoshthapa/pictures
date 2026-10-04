@@ -1,21 +1,22 @@
 {
   "current_date": "2026-10-04",
-  "today_total": 21,
+  "today_total": 28,
   "today_counts": {
     "banlist": 1,
-    "legendday": 14,
+    "legendday": 20,
     "toplegend-stats": 1,
     "toplegend-today": 2,
-    "legendclan": 3
+    "legendclan": 3,
+    "cwlarmycheck": 1
   },
-  "all_time_total": 2748,
+  "all_time_total": 2755,
   "all_time_counts": {
-    "legendday": 1985,
+    "legendday": 1991,
     "dev": 3,
     "lastranked": 21,
     "trackplayer": 2,
     "legendlogs": 96,
-    "cwlarmycheck": 30,
+    "cwlarmycheck": 31,
     "banlist": 202,
     "cwlhistory": 20,
     "warhistory": 4,
@@ -55,5 +56,5 @@
     "hourly list": 3,
     "basevote": 1
   },
-  "last_saved_at": 1791072289
+  "last_saved_at": 1791072409
 }
