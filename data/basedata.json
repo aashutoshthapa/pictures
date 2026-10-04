@@ -181455,11 +181455,15 @@
         "eod": "",
         "playertag": "",
         "vote": true,
-        "count": 1,
+        "count": 2,
         "users": {
             "1028708768906760225": {
                 "name": "noice7590",
                 "timestamp": 1790916233
+            },
+            "1447587526712885381": {
+                "name": "captainlevi.69",
+                "timestamp": 1791072376
             }
         },
         "guild_id": "1406019167236128839",
