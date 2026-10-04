@@ -1,13 +1,16 @@
 {
   "current_date": "2026-10-04",
-  "today_total": 2,
+  "today_total": 21,
   "today_counts": {
     "banlist": 1,
-    "legendday": 1
+    "legendday": 14,
+    "toplegend-stats": 1,
+    "toplegend-today": 2,
+    "legendclan": 3
   },
-  "all_time_total": 2729,
+  "all_time_total": 2748,
   "all_time_counts": {
-    "legendday": 1972,
+    "legendday": 1985,
     "dev": 3,
     "lastranked": 21,
     "trackplayer": 2,
@@ -17,7 +20,7 @@
     "cwlhistory": 20,
     "warhistory": 4,
     "army": 7,
-    "legendclan": 76,
+    "legendclan": 79,
     "legendhistory": 27,
     "dev status": 10,
     "legendstats": 35,
@@ -35,7 +38,7 @@
     "toplegend-local": 1,
     "toplegend-players": 4,
     "player": 11,
-    "toplegend-stats": 17,
+    "toplegend-stats": 18,
     "trackclan list": 2,
     "hourly add": 7,
     "hourly import": 2,
@@ -46,11 +49,11 @@
     "hourly channel": 3,
     "hourly delete": 1,
     "trackplayer remove": 1,
-    "toplegend-today": 8,
+    "toplegend-today": 10,
     "dev link": 1,
     "listarmychannels": 1,
     "hourly list": 3,
     "basevote": 1
   },
-  "last_saved_at": 1791072049
+  "last_saved_at": 1791072289
 }
