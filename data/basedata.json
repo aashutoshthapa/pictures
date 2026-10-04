@@ -187642,7 +187642,7 @@
         "eod": "",
         "playertag": "",
         "vote": false,
-        "count": 4,
+        "count": 5,
         "users": {
             "755057166326431824": {
                 "name": "tokutoku0325",
@@ -187659,6 +187659,10 @@
             "1149464548030566500": {
                 "name": "coltonspoppa1",
                 "timestamp": 1791058180
+            },
+            "524571846591512617": {
+                "name": "akatsuki.adm",
+                "timestamp": 1791075762
             }
         },
         "guild_id": "1405994638510260297",
