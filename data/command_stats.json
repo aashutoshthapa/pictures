@@ -1,17 +1,17 @@
 {
   "current_date": "2026-10-04",
-  "today_total": 32,
+  "today_total": 33,
   "today_counts": {
     "banlist": 2,
-    "legendday": 22,
+    "legendday": 23,
     "toplegend-stats": 1,
     "toplegend-today": 2,
     "legendclan": 4,
     "cwlarmycheck": 1
   },
-  "all_time_total": 2759,
+  "all_time_total": 2760,
   "all_time_counts": {
-    "legendday": 1993,
+    "legendday": 1994,
     "dev": 3,
     "lastranked": 21,
     "trackplayer": 2,
@@ -56,5 +56,5 @@
     "hourly list": 3,
     "basevote": 1
   },
-  "last_saved_at": 1791072529
+  "last_saved_at": 1791072649
 }
