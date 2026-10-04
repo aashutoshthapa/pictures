@@ -68847,7 +68847,7 @@
         "eod": "",
         "playertag": "",
         "vote": false,
-        "count": 248,
+        "count": 249,
         "users": {
             "1435645066537599068": {
                 "name": "tusu_legend",
@@ -69840,6 +69840,10 @@
             "532802053869928448": {
                 "name": "noxiousdagod5453",
                 "timestamp": 1791061077
+            },
+            "816987344841474058": {
+                "name": "the_unknown987",
+                "timestamp": 1791077890
             }
         },
         "guild_id": "1397550590946443364",
